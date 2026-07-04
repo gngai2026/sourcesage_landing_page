@@ -7,6 +7,7 @@ meta_description: "Panduan kepala silinder Perkins 1104 untuk bengkel Malaysia. 
 meta_keywords: ["kepala silinder perkins 1104 malaysia", "perkins 1104c-44 gasket kepala", "alat ganti enjin perkins 1104", "perkins kepala silinder retak malaysia"]
 content_angle: "Model-specific part guide — high purchase intent"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga Perkins 1104"
 whatsapp_prefill: "Hi, saya perlukan kepala silinder Perkins 1104. Model enjin: ___ Jentera: ___"

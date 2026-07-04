@@ -7,6 +7,7 @@ meta_description: "Cara menggunakan nombor siri Kubota anda untuk mencari alat g
 meta_keywords: ["carian alat ganti nombor siri traktor kubota", "kenal pasti model kubota nombor siri", "alat ganti kubota mengikut nombor siri malaysia"]
 content_angle: "How-to / Problem-solving — captures owners who've already lost the model plate"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Hantar Nombor Siri Anda di WhatsApp"
 whatsapp_prefill: "Hi, saya ada traktor Kubota lama. Nombor siri: [X]. Nombor enjin: [X]. Saya perlukan bantuan mengenal pasti model dan mendapatkan alat ganti."

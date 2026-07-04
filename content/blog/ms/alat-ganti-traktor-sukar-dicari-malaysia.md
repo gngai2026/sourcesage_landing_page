@@ -7,6 +7,7 @@ meta_description: "Alat ganti traktor sukar dicari Malaysia — kami sumber alat
 meta_keywords: ["alat ganti traktor sukar dicari malaysia", "alat ganti traktor dihentikan malaysia", "pembekal alat ganti traktor vintaj malaysia", "alat ganti traktor jarang malaysia", "alat ganti traktor usang malaysia"]
 content_angle: "Problem/solution — captures owners stuck with discontinued or unavailable parts"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Hubungi Kami di WhatsApp"
 whatsapp_prefill: "Hi, saya cuba mencari alat ganti traktor yang sukar diperoleh. Jenama: [X] Model: [X] Alat ganti diperlukan: [X]"

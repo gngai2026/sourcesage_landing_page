@@ -7,6 +7,7 @@ meta_description: "马来西亚麦赛福格森拖拉机配件 — MF240 至 MF39
 meta_keywords: ["麦赛福格森拖拉机配件马来西亚", "MF240 配件马来西亚", "MF350 备件", "珀金斯发动机配件马来西亚", "麦赛福格森备件供应商"]
 content_angle: "Model-specific sourcing guide — captures MF owners who are struggling to find parts outside Kubota-dominated dealer networks"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 咨询麦赛福格森配件"
 whatsapp_prefill: "你好，我需要我的麦赛福格森拖拉机配件。型号：[X] 发动机：[X] 问题：[X]"

@@ -7,6 +7,7 @@ meta_description: "Bagaimana SourceSage mendapatkan alat ganti traktor Kubota vi
 meta_keywords: ["alat ganti kubota vintaj malaysia", "alat ganti kubota sukar dicari", "pembekal alat ganti traktor kubota malaysia"]
 content_angle: "Authority / 'How we do it' — builds trust and brand differentiation"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Hantarkan Foto di WhatsApp"
 whatsapp_prefill: "Hi, saya ada Kubota lama dan perlukan bantuan mendapatkan alat ganti. Ini foto:"

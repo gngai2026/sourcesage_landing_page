@@ -31,6 +31,7 @@
     <xhtml:link rel="alternate" hreflang="zh" href="https://sourcesage.ai/zh/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://sourcesage.ai/"/>
   </url>
+  <!-- Brand landing pages -->
   <url>
     <loc>https://sourcesage.ai/kubota-tractor-parts-malaysia/</loc>
     <lastmod>2026-04-27</lastmod>
@@ -67,23 +68,86 @@
     <changefreq>monthly</changefreq>
     <priority>0.85</priority>
   </url>
+  <!-- MS brand pages -->
+  <url>
+    <loc>https://sourcesage.ai/ms/kubota-tractor-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/massey-ferguson-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/john-deere-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/zoomlion-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/perkins-engine-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/yanmar-marine-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- ZH brand pages -->
+  <url>
+    <loc>https://sourcesage.ai/zh/kubota-tractor-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/massey-ferguson-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/john-deere-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/zoomlion-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/perkins-engine-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/yanmar-marine-parts-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Static service & info pages -->
   <url>
     <loc>https://sourcesage.ai/about/</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/blog/</loc>
-    <lastmod>2026-05-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/services/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://sourcesage.ai/ms/about/</loc>
@@ -98,6 +162,118 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://sourcesage.ai/services/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/services/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/services/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/how-it-works/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/contact/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/case-studies/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Location pages -->
+  <url>
+    <loc>https://sourcesage.ai/tractor-parts-perak-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/tractor-parts-sabah-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/tractor-parts-sarawak-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Model-specific parts pages -->
+  <url>
+    <loc>https://sourcesage.ai/kubota-v1505-parts/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/perkins-1104-parts/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Parts catalogue & individual part pages -->
+  <url>
+    <loc>https://sourcesage.ai/parts/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/parts/kubota-1g772-03310/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/parts/yanmar-129004-18010/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/parts/perkins-4115p502/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/parts/john-deere-re525561/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/parts/kubota-1a021-12340/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- Blog listing pages -->
+  <url>
+    <loc>https://sourcesage.ai/blog/</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://sourcesage.ai/ms/blog/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -109,53 +285,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- EN blog posts -->
   <url>
-    <loc>https://sourcesage.ai/ms/kubota-tractor-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
+    <loc>https://sourcesage.ai/blog/hard-to-find-tractor-parts-malaysia/</loc>
+    <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/zh/kubota-tractor-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/ms/massey-ferguson-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/zh/massey-ferguson-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/ms/john-deere-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/zh/john-deere-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/ms/zoomlion-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://sourcesage.ai/zh/zoomlion-parts-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://sourcesage.ai/blog/how-to-identify-your-kubota-tractor-model/</loc>
@@ -242,17 +377,12 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://sourcesage.ai/tractor-parts-perak-malaysia/</loc>
-    <lastmod>2026-05-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://sourcesage.ai/blog/perkins-1104-cylinder-head-malaysia/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  <!-- MS blog posts -->
   <url>
     <loc>https://sourcesage.ai/ms/blog/alat-ganti-traktor-kecemasan-malaysia/</loc>
     <lastmod>2026-05-02</lastmod>
@@ -272,6 +402,79 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://sourcesage.ai/ms/blog/cara-kami-dapatkan-alat-ganti-kubota-vintaj-di-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/carian-alat-ganti-nombor-siri-kubota-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-massey-ferguson-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-enjin-kubota-v1505-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-kubota-l3408-l3608-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-enjin-marin-yanmar-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/masalah-biasa-kubota-l4400-alat-ganti-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/kod-enjin-kubota-jenama-lain-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-john-deere-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-enjin-yanmar-3tnv88-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/alat-ganti-kubota-m9000-m9540-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/ms/blog/kepala-silinder-perkins-1104-malaysia/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- ZH blog posts -->
+  <url>
     <loc>https://sourcesage.ai/zh/blog/jinji-tuolaji-lingjian-malaixiya/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
@@ -279,6 +482,84 @@
   </url>
   <url>
     <loc>https://sourcesage.ai/zh/blog/nanzhao-tuolaji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jianding-kubota-tuolaji-xinghao/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/women-ruhe-caigou-jiubaotian-lingjian/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-xuhao-chaxun-lingjian/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/maisaifugesen-tuolaji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-v1505-fadongji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-l3408-l3608-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/yangma-chuanyong-fadongji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-l4400-changjian-wenti-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-fadongji-daima-qita-pinpai-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/yuehandier-tuolaji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/yangma-3tnv88-fadongji-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/jiubaotian-m9000-m9540-lingjian-malaixiya/</loc>
+    <lastmod>2026-05-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://sourcesage.ai/zh/blog/pokinsi-1104-qigang-gai-malaixiya/</loc>
     <lastmod>2026-05-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

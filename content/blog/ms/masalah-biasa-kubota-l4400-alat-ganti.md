@@ -7,6 +7,7 @@ meta_description: "Masalah biasa Kubota L4400 dan cara membetulkannya. Cari alat
 meta_keywords: ["alat ganti kubota l4400 malaysia", "masalah kubota l4400", "senarai alat ganti kubota l4400"]
 content_angle: "Problem/solution — captures owners actively experiencing issues"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Tanya Kami tentang Alat Ganti L4400"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk Kubota L4400 saya. Varian: [DT/DV], Tahun: [X], Masalah: [X]"

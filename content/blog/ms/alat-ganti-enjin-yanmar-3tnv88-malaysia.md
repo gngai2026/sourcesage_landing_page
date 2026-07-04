@@ -7,6 +7,7 @@ meta_description: "Mendapatkan alat ganti enjin Yanmar 3TNV88 di Malaysia — ki
 meta_keywords: ["alat ganti yanmar 3tnv88 malaysia", "kit baik pulih 3tnv88 malaysia", "penyuntik yanmar 3tnv88", "alat ganti 3tnv88", "alat ganti enjin jengkaut mini yanmar malaysia"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga Alat Ganti 3TNV88"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin Yanmar 3TNV88 saya. Mesin: [X] Alat ganti diperlukan: [X]"

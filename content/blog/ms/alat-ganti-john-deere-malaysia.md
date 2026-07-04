@@ -7,6 +7,7 @@ meta_description: "Mendapatkan alat ganti traktor John Deere di Malaysia — sir
 meta_keywords: ["alat ganti traktor john deere malaysia", "alat ganti john deere 5075e malaysia", "alat ganti john deere 5310", "alat ganti jd malaysia", "alat ganti john deere 6j malaysia"]
 content_angle: "Model-specific sourcing guide — captures JD owners who struggle outside the dealer network"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga Alat Ganti John Deere"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk traktor John Deere saya. Model: [X], Nombor siri enjin: [X], Alat ganti diperlukan: [X]"

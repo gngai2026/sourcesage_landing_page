@@ -7,6 +7,7 @@ meta_description: "Panduan lengkap untuk mendapatkan alat ganti enjin Kubota V15
 meta_keywords: ["alat ganti enjin kubota v1505 malaysia", "kit baik pulih v1505 malaysia", "harga penyuntik kubota v1505 malaysia", "kepala silinder kubota v1505", "alat ganti v1505"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga Alat Ganti V1505"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin Kubota V1505 saya. Model mesin: [X] Alat ganti diperlukan: [X]"

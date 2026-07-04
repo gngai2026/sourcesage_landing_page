@@ -7,6 +7,7 @@ meta_description: "Complete guide to sourcing Kubota V1505 engine parts in Malay
 meta_keywords: ["kubota v1505 engine parts malaysia", "v1505 overhaul kit malaysia", "kubota v1505 injector price malaysia", "kubota v1505 cylinder head", "v1505 spare parts"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-03-05"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Get a V1505 Parts Quote"
 whatsapp_prefill: "Hi, I need parts for my Kubota V1505 engine. Machine model: [X] Part needed: [X]"

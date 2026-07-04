@@ -7,6 +7,7 @@ meta_description: "Alat ganti traktor Massey Ferguson Malaysia — MF240 hingga 
 meta_keywords: ["alat ganti traktor massey ferguson malaysia", "alat ganti mf240 malaysia", "alat ganti mf350", "alat ganti enjin perkins malaysia", "pembekal alat ganti massey ferguson"]
 content_angle: "Model-specific sourcing guide — captures MF owners who are struggling to find parts outside Kubota-dominated dealer networks"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Tanya tentang Alat Ganti Massey Ferguson"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk traktor Massey Ferguson saya. Model: [X], Enjin: [X], Masalah: [X]"

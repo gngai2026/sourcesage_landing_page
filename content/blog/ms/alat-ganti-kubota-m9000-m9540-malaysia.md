@@ -7,6 +7,7 @@ meta_description: "Alat ganti traktor Kubota M9000 dan M9540 di Malaysia. Enjin 
 meta_keywords: ["alat ganti kubota m9000 malaysia", "kubota m9540 alat ganti", "v3800 enjin alat ganti malaysia", "kubota m9000 transmisi"]
 content_angle: "Model-specific parts guide — high purchase intent"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga M9000/M9540"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk Kubota M9000/M9540. Bahagian: ___"

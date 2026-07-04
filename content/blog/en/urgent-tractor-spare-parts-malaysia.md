@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["urgent spare parts tractor malaysia", "emergency tractor parts malaysia", "fast tractor spare parts delivery malaysia", "urgent kubota tractor parts", "tractor breakdown parts malaysia"]
 content_angle: "Problem/solution — captures urgent breakdown intent"
 publish_date: "2026-05-01"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Get a Parts Quote on WhatsApp"
 whatsapp_prefill: "Hi, I need an urgent tractor spare part. Brand: [X] Model: [X] Part needed: [X] It's an emergency."

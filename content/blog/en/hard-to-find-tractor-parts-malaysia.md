@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["hard to find tractor parts malaysia", "discontinued tractor parts malaysia", "vintage tractor parts supplier malaysia", "rare tractor spare parts malaysia", "obsolete tractor parts malaysia"]
 content_angle: "Problem/solution — captures owners stuck with discontinued or unavailable parts"
 publish_date: "2026-05-01"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Chat With Us on WhatsApp"
 whatsapp_prefill: "Hi, I'm trying to find a hard-to-get tractor part. Brand: [X] Model: [X] Part needed: [X]"

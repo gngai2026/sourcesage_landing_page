@@ -7,6 +7,7 @@ meta_description: "Cara mengenal pasti model traktor Kubota anda di Malaysia. Se
 meta_keywords: ["kenal pasti model traktor kubota malaysia", "nombor siri kubota alat ganti", "cara cari nombor model traktor kubota"]
 content_angle: "Informational how-to / problem-solving"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Hubungi Kami di WhatsApp"
 whatsapp_prefill: "Hi, saya perlukan bantuan mengenal pasti model traktor Kubota saya dan mencari alat ganti."

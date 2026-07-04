@@ -2,9 +2,16 @@
 set -e
 
 SLUG="${1:?Usage: bash scripts/new-post.sh your-post-slug}"
-CONTENT_DIR="content/blog"
-TEMPLATE="$CONTENT_DIR/_template.md"
+LANG="${2:-en}"
+CONTENT_DIR="content/blog/$LANG"
+TEMPLATE="$CONTENT_DIR/../_template.md"
 TARGET="$CONTENT_DIR/$SLUG.md"
+
+if [ ! -d "$CONTENT_DIR" ]; then
+  echo "Error: Language directory '$CONTENT_DIR' does not exist." >&2
+  echo "Valid: en, ms, zh" >&2
+  exit 1
+fi
 
 if [ -f "$TARGET" ]; then
   echo "Error: $TARGET already exists." >&2

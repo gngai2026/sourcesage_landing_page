@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["john deere tractor parts malaysia", "john deere 5075e parts malaysia", "john deere 5310 spare parts", "jd parts malaysia", "john deere 6j parts malaysia"]
 content_angle: "Model-specific sourcing guide — captures JD owners who struggle outside the dealer network"
 publish_date: "2026-04-18"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Ask About John Deere Parts"
 whatsapp_prefill: "Hi, I need parts for my John Deere tractor. Model: [X], Engine serial: [X], Part needed: [X]"

@@ -7,6 +7,7 @@ meta_description: "Panduan perolehan alat ganti enjin marin Yanmar untuk Malaysi
 meta_keywords: ["alat ganti enjin marin yanmar malaysia", "alat ganti yanmar 3jh 4jh", "alat ganti diesel marin yanmar", "pembekal enjin marin yanmar malaysia"]
 content_angle: "Model-specific sourcing guide — captures coastal fishing boat operators and marine workshops"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Tanya tentang Alat Ganti Marin Yanmar"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin marin Yanmar saya. Model: [X], Siri: [X], Masalah: [X]"

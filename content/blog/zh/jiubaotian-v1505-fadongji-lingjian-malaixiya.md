@@ -7,6 +7,7 @@ meta_description: "在马来西亚采购久保田 V1505 发动机配件的完整
 meta_keywords: ["久保田 V1505 发动机配件马来西亚", "V1505 大修套件马来西亚", "久保田 V1505 喷油器价格马来西亚", "久保田 V1505 缸盖", "V1505 备件"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 获取 V1505 配件报价"
 whatsapp_prefill: "你好，我需要我的久保田 V1505 发动机配件。机器型号：[X] 所需零件：[X]"

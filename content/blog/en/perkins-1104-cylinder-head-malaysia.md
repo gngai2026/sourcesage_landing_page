@@ -7,6 +7,7 @@ meta_description: "Perkins 1104 cylinder head guide for Malaysian workshops. Sym
 meta_keywords: ["perkins 1104 cylinder head malaysia", "perkins 1104c-44 head gasket", "perkins 1104 engine parts", "perkins cylinder head crack repair malaysia", "perkins 1104 overhaul kit"]
 content_angle: "Model-specific part guide — high purchase intent, technical deep-dive"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Get a Perkins 1104 Quote"
 whatsapp_prefill: "Hi, I need a Perkins 1104 cylinder head or related parts. Engine model: ___ Machine: ___"

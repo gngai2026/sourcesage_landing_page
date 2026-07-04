@@ -7,6 +7,7 @@ meta_description: "常见久保田 L4400 问题及解决方法。在马来西亚
 meta_keywords: ["久保田 L4400 配件马来西亚", "久保田 L4400 问题", "久保田 L4400 备件清单"]
 content_angle: "Problem/solution — captures owners actively experiencing issues"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 咨询 L4400 配件"
 whatsapp_prefill: "你好，我需要我的久保田 L4400 配件。变体：[DT/DV] 年份：[X] 问题：[X]"

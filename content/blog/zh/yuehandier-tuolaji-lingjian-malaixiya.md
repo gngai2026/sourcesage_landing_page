@@ -7,6 +7,7 @@ meta_description: "在马来西亚采购约翰迪尔拖拉机配件 — 5075E、
 meta_keywords: ["约翰迪尔拖拉机配件马来西亚", "约翰迪尔 5075e 配件马来西亚", "约翰迪尔 5310 备件", "JD 配件马来西亚", "约翰迪尔 6j 配件马来西亚"]
 content_angle: "Model-specific sourcing guide — captures JD owners who struggle outside the dealer network"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 咨询约翰迪尔配件"
 whatsapp_prefill: "你好，我需要我的约翰迪尔拖拉机配件。型号：[X] 发动机序列号：[X] 所需零件：[X]"

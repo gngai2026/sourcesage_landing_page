@@ -7,6 +7,7 @@ meta_description: "Alat ganti traktor Kubota L3408 dan L3608 di Malaysia. Gasket
 meta_keywords: ["alat ganti kubota l3408 malaysia", "alat ganti kubota l3608", "alat ganti l3408 l3608 serasi"]
 content_angle: "Technical model-specific deep-dive; niche but high-intent"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Alat Ganti L3408 / L3608 di WhatsApp"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk Kubota L3408 / L3608 saya. Varian: [2WD/4WD], Tahun: [X], Masalah: [X]"

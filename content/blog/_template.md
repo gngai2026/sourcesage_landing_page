@@ -10,7 +10,7 @@ publish_date: "2026-MM-DD"
 last_updated: "2026-MM-DD"
 draft: true
 whatsapp_label: "Chat With Us on WhatsApp"
-whatsapp_prefill: "Hi, I need help with [topic]."
+whatsapp_prefill: "Hi, I need help sourcing a spare part. Brand: [X] Model: [X] Part needed: [X]"
 hero_image: "blog-XX-hero-description.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 ---

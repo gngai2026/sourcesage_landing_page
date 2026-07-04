@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["vintage kubota parts malaysia", "hard to find kubota spare parts", "kubota tractor parts supplier malaysia"]
 content_angle: "Authority / 'How we do it' — builds trust and brand differentiation"
 publish_date: "2026-02-05"
+draft: false
 last_updated: "2026-02-05"
 whatsapp_label: "Send Us a Photo on WhatsApp"
 whatsapp_prefill: "Hi, I have an old Kubota and need help sourcing parts. Here's a photo:"

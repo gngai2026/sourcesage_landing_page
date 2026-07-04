@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["kubota engine other brands malaysia", "bobcat kubota engine parts malaysia", "takeuchi yanmar engine parts malaysia", "mini excavator engine parts malaysia", "oem engine cross reference malaysia"]
 content_angle: "Technical authority / cross-brand discovery — captures non-obvious parts searches from compact equipment operators"
 publish_date: "2026-04-15"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Find Parts by Engine Code"
 whatsapp_prefill: "Hi, I need parts for my machine. Brand: [X], Engine code: [X], Part needed: [X]"

@@ -7,6 +7,7 @@ meta_description: "Perlukan alat ganti traktor segera di Malaysia? SourceSage me
 meta_keywords: ["alat ganti traktor kecemasan malaysia", "alat ganti traktor segera malaysia", "penghantaran pantas alat ganti traktor malaysia", "alat ganti kubota kecemasan", "traktor rosak alat ganti malaysia"]
 content_angle: "Problem/solution — captures urgent breakdown intent"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Dapatkan Sebut Harga di WhatsApp"
 whatsapp_prefill: "Hi, saya perlukan alat ganti traktor segera. Jenama: [X] Model: [X] Alat ganti diperlukan: [X] Ini kecemasan."

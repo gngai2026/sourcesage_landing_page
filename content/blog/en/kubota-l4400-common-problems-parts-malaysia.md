@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["kubota l4400 parts malaysia", "kubota l4400 problems", "kubota l4400 spare parts list"]
 content_angle: "Problem/solution — captures owners actively experiencing issues"
 publish_date: "2026-04-08"
+draft: false
 last_updated: "2026-04-08"
 whatsapp_label: "Ask Us About L4400 Parts"
 whatsapp_prefill: "Hi, I need parts for my Kubota L4400. Variant: [DT/DV], Year: [X], Issue: [X]"

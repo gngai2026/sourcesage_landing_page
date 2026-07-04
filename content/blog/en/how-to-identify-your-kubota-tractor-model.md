@@ -7,6 +7,7 @@ author: "SourceSage Editorial"
 meta_keywords: ["kubota tractor model identification malaysia", "kubota serial number parts", "how to find kubota tractor model number"]
 content_angle: "Informational how-to / problem-solving"
 publish_date: "2026-01-15"
+draft: false
 last_updated: "2026-01-15"
 whatsapp_label: "Chat with Us on WhatsApp"
 whatsapp_prefill: "Hi, I need help identifying my Kubota tractor model and finding parts."

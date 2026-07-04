@@ -7,6 +7,7 @@ meta_description: "Enjin diesel Kubota dan Yanmar menggerakkan peralatan dari Bo
 meta_keywords: ["enjin kubota jenama lain malaysia", "alat ganti enjin kubota bobcat malaysia", "alat ganti enjin yanmar takeuchi malaysia", "alat ganti enjin jengkaut mini malaysia", "rujukan silang enjin oem malaysia"]
 content_angle: "Technical authority / cross-brand discovery — captures non-obvious parts searches from compact equipment operators"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "Cari Alat Ganti mengikut Kod Enjin"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk mesin saya. Jenama: [X], Kod enjin: [X], Alat ganti diperlukan: [X]"

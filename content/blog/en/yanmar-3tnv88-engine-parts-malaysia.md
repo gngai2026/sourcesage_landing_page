@@ -7,6 +7,7 @@ meta_description: "Sourcing Yanmar 3TNV88 engine parts in Malaysia — overhaul 
 meta_keywords: ["yanmar 3tnv88 parts malaysia", "3tnv88 overhaul kit malaysia", "yanmar 3tnv88 injector", "3tnv88 spare parts", "yanmar mini excavator engine parts malaysia"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-04-22"
+draft: false
 last_updated: "2026-05-01"
 whatsapp_label: "Get a 3TNV88 Parts Quote"
 whatsapp_prefill: "Hi, I need parts for my Yanmar 3TNV88 engine. Machine: [X] Part needed: [X]"

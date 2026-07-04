@@ -19,7 +19,15 @@ export async function generateMetadata({ params }) {
     description: post.meta.meta_description || post.meta.title,
     keywords: post.meta.meta_keywords,
     authors: post.meta.author ? [{ name: post.meta.author }] : [{ name: 'SourceSage Editorial' }],
-    alternates: { canonical: `/ms/blog/${post.meta.slug}/` },
+    alternates: {
+      canonical: `/ms/blog/${post.meta.slug}/`,
+      languages: {
+        'en': `https://sourcesage.ai/blog/${post.meta.slug}/`,
+        'ms': `https://sourcesage.ai/ms/blog/${post.meta.slug}/`,
+        'zh-Hans': `https://sourcesage.ai/zh/blog/${post.meta.slug}/`,
+        'x-default': `https://sourcesage.ai/blog/${post.meta.slug}/`,
+      }
+    },
     openGraph: {
       title: post.meta.title,
       description: post.meta.meta_description || post.meta.title,

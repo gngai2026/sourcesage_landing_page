@@ -7,6 +7,7 @@ meta_description: "在马来西亚采购洋马 3TNV88 发动机配件 — 大修
 meta_keywords: ["洋马 3TNV88 配件马来西亚", "3TNV88 大修套件马来西亚", "洋马 3TNV88 喷油器", "3TNV88 备件", "洋马迷你挖掘机发动机配件马来西亚"]
 content_angle: "Engine-code deep-dive — high purchase intent, low competition"
 publish_date: "2026-05-02"
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 获取 3TNV88 配件报价"
 whatsapp_prefill: "你好，我需要我的洋马 3TNV88 发动机配件。机器：[X] 所需零件：[X]"
