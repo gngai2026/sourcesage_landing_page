@@ -75,7 +75,11 @@ Understanding failure patterns helps narrow down the parts search quickly.
 
 ### 1. Injector Wear (High Hours)
 
-At 3,000–5,000 hours, injector nozzles wear and spray pattern degrades. Symptoms: black smoke, rough idle, power loss, increased fuel consumption. The V1505 uses Kubota's E-TVCS (Three Vortex Combustion System) indirect injection — injectors must be tested and cleaned or replaced as a set.
+At 3,000–5,000 hours, injector nozzles wear and spray pattern degrades. Symptoms: black smoke, rough idle, power loss, increased fuel consumption. The V1505 uses Kubota's E-TVCS (Three Vortex Combustion System) indirect injection[^1] — injectors must be tested and cleaned or replaced as a set.
+
+> **Note:** The newer V1505-CR-T common-rail variant is direct injection, but the V1505 units commonly found in Malaysian equipment are the standard E-TVCS indirect type.
+
+[^1]: Sources: [Kubota Engine Division — V1505-E3B](https://engine.kubota.com/products/detail?ln=en&id=33) (E-TVCS); [Kubota 05-series Workshop Manual](https://media.toro.com/servicemanuals/Kubota05-E4B.pdf) — "Combustion Chamber: Spherical type (E-TVCS)"
 
 ### 2. Head Gasket Failure
 
