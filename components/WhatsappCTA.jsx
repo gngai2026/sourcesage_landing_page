@@ -1,6 +1,6 @@
 'use client'
 
-const WA_NUMBER = '447546185317'
+const WA_NUMBER = '60125151323'
 const DEFAULT_MESSAGE = 'Hi, I need help sourcing a spare part. Brand: ___ Model: ___ Part needed: ___'
 const SIGNATURE = '\n\nPowered by SourceSage AI'
 
