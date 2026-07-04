@@ -13,6 +13,11 @@ whatsapp_label: "Tanya tentang Alat Ganti Marin Yanmar"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin marin Yanmar saya. Model: [X], Siri: [X], Masalah: [X]"
 hero_image: "blog-07-hero-yanmar-marine-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "Enjin marin Yanmar mana yang anda covers?"
+    a: "Kami covers series 1GM, 2GM, 3GM, 3JH, 4JH, dan 6LY — dari auxiliari bot layar kecil sehingga diesel komersial kuasa tinggi."
+  - q: "Boleh hantar alat ganti Yanmar ke Sabah dan Sarawak?"
+    a: "Ya — kami hantar ke seluruh Malaysia termasuk Sabah dan Sarawak melalui kurier berjejak atau air freight."
 ---
 <!-- 🖼️ IMAGE: HERO
 search: "yanmar marine diesel engine fishing boat malaysia coastal"

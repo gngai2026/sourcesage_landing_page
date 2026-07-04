@@ -13,6 +13,11 @@ whatsapp_label: "WhatsApp 咨询洋马船用配件"
 whatsapp_prefill: "你好，我需要我的洋马船用发动机配件。型号：[X] 序列号：[X] 问题：[X]"
 hero_image: "blog-07-hero-yanmar-marine-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "你们支持哪些洋马船用发动机？"
+    a: "我们支持所有常见洋马船用柴油机系列，包括 1GM、2GM、3GM、3JH、4JH 和 6LY。从小型帆船辅助动力到商用大功率柴油机。"
+  - q: "可以运送到东马（沙巴/砂拉越）吗？"
+    a: "是的，我们送货到全马来西亚，包括沙巴和砂拉越。提供可追踪快递或空运服务。"
 ---
 
 <!-- 🖼️ IMAGE: HERO

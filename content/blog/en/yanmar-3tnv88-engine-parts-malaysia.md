@@ -13,6 +13,13 @@ whatsapp_label: "Get a 3TNV88 Parts Quote"
 whatsapp_prefill: "Hi, I need parts for my Yanmar 3TNV88 engine. Machine: [X] Part needed: [X]"
 hero_image: "blog-10-hero-yanmar-3tnv88-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "What machines use the Yanmar 3TNV88 engine?"
+    a: "The 3TNV88 powers compact tractors, mini excavators, generators, and various industrial equipment. It's common in John Deere compact tractors and multiple Asian-brand machinery."
+  - q: "Can I get a 3TNV88 overhaul kit in Malaysia?"
+    a: "Yes — we supply complete overhaul kits including pistons, rings, liners, gaskets, and seals. Both OEM Yanmar and quality aftermarket options available."
+  - q: "What are common 3TNV88 injector issues?"
+    a: "Injector nozzle wear typically occurs at 3,000+ hours. Symptoms include black smoke, rough running, and increased fuel consumption. We supply OEM Denso injectors and compatible alternatives."
 ---
 
 <!-- 🖼️ IMAGE: HERO

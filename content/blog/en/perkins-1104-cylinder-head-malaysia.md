@@ -13,6 +13,13 @@ whatsapp_label: "Get a Perkins 1104 Quote"
 whatsapp_prefill: "Hi, I need a Perkins 1104 cylinder head or related parts. Engine model: ___ Machine: ___"
 hero_image: "blog-15-hero-perkins-1104-engine.jpg"
 related_page: "/perkins-engine-parts-malaysia"
+faqs:
+  - q: "What causes Perkins 1104 cylinder head failure?"
+    a: "Common causes include overheating (cracked head between valves), thermal shock from cold water entering a hot engine, and head gasket failure leading to warping. Symptoms include white smoke, coolant loss, and milky oil."
+  - q: "Should I replace with OEM or aftermarket?"
+    a: "Quality aftermarket cylinder heads are well-proven for the Perkins 1104 and cost 40-60% less than OEM. We can source both options and advise based on your application and budget."
+  - q: "How long does it take to get a Perkins 1104 cylinder head in Malaysia?"
+    a: "Typically 3-7 working days depending on stock availability. Air freight available for urgent breakdowns."
 ---
 
 <!-- 🖼️ IMAGE: HERO

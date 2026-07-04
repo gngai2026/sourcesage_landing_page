@@ -7,7 +7,7 @@ meta_description: "在马来西亚需要紧急拖拉机配件？SourceSage 24小
 meta_keywords: ["紧急拖拉机配件马来西亚", "拖拉机配件快速配送马来西亚", "久保田拖拉机紧急配件", "拖拉机故障配件马来西亚"]
 content_angle: "Problem/solution — captures urgent breakdown intent for Chinese-speaking SEA audience"
 publish_date: "2026-05-02"
-draft: false
+draft: true
 last_updated: "2026-05-02"
 whatsapp_label: "WhatsApp 获取报价"
 whatsapp_prefill: "你好，我需要紧急拖拉机配件。品牌：[X] 型号：[X] 所需零件：[X] 这是紧急情况。"

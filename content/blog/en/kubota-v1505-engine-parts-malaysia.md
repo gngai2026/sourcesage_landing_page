@@ -13,6 +13,15 @@ whatsapp_label: "Get a V1505 Parts Quote"
 whatsapp_prefill: "Hi, I need parts for my Kubota V1505 engine. Machine model: [X] Part needed: [X]"
 hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
+faqs:
+  - q: "What machines use the Kubota V1505 engine?"
+    a: "The V1505 powers Kubota L-series tractors (L3240, L3540, L4240), B-series (B3030, B3300), GL-series generators, and OEM equipment from Bobcat, Takeuchi, and Multiquip. It's one of Kubota's most widely deployed engines since the late 1990s."
+  - q: "What are common Kubota V1505 engine problems?"
+    a: "Common issues include injector nozzle wear at 3,000-5,000 hours, head gasket failure from overheating, water pump failure (a service-interval item), timing gear backlash in high-hour engines, and oil pump wear causing low oil pressure at idle."
+  - q: "Can you source a V1505 overhaul kit in Malaysia?"
+    a: "Yes — we supply both OEM and quality aftermarket overhaul kits including pistons, rings, liners, and full gasket sets. Most enquiries confirmed within 24 hours."
+  - q: "How do I identify my V1505 engine variant?"
+    a: "The engine serial number is stamped on the block near the fuel injection pump (format V1505-XXXXX). It determines whether you have a V1505-B or V1505-E variant and confirms the correct injector and pump specification."
 ---
 
 <!-- 🖼️ IMAGE: HERO

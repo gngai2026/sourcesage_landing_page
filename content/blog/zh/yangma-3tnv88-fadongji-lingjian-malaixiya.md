@@ -13,6 +13,11 @@ whatsapp_label: "WhatsApp 获取 3TNV88 配件报价"
 whatsapp_prefill: "你好，我需要我的洋马 3TNV88 发动机配件。机器：[X] 所需零件：[X]"
 hero_image: "blog-10-hero-yanmar-3tnv88-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "洋马 3TNV88 发动机的常见问题是什么？"
+    a: "常见问题包括 3,000+ 小时的喷油嘴磨损、缸垫失效和水泵磨损。我们提供 OEM 和高质量的售后配件。"
+  - q: "在马来西亚哪里可以找到 3TNV88 配件？"
+    a: "我们可以提供大修套件、喷油嘴、缸盖和水泵。大多数询价在 24-48 小时内确认。"
 ---
 
 <!-- 🖼️ IMAGE: HERO

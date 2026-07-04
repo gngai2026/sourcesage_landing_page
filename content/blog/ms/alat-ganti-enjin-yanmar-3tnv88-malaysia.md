@@ -13,6 +13,11 @@ whatsapp_label: "Dapatkan Sebut Harga Alat Ganti 3TNV88"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin Yanmar 3TNV88 saya. Mesin: [X] Alat ganti diperlukan: [X]"
 hero_image: "blog-10-hero-yanmar-3tnv88-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "Apakah masalah biasa enjin Yanmar 3TNV88?"
+    a: "Masalah biasa termasuk haus muncung injector pada 3,000+ jam, kegagalan head gasket, dan kehausan pam air. Kami boleh dapatkan alat ganti OEM dan aftermarket."
+  - q: "Berapa lama untuk dapatkan alat ganti 3TNV88?"
+    a: "Kebanyakan alat ganti disahkan dalam 24-48 jam. Penghantaran 3-10 hari bekerja."
 ---
 <!-- 🖼️ IMAGE: HERO
 filename: blog-10-hero-yanmar-3tnv88-engine.jpg

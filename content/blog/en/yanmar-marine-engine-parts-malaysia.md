@@ -13,6 +13,13 @@ whatsapp_label: "Ask About Yanmar Marine Parts"
 whatsapp_prefill: "Hi, I need parts for my Yanmar marine engine. Model: [X], Serial: [X], Issue: [X]"
 hero_image: "blog-07-hero-yanmar-marine-engine.jpg"
 related_page: "/yanmar-marine-parts-malaysia"
+faqs:
+  - q: "Which Yanmar marine engines do you cover?"
+    a: "We cover all common Yanmar marine diesel series including 1GM, 2GM, 3GM, 3JH, 4JH, and 6LY. From small sailboat auxiliaries to high-output commercial diesels."
+  - q: "Do you ship Yanmar marine parts to East Malaysia?"
+    a: "Yes — we deliver to Sabah and Sarawak including coastal and river communities. Tracked courier or air freight available."
+  - q: "How long does sourcing take for Yanmar marine parts?"
+    a: "Most parts confirmed within 24-48 hours. Delivery 3-10 working days depending on source location. Discontinued items may take longer via our Japan network."
 ---
 
 <!-- 🖼️ IMAGE: HERO

@@ -13,6 +13,11 @@ whatsapp_label: "Tanya tentang Alat Ganti Massey Ferguson"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk traktor Massey Ferguson saya. Model: [X], Enjin: [X], Masalah: [X]"
 hero_image: "blog-08-hero-massey-ferguson-malaysia.jpg"
 related_page: "/massey-ferguson-parts-malaysia"
+faqs:
+  - q: "Model Massey Ferguson mana yang anda support?"
+    a: "Kami support MF240, MF350, dan model MF lain yang biasa digunakan di ladang dan kebun Malaysia. Termasuk traktor MF berkuasa Perkins."
+  - q: "Adakah alat ganti MF boleh ditukar ganti dengan jenama lain?"
+    a: "Alat ganti enjin Perkins boleh cross-reference, tetapi transmisi, hidraulik, dan badan adalah khusus MF. Kami sahkan keserasian sebelum pesan."
 ---
 <!-- 🖼️ IMAGE: HERO
 search: "massey ferguson tractor malaysia farm orchard plantation"

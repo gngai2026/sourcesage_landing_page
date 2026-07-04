@@ -13,6 +13,11 @@ whatsapp_label: "Dapatkan Sebut Harga Alat Ganti V1505"
 whatsapp_prefill: "Hi, saya perlukan alat ganti untuk enjin Kubota V1505 saya. Model mesin: [X] Alat ganti diperlukan: [X]"
 hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
+faqs:
+  - q: "Apakah enjin Kubota V1505 digunakan pada mesin apa?"
+    a: "Enjin V1505 digunakan pada traktor Kubota L-series (L3240, L3540, L4240), generator GL-series, dan peralatan OEM dari Bobcat, Takeuchi, dan Multiquip."
+  - q: "Di mana saya boleh dapatkan kit baik pulih V1505 di Malaysia?"
+    a: "Kami membekalkan kit baik pulih OEM dan aftermarket berkualiti termasuk piston, cincin, liner, dan set gasket lengkap. Pengesahan dalam 24 jam."
 ---
 <!-- 🖼️ IMAGE: HERO
 filename: blog-09-hero-kubota-v1505-engine.jpg

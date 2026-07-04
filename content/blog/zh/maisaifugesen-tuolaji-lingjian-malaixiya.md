@@ -13,6 +13,11 @@ whatsapp_label: "WhatsApp 咨询麦赛福格森配件"
 whatsapp_prefill: "你好，我需要我的麦赛福格森拖拉机配件。型号：[X] 发动机：[X] 问题：[X]"
 hero_image: "blog-08-hero-massey-ferguson-malaysia.jpg"
 related_page: "/massey-ferguson-parts-malaysia"
+faqs:
+  - q: "你们支持哪些麦赛福格森型号？"
+    a: "我们支持 MF240、MF350 以及马来西亚农场常见的其他 MF 型号。也包括配备珀金斯发动机的 MF 拖拉机。"
+  - q: "麦赛福格森配件可以与其他品牌互换吗？"
+    a: "珀金斯发动机的配件可以交叉参考，但变速箱、液压系统和车身部件是 MF 专用的。我们会在订购前确认兼容性。"
 ---
 
 <!-- 🖼️ IMAGE: HERO

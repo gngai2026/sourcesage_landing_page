@@ -27,6 +27,13 @@ export default function RequestForm({ t }) {
     } catch {
       // Google Forms no-cors silently swallows errors — proceed to show success
     }
+    // GA4 form submission tracking
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', 'form_submit', {
+        event_category: 'engagement',
+        event_label: 'request_part_form',
+      })
+    }
     setSubmitted(true)
   }
 

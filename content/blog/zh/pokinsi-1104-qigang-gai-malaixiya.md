@@ -13,6 +13,11 @@ whatsapp_label: "WhatsApp 获取珀金斯 1104 报价"
 whatsapp_prefill: "你好，我需要珀金斯 1104 缸盖或相关配件。发动机型号：___ 机器：___"
 hero_image: "blog-15-hero-perkins-1104-engine.jpg"
 related_page: "/perkins-engine-parts-malaysia"
+faqs:
+  - q: "珀金斯 1104 缸盖故障的原因是什么？"
+    a: "常见原因包括过热（气门之间出现裂纹）、热水进入冷发动机导致的热冲击，以及缸垫失效导致翘曲。症状包括白烟、冷却液流失和机油乳化。"
+  - q: "应该选择 OEM 还是售后缸盖？"
+    a: "高质量的售后缸盖在珀金斯 1104 上表现良好，价格比 OEM 低 40-60%。我们可以根据您的应用和预算提供建议。"
 ---
 
 <!-- 🖼️ IMAGE: HERO

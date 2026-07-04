@@ -38,6 +38,9 @@ export default function RootLayout({ children }) {
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@400;700&display=swap"
           rel="stylesheet"
@@ -50,6 +53,33 @@ export default function RootLayout({ children }) {
             document.documentElement.lang=p.indexOf('/zh')===0?'zh-Hans':p.indexOf('/ms')===0?'ms':'en';
           })();
         `}</Script>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "LocalBusiness",
+              "name": "SourceSage.ai",
+              "description": "Malaysia-based parts sourcing specialist for agricultural tractors and marine diesel engines.",
+              "url": "https://sourcesage.ai/",
+              "telephone": "+60 12-515 1323",
+              "areaServed": "Malaysia",
+              "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Ipoh",
+                "addressRegion": "Perak",
+                "addressCountry": "MY"
+              },
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "telephone": "+60 12-515 1323",
+                "availableLanguage": ["English", "Malay", "Chinese"]
+              },
+              "sameAs": ["https://sourcesage.ai/"]
+            })
+          }}
+        />
         {children}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-WQ8FKH8GY6"

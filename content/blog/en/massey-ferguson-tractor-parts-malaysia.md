@@ -13,6 +13,13 @@ whatsapp_label: "Ask About Massey Ferguson Parts"
 whatsapp_prefill: "Hi, I need parts for my Massey Ferguson tractor. Model: [X], Engine: [X], Issue: [X]"
 hero_image: "blog-08-hero-massey-ferguson-malaysia.jpg"
 related_page: "/massey-ferguson-parts-malaysia"
+faqs:
+  - q: "Which Massey Ferguson models do you support?"
+    a: "We support MF240, MF350, and other MF models commonly found in Malaysian plantations and farms. We also cover Perkins-powered Massey Ferguson tractors."
+  - q: "Are Massey Ferguson parts interchangeable with other brands?"
+    a: "Many MF tractors use Perkins engines, so engine parts can cross-reference. However, transmission, hydraulics, and body parts are MF-specific. We can verify compatibility before ordering."
+  - q: "Do you supply both OEM and aftermarket MF parts?"
+    a: "Yes — we source both OEM and quality aftermarket options. Aftermarket is often more practical for older MF models where OEM parts are discontinued."
 ---
 
 <!-- 🖼️ IMAGE: HERO

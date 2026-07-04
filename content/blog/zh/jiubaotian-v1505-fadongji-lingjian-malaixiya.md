@@ -13,6 +13,11 @@ whatsapp_label: "WhatsApp 获取 V1505 配件报价"
 whatsapp_prefill: "你好，我需要我的久保田 V1505 发动机配件。机器型号：[X] 所需零件：[X]"
 hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
+faqs:
+  - q: "久保田 V1505 发动机用于哪些设备？"
+    a: "V1505 发动机用于久保田 L系列拖拉机（L3240、L3540、L4240）、B系列拖拉机、GL系列发电机，以及 Bobcat、Takeuchi 等OEM设备。"
+  - q: "在马来西亚哪里可以购买 V1505 大修套件？"
+    a: "我们可以提供 OEM 和高质量的售后大修套件，包括活塞、活塞环、缸套和全套垫片。大多数询价在24小时内确认。"
 ---
 
 <!-- 🖼️ IMAGE: HERO
