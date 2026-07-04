@@ -363,28 +363,6 @@ const PartsTypes = ({ t }) => (
   </section>
 )
 
-const SLA = ({ t }) => (
-  <section id="sla" className="py-24 bg-bg-alt border-y border-border">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center mb-12">
-        <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">{t.sla.label}</h2>
-        <h3 className="text-3xl font-bold text-slate-900">{t.sla.heading}</h3>
-      </div>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-4xl mx-auto">
-        {t.sla.items.map((item, i) => (
-          <div key={i} className="bg-white rounded-2xl p-8 border border-border text-center hover:shadow-md transition-all">
-            <div className="w-16 h-16 bg-accent/15 rounded-2xl flex items-center justify-center mx-auto mb-5">
-              {i === 0 ? <Clock className="w-8 h-8 text-accent" /> : i === 1 ? <AlertTriangle className="w-8 h-8 text-amber-500" /> : <ShieldCheck className="w-8 h-8 text-green-600" />}
-            </div>
-            <p className="text-lg font-bold text-slate-900 mb-2">{item.metric}</p>
-            <p className="text-sm text-slate-600 leading-relaxed">{item.body}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-)
-
 const Logistics = ({ t }) => (
   <section id="logistics" className="py-24 bg-bg">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -455,34 +433,8 @@ const TrustSection = ({ t }) => (
             ))}
           </ul>
         </div>
-        <div className="mt-12 lg:mt-0">
-          {t.trust.testimonial && (
-          <div className="bg-bg-alt rounded-2xl p-8 border border-border">
-            <div className="flex gap-1 mb-4">
-              {[...Array(5)].map((_, i) => (
-                <svg key={i} className="w-5 h-5 text-amber-400 fill-current" viewBox="0 0 20 20">
-                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
-                </svg>
-              ))}
-            </div>
-            <p className="text-slate-700 text-lg leading-relaxed italic mb-6">
-              {t.trust.testimonial}
-            </p>
-            <p className="text-sm font-bold text-muted uppercase tracking-widest">{t.trust.testimonialSource}</p>
-          </div>
-          )}
-        </div>
       </div>
-      {t.testimonial.quote && (
-      <blockquote className="max-w-3xl mx-auto mt-16 border-l-[3px] border-accent pl-6 md:pl-8">
-        <p className="text-xl md:text-2xl font-heading text-slate-900 italic leading-relaxed">
-          {t.testimonial.quote}
-        </p>
-        <cite className="block mt-4 text-sm text-muted not-italic font-medium">
-          {t.testimonial.cite}
-        </cite>
-      </blockquote>
-      )}
+
     </div>
   </section>
 )
@@ -738,7 +690,6 @@ export default function HomePageContent({ t, lang }) {
         <ScrollReveal><HowItWorks t={t} /></ScrollReveal>
         <ScrollReveal><PartsTypes t={t} /></ScrollReveal>
         <ScrollReveal><TrustSection t={t} /></ScrollReveal>
-        <ScrollReveal><SLA t={t} /></ScrollReveal>
         <ScrollReveal><Logistics t={t} /></ScrollReveal>
         <ScrollReveal><RecentParts t={t} /></ScrollReveal>
         <ScrollReveal><EastMalaysiaSection t={t} /></ScrollReveal>
