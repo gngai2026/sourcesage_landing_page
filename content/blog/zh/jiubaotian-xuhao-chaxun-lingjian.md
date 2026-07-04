@@ -107,7 +107,7 @@ filename: blog-05-inline-engine-serial-location.jpg
 | V1903 | L3430、L3540、MX4700 |
 | V2203 | L3408、L3608、L3000（部分）、L3130 |
 | V2403-M | L3800、L4400、L4200、部分 L4740 |
-| V3800-DI | M9000、早期 M9540 |
+| V3300-DI | M9000 |
 | V3800-DI-T | M9540DT（较新）、M8540 |
 | V6108 | M108S、M110GX |
 

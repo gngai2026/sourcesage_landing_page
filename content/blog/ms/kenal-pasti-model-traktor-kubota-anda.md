@@ -90,7 +90,7 @@ Kod enjin Kubota biasa yang terdapat dalam traktor Malaysia lama:
 
 | Kod enjin | Terdapat dalam model traktor |
 |---|---|
-| V3800-DI | M9000, M9540 (gen lama) |
+| V3300-DI | M9000 |
 | V2403-M | L4400, L4200, L3800 |
 | V2203 | L3408, L3608, L3000 |
 | D1503 | L3200, L2900, L3010 |

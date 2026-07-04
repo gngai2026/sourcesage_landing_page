@@ -15,7 +15,7 @@ hero_image: "blog-03-hero-kubota-m9540-paddy.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "What is the difference between the Kubota M9000 and M9540?"
-    a: "The M9000 is the earlier model (late 1990s–2003) with a V3800 4-cylinder engine producing 92hp. The M9540 replaced it from around 2003 with improved hydraulics, a more refined cab option, and slightly revised engine management. Many drivetrain parts are interchangeable, but engine and electrical components differ."
+    a: "The M9000 is the earlier model (late 1990s–2003) with a V3300-DI 3.3L 4-cylinder engine producing 92hp. The M9540 replaced it from around 2003 with improved hydraulics, a more refined cab option, and slightly revised engine management. Many drivetrain parts are interchangeable, but engine and electrical components differ."
   - q: "Are M9000 and M9540 parts interchangeable?"
     a: "Yes, for many components — clutch plates, PTO seals, hydraulic cylinder seals, and most drivetrain bearings cross between the two models. Engine-specific parts (injectors, head gaskets, water pumps) are model-specific and should be ordered by engine serial number."
   - q: "Where can I find Kubota M9000 and M9540 parts in Malaysia?"
@@ -112,7 +112,7 @@ filename: blog-03-inline-kubota-clutch-worn-new.jpg
 
 **What to replace:** Start with the seal kit (cheaper, often solves the problem). If pressure is still low after resealing, the pump body or the priority valve may need replacement.
 
-**Parts note:** Genuine Kubota hydraulic seal kits are still available for the V3800 platform. Aftermarket seal kits from Japanese-spec manufacturers are also acceptable.
+**Parts note:** Genuine Kubota hydraulic seal kits are still available for the M9000/M9540 platform. Aftermarket seal kits from Japanese-spec manufacturers are also acceptable.
 
 ---
 
@@ -122,7 +122,7 @@ filename: blog-03-inline-kubota-clutch-worn-new.jpg
 
 **What to replace:** Rear main crankshaft seal, timing cover seal, camshaft seal. These are wear-and-time items, not indicative of anything more serious.
 
-**Parts note:** This is one case where genuine Kubota seals are strongly preferred. The tolerances are tight and off-spec seals fail quickly. A complete engine seal kit for the V3800 covers all critical seals and costs less than an oil cleanup.
+**Parts note:** This is one case where genuine Kubota seals are strongly preferred. The tolerances are tight and off-spec seals fail quickly. A complete engine seal kit for the M9000/M9540 covers all critical seals and costs less than an oil cleanup.
 
 ---
 

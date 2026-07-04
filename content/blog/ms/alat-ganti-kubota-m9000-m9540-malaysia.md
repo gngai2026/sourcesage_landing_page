@@ -3,7 +3,7 @@ id: blog-21
 slug: alat-ganti-kubota-m9000-m9540-malaysia
 title: "Alat Ganti Kubota M9000 & M9540 Malaysia: Panduan Pemilik"
 author: "SourceSage Editorial"
-meta_description: "Alat ganti traktor Kubota M9000 dan M9540 di Malaysia. Enjin V3800, transmisi, hidraulik, sistem bahan api. Temui alat ganti yang sukar dicari untuk model Kubota tugas berat."
+meta_description: "Alat ganti traktor Kubota M9000 dan M9540 di Malaysia. Enjin V3300-DI & V3800-DI-T, transmisi, hidraulik, sistem bahan api. Temui alat ganti yang sukar dicari untuk model Kubota tugas berat."
 meta_keywords: ["alat ganti kubota m9000 malaysia", "kubota m9540 alat ganti", "v3800 enjin alat ganti malaysia", "kubota m9000 transmisi"]
 content_angle: "Model-specific parts guide — high purchase intent"
 publish_date: "2026-05-02"
@@ -15,7 +15,7 @@ hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "Apakah enjin yang digunakan oleh Kubota M9000 dan M9540?"
-    a: "Kedua-duanya menggunakan enjin diesel V3800-DI. M9000 adalah naturally aspirated (~90HP), M9540 adalah turbocharged (~95HP). Banyak komponen enjin dikongsi antara kedua-dua model."
+    a: "Traktor M9000 menggunakan enjin V3300-DI (naturally aspirated, ~90HP), manakala M9540 menggunakan V3800-DI-T (turbocharged, ~95HP). Banyak komponen enjin dikongsi antara kedua-dua model."
   - q: "Di manakah saya boleh mencari alat ganti transmisi untuk M9000?"
     a: "Komponen transmisi untuk siri-M Kubota boleh didapati melalui pengedar OEM dan rangkaian aftermarket kami. Klac, plat tekanan, pek klac PTO, dan seal ulang-alik adalah permintaan biasa di Malaysia."
   - q: "Berapa lama untuk mendapatkan alat ganti M9540 di Malaysia?"
@@ -26,9 +26,9 @@ Kubota M9000 dan M9540 adalah traktor tugas berat yang paling biasa di ladang da
 
 ---
 
-## Enjin V3800-DI — Komponen Utama
+## Enjin V3300-DI & V3800-DI-T — Komponen Utama
 
-Kedua-dua M9000 dan M9540 menggunakan enjin diesel V3800-DI 4-silinder Kubota. M9000 menghasilkan ~90HP (naturally aspirated), M9540 menghasilkan ~95HP (turbocharged).
+Traktor M9000 menggunakan enjin diesel V3300-DI 4-silinder Kubota (3.3L, ~90HP), manakala M9540 menggunakan V3800-DI-T (3.8L turbocharged, ~95HP).
 
 **Alat ganti enjin yang biasa diminta:**
 - Kit overhaul penuh (omboh, gelang, pelapik, gasket)
