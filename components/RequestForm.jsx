@@ -75,8 +75,8 @@ export default function RequestForm({ t }) {
                   <input name="engine_code" type="text" placeholder={t.placeholderEngineCode} className="w-full border-b-2 border-slate-100 py-2 text-slate-900 outline-none focus:border-blue-600 transition-colors" />
                 </div>
                 <div>
-                  <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2">{t.labelUrgency}</label>
-                  <select name="urgency" required className="w-full border-b-2 border-slate-100 py-2 text-slate-900 outline-none focus:border-blue-600 transition-colors bg-white">
+                  <label className="block text-[10px] font-black text-slate-400 uppercase tracking-widest mb-2" htmlFor="urgency">{t.labelUrgency}</label>
+                  <select id="urgency" name="urgency" required className="w-full border-b-2 border-slate-100 py-2 text-slate-900 outline-none focus:border-blue-600 transition-colors bg-white">
                     <option value="">{t.placeholderUrgency}</option>
                     <option value="Routine">{t.urgencyRoutine}</option>
                     <option value="Urgent">{t.urgencyUrgent}</option>

@@ -43,8 +43,11 @@ export default function RootLayout({ children }) {
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link
           href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@400;700&display=swap"
-          rel="stylesheet"
+          rel="stylesheet" media="print" onload="this.media='all'"
         />
+        <noscript>
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet" />
+        </noscript>
       </head>
       <body>
         <Script id="lang-detect" strategy="beforeInteractive">{`
@@ -104,7 +107,7 @@ export default function RootLayout({ children }) {
             })
           }}
         />
-        {children}
+        <main>{children}</main>
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-WQ8FKH8GY6"
           strategy="afterInteractive"

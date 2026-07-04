@@ -35,7 +35,7 @@ const Navbar = ({ t, lang }) => {
         <WhatsappCTA
           label="navbar"
           message="Hi, I need help sourcing a spare part. Brand: ___ Model: ___ Part needed: ___"
-          className="bg-green-500 hover:bg-green-600 text-white px-3 py-2.5 sm:px-4 rounded-lg font-bold transition-all text-sm flex items-center gap-2"
+          className="bg-green-600 hover:bg-green-700 text-white px-3 py-2.5 sm:px-4 rounded-lg font-bold transition-all text-sm flex items-center gap-2"
         >
           <MessageCircle className="w-4 h-4" /> <span className="hidden sm:inline">{t.nav.whatsapp}</span>
         </WhatsappCTA>
@@ -75,7 +75,7 @@ const Hero = ({ t }) => (
             <WhatsappCTA
               label="hero_main"
               message="Hi, I need a spare part. Brand: ___ Model: ___ Part needed: ___"
-              className="px-8 py-4 text-lg font-bold rounded-xl text-white bg-green-500 hover:bg-green-600 transition-all text-center flex items-center justify-center gap-2"
+              className="px-8 py-4 text-lg font-bold rounded-xl text-white bg-green-600 hover:bg-green-700 transition-all text-center flex items-center justify-center gap-2"
             >
               <MessageCircle className="w-5 h-5" /> {t.hero.cta2}
             </WhatsappCTA>
@@ -105,7 +105,7 @@ const Hero = ({ t }) => (
               <WhatsappCTA
                 label="hero_machine_down"
                 message="Hi, my machine is DOWN and I need urgent help! Brand: ___ Model: ___ Part needed: ___"
-                className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-4 py-2.5 rounded-lg font-bold text-sm transition-all"
+                className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-4 py-2.5 rounded-lg font-bold text-sm transition-all"
               >
                 <MessageCircle className="w-4 h-4" /> {t.hero.machineCta}
               </WhatsappCTA>
@@ -277,7 +277,7 @@ const ProblemSection = ({ t }) => (
         <WhatsappCTA
           label="problem_section"
           message="Hi, I need urgent help finding a hard-to-source spare part. Brand: ___ Model: ___ Part needed: ___"
-          className="inline-flex items-center gap-2 bg-green-500 hover:bg-green-600 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all"
+          className="inline-flex items-center gap-2 bg-green-600 hover:bg-green-700 text-white px-8 py-4 rounded-xl font-bold text-lg transition-all"
         >
           <MessageCircle className="w-5 h-5" /> {t.problem.cta}
         </WhatsappCTA>
@@ -658,7 +658,7 @@ const StickyWhatsApp = ({ t }) => (
   <WhatsappCTA
     label="sticky_button"
     message="Hi, my machine is down and I need urgent help sourcing a spare part. Brand: ___ Model: ___ Part needed: ___"
-    className="fixed bottom-6 right-6 z-50 bg-green-500 hover:bg-green-600 text-white px-5 py-3.5 rounded-full shadow-2xl font-bold text-sm flex items-center gap-2 transition-all hover:scale-105"
+    className="fixed bottom-6 right-6 z-50 bg-green-600 hover:bg-green-700 text-white px-5 py-3.5 rounded-full shadow-2xl font-bold text-sm flex items-center gap-2 transition-all hover:scale-105"
   >
     <MessageCircle className="w-5 h-5" /> {t.sticky.cta}
   </WhatsappCTA>

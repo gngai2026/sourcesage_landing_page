@@ -1,0 +1,50 @@
+# SourceSage.ai — Complete Site Guide
+
+## About
+SourceSage is a Malaysia-based parts sourcing specialist for agricultural tractors and marine diesel engines. We help businesses find spare parts that are difficult to source through standard dealer channels. Based in Ipoh, Perak, we serve customers across Peninsula Malaysia and East Malaysia (Sabah and Sarawak).
+
+## Brands Sourced
+- Kubota (tractors, engines, generators)
+- Perkins (diesel engines for Massey Ferguson, JCB, generators)
+- John Deere (tractors)
+- Zoomlion (combine harvesters, construction equipment)
+- Massey Ferguson (tractors)
+- Yanmar (marine diesel engines, compact tractors)
+- Isuzu (marine diesel engines)
+
+## Services
+- Hard-to-find part sourcing
+- Urgent breakdown parts (machine-down priority)
+- OEM and quality aftermarket alternatives
+- Cross-reference part numbers to compatible models
+- Ship nationwide across Malaysia
+
+## Content Structure
+
+### Brand Pages
+Each brand has dedicated service pages describing the parts available, compatible models, and sourcing capabilities. Available in English, Malay, and Chinese (where indicated).
+
+### Part Number Pages
+Individual pages for specific OEM part numbers with Product schema, MPN, and compatible model listings. Current catalog:
+- Kubota 1A021-12340 (Oil Filter — L & M Series)
+- Kubota 1G772-03310 (Water Pump — V1505, V2403, D1105)
+- Perkins 4115P502 (Cylinder Head Gasket — 1104C-44)
+- Yanmar 129004-18010 (Fuel Injector Nozzle — 3TNV88, 4TNV98)
+- John Deere RE525561 (Fuel Filter Assembly — 5E, 6J Series)
+
+### Blog
+Technical guides, model identification, and maintenance advice for tractor and marine engine owners in Malaysia. 15+ articles in English, translated to Malay and Chinese.
+
+### Geo-Specific Pages
+Regional targeting for parts sourcing:
+- Perak (Ipoh-based)
+- Sabah
+- Sarawak
+
+## Structured Data
+The site implements JSON-LD structured data including Organization, LocalBusiness, Service, Product (with brand, MPN, compatible models), FAQPage, Article, BreadcrumbList, and SpeakableSpecification schemas.
+
+## Contact
+- WhatsApp (preferred): https://wa.me/60125151323
+- Email: info@sourcesage.ai
+- Physical: Ipoh, Perak, Malaysia
