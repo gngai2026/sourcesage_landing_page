@@ -89,7 +89,7 @@ const ENGINES = [
   { code: 'V2403', use: 'M5040, M6040, various M-series' },
   { code: 'V2607', use: 'M7040, M8540, larger M-series' },
   { code: 'D1105', use: 'B2420, B3030, small L-series' },
-  { code: 'V3800', use: 'M9000, M9540, M108S' },
+  { code: 'V3800 / V3300', use: 'V3800: M9540, M108S; V3300: M9000' },
   { code: 'D905 / D1005', use: 'B-series sub-compact models' },
 ]
 

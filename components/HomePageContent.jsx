@@ -456,6 +456,7 @@ const TrustSection = ({ t }) => (
           </ul>
         </div>
         <div className="mt-12 lg:mt-0">
+          {t.trust.testimonial && (
           <div className="bg-bg-alt rounded-2xl p-8 border border-border">
             <div className="flex gap-1 mb-4">
               {[...Array(5)].map((_, i) => (
@@ -469,8 +470,10 @@ const TrustSection = ({ t }) => (
             </p>
             <p className="text-sm font-bold text-muted uppercase tracking-widest">{t.trust.testimonialSource}</p>
           </div>
+          )}
         </div>
       </div>
+      {t.testimonial.quote && (
       <blockquote className="max-w-3xl mx-auto mt-16 border-l-[3px] border-accent pl-6 md:pl-8">
         <p className="text-xl md:text-2xl font-heading text-slate-900 italic leading-relaxed">
           {t.testimonial.quote}
@@ -479,6 +482,7 @@ const TrustSection = ({ t }) => (
           {t.testimonial.cite}
         </cite>
       </blockquote>
+      )}
     </div>
   </section>
 )

@@ -94,7 +94,7 @@ Jenis permintaan biasa yang boleh kami bantu:
 - **Alat ganti transmisi dan drivetrain** — cth. kit seal atau komponen gear untuk model [Massey Ferguson](/massey-ferguson-parts-malaysia/) di mana pengedar tunggal kehabisan stok
 - **Alat ganti sistem penyejukan dan hidraulik** — cth. pam air, radiator, atau seal hidraulik untuk konfigurasi kurang biasa di semua jenama
 
-Jika anda mempunyai alat ganti dalam fikiran, [hubungi kami](https://wa.me/447546185317?text=Hi%2C%20saya%20cuba%20mencari%20alat%20ganti%20traktor%20yang%20sukar%20diperoleh.%20Jenama%3A%20%5BX%5D%20Model%3A%20%5BX%5D%20Alat%20ganti%20diperlukan%3A%20%5BX%5D) dan kami akan menyemak sama ada kami boleh mendapatkannya.
+Jika anda mempunyai alat ganti dalam fikiran, [hubungi kami](https://wa.me/60125151323?text=Hi%2C%20saya%20cuba%20mencari%20alat%20ganti%20traktor%20yang%20sukar%20diperoleh.%20Jenama%3A%20%5BX%5D%20Model%3A%20%5BX%5D%20Alat%20ganti%20diperlukan%3A%20%5BX%5D) dan kami akan menyemak sama ada kami boleh mendapatkannya.
 
 ---
 

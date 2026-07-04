@@ -94,7 +94,7 @@ Common types of requests we can assist with:
 - **Transmission and drivetrain parts** — e.g. seal kits or gear components for [Massey Ferguson](/massey-ferguson-parts-malaysia/) models where the sole distributor is out of stock
 - **Cooling and hydraulic system parts** — e.g. water pumps, radiators, or hydraulic seals for less common configurations across brands
 
-If you have a part in mind, [contact us](https://wa.me/447546185317?text=Hi%2C%20I'm%20trying%20to%20find%20a%20hard-to-get%20tractor%20part.%20Brand%3A%20%5BX%5D%20Model%3A%20%5BX%5D%20Part%20needed%3A%20%5BX%5D) and we will check whether we can source it.
+If you have a part in mind, [contact us](https://wa.me/60125151323?text=Hi%2C%20I'm%20trying%20to%20find%20a%20hard-to-get%20tractor%20part.%20Brand%3A%20%5BX%5D%20Model%3A%20%5BX%5D%20Part%20needed%3A%20%5BX%5D) and we will check whether we can source it.
 
 ---
 
