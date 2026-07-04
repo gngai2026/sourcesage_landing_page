@@ -77,7 +77,7 @@ const V1505_PARTS = [
 const FAQS = [
   {
     q: 'What machines use the Kubota V1505 engine in Malaysia?',
-    a: 'The V1505 is most common in Kubota KX41 and KX71 mini-excavators (the highest-volume application), GL6500/GL7000 generators, and L3240/L3540 compact tractors. It is also found in Bobcat compact loaders and Takeuchi excavators. This wide cross-application use means parts are in demand from multiple sectors simultaneously.',
+    a: 'The V1505 is most common in Kubota KX41 and KX71 mini-excavators (the highest-volume application), GL6500/GL7000 generators, and B3030/B3300 compact tractors. It is also found in Bobcat compact loaders and Takeuchi excavators. This wide cross-application use means parts are in demand from multiple sectors simultaneously.',
   },
   {
     q: 'Can I get V1505 overhaul kits in Malaysia?',

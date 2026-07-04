@@ -30,7 +30,7 @@ const COMPATIBLE_MODELS = [
   { model: 'L4400', engine: 'V2403', note: 'Higher horsepower L-series' },
   { model: 'L4508', engine: 'V2403', note: 'Medium-duty farm tractor' },
   { model: 'L4708', engine: 'V2403', note: 'Heavy-duty compact tractor' },
-  { model: 'M9000', engine: 'V3800', note: 'Commercial plantation workhorse' },
+  { model: 'M9000', engine: 'V3300-DI', note: 'Commercial plantation workhorse' },
   { model: 'M9540', engine: 'V3800', note: 'Higher HP M-series' },
   { model: 'B2420', engine: 'D1105', note: 'Sub-compact utility tractor' },
   { model: 'B3030', engine: 'D1105', note: 'Popular sub-compact model' },

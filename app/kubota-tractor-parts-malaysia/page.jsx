@@ -85,7 +85,7 @@ const PARTS = [
 ]
 
 const ENGINES = [
-  { code: 'V1505', use: 'L3240, L3540, L4240, generators' },
+  { code: 'V1505', use: 'B3030, B3300, generators' },
   { code: 'V2403', use: 'M5040, M6040, various M-series' },
   { code: 'V2607', use: 'M7040, M8540, larger M-series' },
   { code: 'D1105', use: 'B2420, B3030, small L-series' },

@@ -15,7 +15,7 @@ hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "Apakah enjin Kubota V1505 digunakan pada mesin apa?"
-    a: "Enjin V1505 digunakan pada traktor Kubota L-series (L3240, L3540, L4240), generator GL-series, dan peralatan OEM dari Bobcat, Takeuchi, dan Multiquip."
+    a: "Enjin V1505 digunakan pada traktor Kubota B-series (B3030, B3300), generator GL-series, dan peralatan OEM dari Bobcat, Takeuchi, dan Multiquip."
   - q: "Di mana saya boleh dapatkan kit baik pulih V1505 di Malaysia?"
     a: "Kami membekalkan kit baik pulih OEM dan aftermarket berkualiti termasuk piston, cincin, liner, dan set gasket lengkap. Pengesahan dalam 24 jam."
 ---
@@ -40,9 +40,7 @@ Jika anda mempunyai traktor Kubota dalam siri L atau penjana Kubota, ada kemungk
 V1505 dipasang dalam pelbagai peralatan:
 
 **Traktor Kubota:**
-- Kubota L3240, L3540, L4240
 - Kubota B3030, B3300
-- Kubota M5040 (beberapa varian)
 
 **Penjana Kubota:**
 - Kubota GL6500 dan penjana industri siri GL
