@@ -17,7 +17,7 @@ faqs:
   - q: "What are the most common problems with the Kubota L4400?"
     a: "The most frequent issues are hydraulic lift weakness (usually worn pump or lift cylinder seals), clutch slippage (worn friction disc), overheating (blocked radiator or failing thermostat), and PTO engagement problems (worn PTO clutch pack). Most are straightforward to fix with the correct parts."
   - q: "Are Kubota L4400 and L4200 parts interchangeable?"
-    a: "Many are. The L4400 replaced the L4200 around 2002 and shares the same basic drivetrain layout. Clutch discs, PTO seals, rear axle seals, and hydraulic filter elements are commonly compatible. Engine parts (the L4400 uses an updated V1902 / E-TVCS engine variant) should be verified by engine serial number."
+    a: "Many are. The L4400 replaced the L4200 around 2004 and shares the same basic drivetrain layout. Clutch discs, PTO seals, rear axle seals, and hydraulic filter elements are commonly compatible. Both models use the V2203 2.2L diesel engine family, so many engine parts also interchange. Always verify by engine serial number for exact specification."
   - q: "What is the difference between the L4400DT and L4400DV?"
     a: "DT denotes 4-wheel drive (dual traction); DV denotes 2-wheel drive. The front axle, front wheel hubs, and 4WD engagement components differ. All rear-end and engine parts are shared between the two variants."
   - q: "Where can I find Kubota L4400 hydraulic parts in Malaysia?"
@@ -35,7 +35,7 @@ filename: blog-04-hero-kubota-l4400-paddy.jpg
 
 The Kubota L4400 was one of the best-selling mid-range tractors in Malaysia through the 2000s and early 2010s. At 45 horsepower, 4WD, and with a dual-velocity transmission that worked well in both field and transport conditions, it hit a sweet spot for small and medium paddy farms that needed more power than a compact but couldn't justify an M-series.
 
-Based on our internal fleet research, we estimate approximately **950 old-generation Kubota L4400 and L4200 units are still operating in Malaysia** as of 2026 — on top of the newer L4400DV units that continue to be sold today (870 units registered between 2021 and 2024 alone). If you own one of the older ones, this guide is for you.
+There are still hundreds of old-generation Kubota L4400 and L4200 units working Malaysian fields — on top of the newer L4400DV units that continue to be sold today.
 
 ---
 
@@ -69,17 +69,17 @@ Parts vary slightly between DT and DV — the transmission internals are differe
 
 ---
 
-## L4400 Engine: The V2403
+## L4400 Engine: The V2203
 
-The L4400 is powered by the **Kubota V2403-M** — a 2.4-litre, 4-cylinder naturally-aspirated diesel that is one of the most reliable engines Kubota has ever built. It's shared across a wide family of equipment (L3800, L4400, some L4740 variants), which means excellent parts availability even for older units.
+The L4400 is powered by the **Kubota V2203** — a 2.2-litre, 4-cylinder naturally-aspirated diesel that is one of the most reliable engines Kubota has ever built. It's shared across the L-series family (L4200, L4400, some L4740 variants), which means excellent parts availability even for older units.
 
-The V2403 is generally trouble-free up to 4,000–5,000 hours with regular oil changes. Beyond that, you'll start to see the common aging issues.
+The V2203 is generally trouble-free up to 4,000–5,000 hours with regular oil changes. Beyond that, you'll start to see the common aging issues.
 
 <!-- 🖼️ IMAGE: INLINE — ENGINE
-search: "kubota V2403 engine close up 4 cylinder diesel tractor"
-sources: Wikimedia Commons (https://commons.wikimedia.org/wiki/Category:Kubota_engines) · Kubota Engine Division (https://www.kubotaengine.com) · TractorByNet (https://www.tractorbynet.com/forums/kubota/) · Google Images: "kubota V2403 engine"
-alt: "Kubota V2403 4-cylinder diesel engine, clean and well-maintained, showing valve cover and injection pump"
-caption: "The Kubota V2403 — one of the most reliable agricultural diesels ever built. Shared across the L3800, L4400, and several L4740 variants."
+search: "kubota V2203 engine close up 4 cylinder diesel tractor"
+sources: Wikimedia Commons (https://commons.wikimedia.org/wiki/Category:Kubota_engines) · Kubota Engine Division (https://www.kubotaengine.com) · TractorByNet (https://www.tractorbynet.com/forums/kubota/) · Google Images: "kubota V2203 engine"
+alt: "Kubota V2203 4-cylinder diesel engine, clean and well-maintained, showing valve cover and injection pump"
+caption: "The Kubota V2203 — one of the most reliable agricultural diesels ever built. Shared across the L4200, L4400, and several L-series variants."
 size: 800×500px
 filename: blog-04-inline-kubota-v2403-engine.jpg
 -->
@@ -141,7 +141,7 @@ L4400 tractors in Malaysia overheat for one of three reasons:
 2. **Coolant level low or coolant contaminated.** Check for milky oil (head gasket failure) or unexplained coolant loss.
 3. **Thermostat stuck closed.** Easy to diagnose, cheap to fix.
 
-**Parts needed:** Thermostat (under RM50 typically), or radiator flush kit. If it's a head gasket, the V2403 head gasket set is readily available.
+**Parts needed:** Thermostat (under RM50 typically), or radiator flush kit. If it's a head gasket, the V2203 head gasket set is readily available.
 
 ---
 
@@ -155,11 +155,11 @@ The L4400 front axle pivot and knuckle assemblies wear over time, giving the ste
 
 ### 6. Fuel Consumption Increasing / Black Smoke
 
-Black smoke on a naturally-aspirated diesel like the V2403 means one thing: the fuel:air ratio is wrong. Either too much fuel (injector dribbling/worn nozzle) or too little air (blocked air filter).
+Black smoke on a naturally-aspirated diesel like the V2203 means one thing: the fuel:air ratio is wrong. Either too much fuel (injector dribbling/worn nozzle) or too little air (blocked air filter).
 
 **Check first:** Air filter — replace if in doubt. Filters are cheap; troubleshooting is not.
 
-**If it persists:** Injector nozzle testing. Worn or dribbling nozzles cause both black smoke and increased fuel consumption. Nozzle sets for the V2403 are available as aftermarket.
+**If it persists:** Injector nozzle testing. Worn or dribbling nozzles cause both black smoke and increased fuel consumption. Nozzle sets for the V2203 are available as aftermarket.
 
 ---
 
@@ -179,7 +179,7 @@ L4400 tractors of this vintage commonly develop intermittent starting issues cau
 
 Good news: the L4400 shares many parts with adjacent models. If you can't find a specific L4400 part, check compatibility with:
 
-- **L3800DV** — shares engine (V2403) and many hydraulic components
+- **L3800** — shares many hydraulic components (note: L3800 uses D1803 1.8L 3-cyl diesel — different engine family; engine parts not interchangeable)
 - **L4200** — predecessor model, significant overlap
 - **L4740DV** — shares hydraulic and electrical components
 
@@ -189,7 +189,7 @@ We maintain a cross-reference list that often opens up more sourcing options tha
 
 ## Should You Keep Running Your L4400?
 
-Almost always yes — if the base structure (frame, axle housings, engine block) is sound. The V2403 engine has a reputation for lasting 8,000+ hours with basic maintenance. The consumable parts we've described above are not indicative of a tractor that's worn out — they're normal lifecycle replacements on any machine that works hard.
+Almost always yes — if the base structure (frame, axle housings, engine block) is sound. The V2203 engine has a reputation for lasting 8,000+ hours with basic maintenance. The consumable parts we've described above are not indicative of a tractor that's worn out — they're normal lifecycle replacements on any machine that works hard.
 
 The economic calculus is straightforward: a new Kubota L4400DV equivalent today costs significantly more than it did a decade ago. Keeping your existing machine well-maintained is usually the better financial decision for another 5–10 years of service.
 

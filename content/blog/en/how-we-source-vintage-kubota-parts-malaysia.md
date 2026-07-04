@@ -43,7 +43,7 @@ This is exactly the gap we built our business to fill. This post explains how we
 
 Kubota Malaysia officially supports parts supply for models within the standard service window — typically 10 years from last production. After that, parts are progressively discontinued from the local catalogue.
 
-But here's the thing: Kubota has sold tractors in Malaysia since the late 1970s (originally through Sime Kubota, the joint venture with Sime Darby). Many of the models from the 1990s and 2000s — the M9000, M9540 (old generation), L4400, L3408, L3608, and B5200 — are still running in paddy fields across Kedah, Kelantan, Perak, and Johor. Our estimate puts the total Kubota fleet still operating in Malaysia at well over 10,000 units, with a significant proportion over 10 years old.
+But here's the thing: Kubota has sold tractors in Malaysia since the late 1970s (originally through Sime Kubota, the joint venture with Sime Darby). Many of the models from the 1990s and 2000s — the M9000, M9540 (old generation), L4400, L3408, L3608, and B5200 — are still running in paddy fields across Kedah, Kelantan, Perak, and Johor. Our estimate puts the total Kubota fleet still operating in Malaysia at thousands of units, with a significant proportion over 10 years old.
 
 Those tractors need parts. The demand is real — the local supply chain just hasn't caught up.
 

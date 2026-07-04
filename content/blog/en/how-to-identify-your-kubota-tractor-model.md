@@ -90,10 +90,12 @@ Common Kubota engine codes found in older Malaysian tractors:
 
 | Engine code | Found in tractor models |
 |---|---|
-| V3800-DI | M9000, M9540 (older gen) |
-| V2403-M | L4400, L4200, L3800 |
+| V3300-DI (3.3L) | M9000 |
+| V3800-DI (3.8L) | M9540 (older gen) |
+| V2203 (2.2L) | L4400, L4200 |
+| D1803 (1.8L) | L3800 |
 | V2203 | L3408, L3608, L3000 |
-| D1503 | L3200, L2900, L3010 |
+| D1503 (1.5L) | L2900, L3010 |
 | D1105 | B2920, B3200, B2320 |
 | V6108 | M108S, M110 |
 

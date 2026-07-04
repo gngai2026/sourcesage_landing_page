@@ -35,7 +35,7 @@ filename: blog-06-hero-kubota-l3408-paddy.jpg
 
 The Kubota L3408 and L3608 are among the most widely distributed Kubota tractor models in Southeast Asia. While official Malaysia sales figures for these models are hard to come by — they predate the era of detailed local tracking — regional estimates suggest millions of units of the L34xx/L36xx family were sold across Malaysia, Thailand, the Philippines, Indonesia, and Vietnam through the 1990s and 2000s.
 
-Based on our internal fleet research, we estimate **approximately 800 L3408/L3608/L3000-family units are still operating in Malaysia** as of 2026. The true number across the broader SE Asian region is in the hundreds of thousands — which is why aftermarket supply for this engine family remains robust even today.
+Hundreds of L3408/L3608/L3000-family units are still operating in Malaysia, and the broader SE Asian fleet runs into the hundreds of thousands — which is why aftermarket supply for this engine family remains robust even today.
 
 **Where are L3408 and L3608 tractors working in Malaysia?**
 

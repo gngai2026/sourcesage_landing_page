@@ -45,12 +45,12 @@ This guide covers the most commonly needed M9000/M9540 parts, where failures typ
 
 | Spec | Kubota M9000 | Kubota M9540 (pre-2015) |
 |---|---|---|
-| Engine | V3800-DI (78HP) | V3800-DI-T (95HP, turbocharged) |
+| Engine | V3300-DI (92HP, 3.3L) | V3800-DI-T (95HP, 3.8L turbocharged) |
 | Transmission | 16F/16R (Synchro) | 24F/24R (Powershift optional) |
 | Drive | 4WD | 4WD |
-| Hydraulic capacity | 47.8 L/min | 58.5 L/min |
+| Hydraulic capacity | 87.4 L/min | 64.3 L/min (pump) |
 | Weight | ~3,450 kg | ~3,700 kg |
-| Years sold in Malaysia | ~2000–2010 | ~2005–2015 |
+| Years sold in Malaysia | 1997–2005 | 2006–2013 |
 
 The M9000 and M9540 share a significant number of drivetrain and hydraulic components, which is good news for parts sourcing — a large combined installed base means better aftermarket support.
 
@@ -58,9 +58,7 @@ The M9000 and M9540 share a significant number of drivetrain and hydraulic compo
 
 ## How Many Are Still Running in Malaysia?
 
-Based on our internal fleet research, we estimate approximately **1,600 Kubota M9000 and old-generation M9540 units are still operating in Malaysia** as of 2026. That makes this generation the single largest segment of out-of-warranty, high-demand Kubota tractors in the country.
-
-For context: the current M9540DT (the successor model) sold 1,470 units through official channels just between 2021 and 2024 — which shows how dominant this horsepower class has always been. The older generation units have been accumulating since 2000, and with a typical tractor lifespan of 20+ years in Malaysian conditions, the vast majority are still in active service.
+These tractors represent one of the largest segments of out-of-warranty, high-demand Kubota tractors in Malaysia — thousands are still working in paddy fields across the country.
 
 **Where are these tractors working?**
 
