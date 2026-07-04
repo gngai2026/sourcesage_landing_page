@@ -176,6 +176,8 @@ export default function KubotaPage() {
         '@type': 'Product',
         name: `Kubota ${cat.category} Parts`,
         description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'Kubota' },
+        category: cat.category,
       },
     })),
   }

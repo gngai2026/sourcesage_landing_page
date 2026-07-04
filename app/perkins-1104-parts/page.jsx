@@ -171,12 +171,33 @@ export default function Perkins1104Page() {
     xpath: ["/html/head/title", "/html/head/meta[@name='description']/@content"],
   }
 
+  const partsListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    'inLanguage': 'en',
+    name: 'Perkins 1104 Parts Categories',
+    description: 'Perkins 1104 engine parts available by system — engine, fuel system, cooling, electrical, lubrication, air & exhaust.',
+    numberOfItems: PARTS_BY_SYSTEM.length,
+    itemListElement: PARTS_BY_SYSTEM.map((cat, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Product',
+        name: `Perkins 1104 ${cat.system} Parts`,
+        description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'Perkins' },
+        category: cat.system,
+      },
+    })),
+  }
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(partsListSchema) }} />
 
       <WhatsappCTA
         label="perkins1104-sticky"

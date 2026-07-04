@@ -58,25 +58,49 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{
             __html: JSON.stringify({
               "@context": "https://schema.org",
-              "@type": "LocalBusiness",
-              "name": "SourceSage.ai",
-              "description": "Malaysia-based parts sourcing specialist for agricultural tractors and marine diesel engines.",
-              "url": "https://sourcesage.ai/",
-              "telephone": "+60 12-515 1323",
-              "areaServed": "Malaysia",
-              "address": {
-                "@type": "PostalAddress",
-                "addressLocality": "Ipoh",
-                "addressRegion": "Perak",
-                "addressCountry": "MY"
-              },
-              "contactPoint": {
-                "@type": "ContactPoint",
-                "contactType": "customer service",
-                "telephone": "+60 12-515 1323",
-                "availableLanguage": ["English", "Malay", "Chinese"]
-              },
-              "sameAs": ["https://sourcesage.ai/"]
+              "@graph": [
+                {
+                  "@type": "Organization",
+                  "@id": "https://sourcesage.ai/#organization",
+                  "name": "SourceSage",
+                  "url": "https://sourcesage.ai/",
+                  "logo": "https://sourcesage.ai/logo.png",
+                  "description": "Malaysia-based parts sourcing specialist for agricultural tractors and marine diesel engines.",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ipoh",
+                    "addressRegion": "Perak",
+                    "addressCountry": "MY"
+                  },
+                  "contactPoint": {
+                    "@type": "ContactPoint",
+                    "contactType": "customer service",
+                    "telephone": "+60 12-515 1323",
+                    "availableLanguage": ["English", "Malay", "Chinese"]
+                  }
+                },
+                {
+                  "@type": "LocalBusiness",
+                  "@id": "https://sourcesage.ai/#localbusiness",
+                  "name": "SourceSage.ai",
+                  "description": "Malaysia-based parts sourcing specialist for agricultural tractors and marine diesel engines.",
+                  "url": "https://sourcesage.ai/",
+                  "telephone": "+60 12-515 1323",
+                  "areaServed": "Malaysia",
+                  "address": {
+                    "@type": "PostalAddress",
+                    "addressLocality": "Ipoh",
+                    "addressRegion": "Perak",
+                    "addressCountry": "MY"
+                  },
+                  "contactPoint": {
+                    "@type": "ContactPoint",
+                    "contactType": "customer service",
+                    "telephone": "+60 12-515 1323",
+                    "availableLanguage": ["English", "Malay", "Chinese"]
+                  }
+                }
+              ]
             })
           }}
         />

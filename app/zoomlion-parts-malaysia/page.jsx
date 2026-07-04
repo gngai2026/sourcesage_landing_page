@@ -142,6 +142,8 @@ export default function ZoomlionPage() {
         '@type': 'Product',
         name: `Zoomlion ${cat.category} Parts`,
         description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'Zoomlion' },
+        category: cat.category,
       },
     })),
   }

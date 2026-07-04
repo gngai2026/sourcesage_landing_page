@@ -150,12 +150,33 @@ export default function KubotaV1505Page() {
     xpath: ["/html/head/title", "/html/head/meta[@name='description']/@content"],
   }
 
+  const partsListSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'ItemList',
+    'inLanguage': 'en',
+    name: 'Kubota V1505 Parts Categories',
+    description: 'Kubota V1505 engine parts available by system — engine core, fuel system, cooling, lubrication, timing, electrical.',
+    numberOfItems: V1505_PARTS.length,
+    itemListElement: V1505_PARTS.map((cat, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      item: {
+        '@type': 'Product',
+        name: `Kubota V1505 ${cat.category} Parts`,
+        description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'Kubota' },
+        category: cat.category,
+      },
+    })),
+  }
+
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }} />
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(speakableSchema) }} />
+      <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(partsListSchema) }} />
 
       <WhatsappCTA
         label="v1505-sticky"

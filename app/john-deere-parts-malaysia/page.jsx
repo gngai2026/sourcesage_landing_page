@@ -131,6 +131,8 @@ export default function JohnDeerePartsPage() {
         '@type': 'Product',
         name: `John Deere ${cat.category} Parts`,
         description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'John Deere' },
+        category: cat.category,
       },
     })),
   }

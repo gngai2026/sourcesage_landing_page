@@ -140,6 +140,8 @@ export default function PerkinsPartsPage() {
         '@type': 'Product',
         name: `Perkins ${cat.category} Parts`,
         description: `${cat.items.join(', ')}`,
+        brand: { '@type': 'Brand', name: 'Perkins' },
+        category: cat.category,
       },
     })),
   }
