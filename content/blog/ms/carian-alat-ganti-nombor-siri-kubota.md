@@ -164,4 +164,8 @@ Kami akan tanya soalan diagnostik. Anda akan dapat alat ganti yang betul pada ka
 
 ---
 
+## Sumber
+
+- Kubota Model Number / Serial Number System Reference; Kubota Engine Code Application Tables; Kubota Parts Numbering System; TractorData (secondary corroboration)
+
 *Kemas kini terakhir: Mei 2026*

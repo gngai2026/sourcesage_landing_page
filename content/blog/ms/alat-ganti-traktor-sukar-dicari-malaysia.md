@@ -113,4 +113,8 @@ Jika anda mempunyai alat ganti dalam fikiran, [hubungi kami](https://wa.me/60125
 
 ---
 
+## Sumber
+
+- Kubota Parts Support Policy; Industry Parts Discontinuation Practice
+
 *Kemas kini terakhir: Mei 2026*

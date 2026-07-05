@@ -160,3 +160,9 @@ Beritahu kami:
 Kami akan sahkan keserasian dan kembali kepada anda dengan ketersediaan dan harga.
 
 <!-- 🔗 WHATSAPP CTA -->
+
+---
+
+## Sumber
+
+- Kubota Engine Division — V1505-E3B (E-TVCS); Kubota 05-series Workshop Manual

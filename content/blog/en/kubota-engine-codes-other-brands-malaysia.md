@@ -133,7 +133,7 @@ You don't need to rely on guesswork. There are three reliable ways:
 
 Once you know the engine code, the sourcing picture changes significantly:
 
-**Cost.** Ordering engine parts through the machine brand's dealer means paying that brand's margin on parts they don't manufacture. Sourcing the same part as a Kubota or Yanmar component — through a specialist who works directly with those supply chains — is typically 20–45% cheaper for genuine parts, and more for quality aftermarket.
+**Cost.** Ordering engine parts through the machine brand's dealer means paying that brand's margin on parts they don't manufacture. Sourcing the same part as a Kubota or Yanmar component — through a specialist who works directly with those supply chains — is typically significantly cheaper for genuine parts, and more for quality aftermarket.
 
 **Availability.** For machines 10+ years old, the equipment brand's dealer may list parts as "discontinued." But the Kubota or Yanmar engine supply chain for that engine code is often still active, because the same engine is used in dozens of different machines across multiple manufacturers.
 
@@ -166,5 +166,9 @@ We handle parts enquiries for Kubota and Yanmar engines regardless of which mach
 This guide focuses on engine parts, where the cross-brand sourcing advantage is clearest. Hydraulic components (pumps, motors, control valves) and undercarriage parts (tracks, rollers, sprockets) are machine-specific and manufactured by the equipment brand — they don't share the same OEM supply chain shortcut. We assess these case by case.
 
 ---
+
+## Sources
+
+- Kubota Engine Division — V1505/V2203/V2403 OEM Application Guide; Yanmar TNV/TNE Series OEM Application Guide (3TNV88/4TNV98); Bobcat/Manitou/Takeuchi OEM Engine Cross-Reference
 
 *Last updated: April 2026*

@@ -100,4 +100,8 @@ filename: blog-08-inline-workshop-parts.svg
 
 ---
 
+## 参考来源
+
+- SourceSage Sourcing Network; Logistics Carrier Lead Time Data
+
 *最后更新：2026年5月*

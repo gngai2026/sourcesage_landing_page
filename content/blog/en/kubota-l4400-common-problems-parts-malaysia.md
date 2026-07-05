@@ -35,7 +35,7 @@ filename: blog-04-hero-kubota-l4400-paddy.jpg
 
 The Kubota L4400 was one of the best-selling mid-range tractors in Malaysia through the 2000s and early 2010s. At 45 horsepower, 4WD, and with a dual-velocity transmission that worked well in both field and transport conditions, it hit a sweet spot for small and medium paddy farms that needed more power than a compact but couldn't justify an M-series.
 
-There are still hundreds of old-generation Kubota L4400 and L4200 units working Malaysian fields — on top of the newer L4400DV units that continue to be sold today.
+There are still a significant number of old-generation Kubota L4400 and L4200 units working Malaysian fields — on top of the newer L4400DV units that continue to be sold today.
 
 ---
 
@@ -141,7 +141,7 @@ L4400 tractors in Malaysia overheat for one of three reasons:
 2. **Coolant level low or coolant contaminated.** Check for milky oil (head gasket failure) or unexplained coolant loss.
 3. **Thermostat stuck closed.** Easy to diagnose, cheap to fix.
 
-**Parts needed:** Thermostat (under RM50 typically), or radiator flush kit. If it's a head gasket, the V2203 head gasket set is readily available.
+**Parts needed:** Thermostat (inexpensive — WhatsApp us for a current quote), or radiator flush kit. If it's a head gasket, the V2203 head gasket set is readily available.
 
 ---
 
@@ -202,5 +202,9 @@ The economic calculus is straightforward: a new Kubota L4400DV equivalent today 
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota V2203 Engine Specification (2.2L, 4-cylinder); Kubota L4400 Model Catalogue (DT/DV/HST Variants); Kubota Parts Cross-Reference System
 
 *Last updated: March 2026*

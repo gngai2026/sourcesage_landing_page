@@ -164,3 +164,9 @@ This information lets us cross-reference to the exact specification before order
 Tell us your engine serial number, machine model, and the part you need. We'll confirm compatibility and availability within 24 hours.
 
 <!-- 🔗 WHATSAPP CTA -->
+
+---
+
+## Sources
+
+- Yanmar TNV Series Engine Specifications (3TNV88 — 1,496 cc, 24-30 HP); Yanmar OEM Equipment Application Guide; Denso Common Rail Fuel Injection Data; Zexel Mechanical Injection Pump Data

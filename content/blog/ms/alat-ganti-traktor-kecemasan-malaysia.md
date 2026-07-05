@@ -106,4 +106,8 @@ filename: blog-08-inline-air-freight.svg
 
 ---
 
+## Sumber
+
+- SourceSage Sourcing Network; Logistics Carrier Lead Time Data
+
 *Kemas kini terakhir: Mei 2026*

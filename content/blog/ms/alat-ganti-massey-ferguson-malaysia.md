@@ -137,4 +137,8 @@ J: Ya — ini menggunakan enjin Perkins 4.248 dan 4.248T yang sama dengan siri 3
 
 ---
 
+## Sumber
+
+- Perkins AD3.152 / A4.236 / A4.248 Engine Specifications (AGCO-Perkins); Millat Tractors MF 375 Specification Sheet; CAV/Lucas Fuel Injection Data
+
 *Kemas kini terakhir: Mei 2026*

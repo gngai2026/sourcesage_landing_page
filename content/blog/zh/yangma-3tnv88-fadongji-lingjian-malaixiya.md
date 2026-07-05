@@ -161,3 +161,9 @@ filename: blog-10-inline-3tnv88-parts.svg
 告诉我们您的发动机序列号、机器型号和所需零件。我们将在 24 小时内确认兼容性和可用性。
 
 <!-- 🔗 WHATSAPP CTA -->
+
+---
+
+## 参考来源
+
+- Yanmar TNV Series Engine Specifications; Yanmar OEM Equipment Application Guide; Denso Common Rail Fuel Injection Data; Zexel Mechanical Injection Pump Data

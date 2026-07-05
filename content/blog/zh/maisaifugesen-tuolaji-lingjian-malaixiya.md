@@ -138,4 +138,8 @@ size: 800x500
 
 ---
 
+## 参考来源
+
+- Perkins AD3.152 / A4.236 / A4.248 Engine Specifications (AGCO-Perkins); Millat Tractors MF 375 Specification Sheet; CAV/Lucas Fuel Injection Data
+
 *最后更新：2026年5月*

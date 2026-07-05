@@ -140,4 +140,8 @@ Hantar foto melalui WhatsApp — ia adalah cara terpantas untuk mendapatkan resp
 
 ---
 
+## Sumber
+
+- Kubota Malaysia Parts Support Policy; Japan Used Agricultural Machinery Market Data; Kubota Parts Cross-Reference Database
+
 *Kemas kini terakhir: Mei 2026*

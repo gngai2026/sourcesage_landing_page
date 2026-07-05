@@ -21,7 +21,7 @@ faqs:
   - q: "What is the difference between genuine, OEM-compatible, and aftermarket Kubota parts?"
     a: "Genuine parts are made by Kubota. OEM-compatible parts are made by the same factories that supply Kubota (or to equivalent specification) — often the right choice for wear items at lower cost. Aftermarket covers a wide quality range; we only use suppliers with tracked field failure rates under 2%. For critical engine components, we recommend genuine or verified OEM-compatible."
   - q: "My Kubota tractor is over 15 years old — is it still worth sourcing parts for?"
-    a: "In most cases, yes. A well-maintained older Kubota has significant remaining service life. The economics depend on the repair: if the parts cost is less than 30–40% of the tractor's working value, repair almost always makes sense. We can advise on parts cost before you make that decision."
+    a: "In most cases, yes. A well-maintained older Kubota has significant remaining service life. The economics depend on the repair: if the parts cost is a fraction of the tractor's working value, repair almost always makes sense. We can advise on parts cost before you make that decision."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -43,7 +43,7 @@ This is exactly the gap we built our business to fill. This post explains how we
 
 Kubota Malaysia officially supports parts supply for models within the standard service window — typically 10 years from last production. After that, parts are progressively discontinued from the local catalogue.
 
-But here's the thing: Kubota has sold tractors in Malaysia since the late 1970s (originally through Sime Kubota, the joint venture with Sime Darby). Many of the models from the 1990s and 2000s — the M9000, M9540 (old generation), L4400, L3408, L3608, and B5200 — are still running in paddy fields across Kedah, Kelantan, Perak, and Johor. Our estimate puts the total Kubota fleet still operating in Malaysia at thousands of units, with a significant proportion over 10 years old.
+But here's the thing: Kubota has sold tractors in Malaysia since the late 1970s (originally through Sime Kubota, the joint venture with Sime Darby). Many of the models from the 1990s and 2000s — the M9000, M9540 (old generation), L4400, L3408, L3608, and B5200 — are still running in paddy fields across Kedah, Kelantan, Perak, and Johor. Our estimate puts the total Kubota fleet still operating in Malaysia at a significant number of units, with a significant proportion over 10 years old.
 
 Those tractors need parts. The demand is real — the local supply chain just hasn't caught up.
 
@@ -80,7 +80,7 @@ How do we distinguish good aftermarket from bad?
 - **Dimensional verification.** For critical components — crankshafts, bearing races, hydraulic valves — we measure against a known-good genuine part before stocking.
 - **Track record.** We have a shortlist of suppliers whose failure rates we've tracked over three years. We only reorder from suppliers with a field failure rate under 2%.
 
-Good-quality aftermarket parts for older Kubota models can cost 40–65% less than genuine parts, with comparable service life. For a tractor that's already 15 years old, this is often the right economic decision — but it depends entirely on the component and the supplier.
+Good-quality aftermarket parts for older Kubota models can cost significantly less than genuine parts, with comparable service life. For a tractor that's already 15 years old, this is often the right economic decision — but it depends entirely on the component and the supplier.
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "OEM vs aftermarket tractor parts — understanding the key differences"
@@ -117,7 +117,7 @@ If you have an older Kubota that a mainstream dealer has told you is "too old to
 The older the model, the more likely we are to have a sourcing path for it, because we've built the network specifically for this purpose. We've sourced parts for:
 
 - Kubota M9000 and M9540 (early 2000s models) — still very common in northern Malaysian paddy states
-- Kubota L3408 and L3608 — popular throughout the 2000s, millions of units across SE Asia
+- Kubota L3408 and L3608 — popular throughout the 2000s, widely used across SE Asia
 - Kubota L4400 and L4200 — the workhorse of many small farms from 2002 to 2012
 - Kubota B5200 and B2920 — compact models still operating on smaller plots
 
@@ -140,5 +140,9 @@ Send photos via WhatsApp — it's the fastest way to get a response.
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota Malaysia Parts Support Policy; Japan Used Agricultural Machinery Market Data; Kubota Parts Cross-Reference Database; China/Taiwan Aftermarket Manufacturing Standards
 
 *Last updated: March 2026*

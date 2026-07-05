@@ -136,4 +136,8 @@ J: Alat ganti haus 3JH dan 4JH biasa (impeler, penapis, termostat) — 2–5 har
 
 ---
 
+## Sumber
+
+- Yanmar Marine 3JH/4JH Series Engine Specifications; Kanzaki KM Gearbox Technical Data; Denso Marine Injector Data
+
 *Kemas kini terakhir: Mei 2026*

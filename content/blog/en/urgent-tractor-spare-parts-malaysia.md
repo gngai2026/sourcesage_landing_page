@@ -106,4 +106,8 @@ filename: blog-08-inline-air-freight.svg
 
 ---
 
+## Sources
+
+- SourceSage Sourcing Network; Logistics Carrier Lead Time Data
+
 *Last updated: 2026-05-01*

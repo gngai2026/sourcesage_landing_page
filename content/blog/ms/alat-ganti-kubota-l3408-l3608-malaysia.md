@@ -210,4 +210,8 @@ Jika anda sedang mengerjakan L3408 atau L3608, bawa sebanyak mungkin maklumat: v
 
 ---
 
+## Sumber
+
+- Kubota V2203 Engine Specification; Kubota L3408/L3608 Model Specification — Southeast Asia Market; Kubota Parts Cross-Reference System
+
 *Kemas kini terakhir: Mei 2026*

@@ -54,4 +54,8 @@ M系列使用干式离合器手动变速箱。8,000+小时后常见问题：
 
 ---
 
+## 参考来源
+
+- Kubota V3300-TIE / V3800-DI-T Engine Specifications; Kubota M9000/M9540 Model Data; TractorData (secondary corroboration)
+
 *最后更新：2026年5月*

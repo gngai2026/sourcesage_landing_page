@@ -17,7 +17,7 @@ faqs:
   - q: "What causes Perkins 1104 cylinder head failure?"
     a: "Common causes include overheating (cracked head between valves), thermal shock from cold water entering a hot engine, and head gasket failure leading to warping. Symptoms include white smoke, coolant loss, and milky oil."
   - q: "Should I replace with OEM or aftermarket?"
-    a: "Quality aftermarket cylinder heads are well-proven for the Perkins 1104 and cost 40-60% less than OEM. We can source both options and advise based on your application and budget."
+    a: "Quality aftermarket cylinder heads are well-proven for the Perkins 1104 and cost significantly less than OEM. We can source both options and advise based on your application and budget."
   - q: "How long does it take to get a Perkins 1104 cylinder head in Malaysia?"
     a: "Typically 3-7 working days depending on stock availability. Air freight available for urgent breakdowns."
 ---
@@ -100,23 +100,23 @@ The 1104 uses copper injector sleeves pressed into the cylinder head. Over time 
 Perkins cylinder heads are still manufactured under Cat® ownership (Caterpillar acquired Perkins in 1998). A new OEM 1104 cylinder head comes fully assembled with valves, springs, and seats installed.
 
 - **Pros:** Exact fit, full warranty, traceable
-- **Cons:** Expensive (RM 4,000–7,000+), 2–4 week lead time from UK
+- **Cons:** Expensive (several thousand ringgit, close to five figures for some variants. WhatsApp us for a current quote.), 2–4 week lead time from UK
 - **Part number:** Varies by variant — check your engine data plate
 
 ### Quality Aftermarket
 
 Aftermarket 1104 heads from established manufacturers (Indian and Turkish foundries supplying the Perkins rebuild market) are widely used in Malaysia. Brands include MDS, AE, and Federal Mogul equivalents.
 
-- **Pros:** 30–50% cheaper, often in regional stock (Singapore, Thailand)
+- **Pros:** Significantly cheaper, often in regional stock (Singapore, Thailand)
 - **Cons:** Quality varies — buy from known supplier
-- **Typical price:** RM 1,800–3,500
+- **Typical price:** A few thousand ringgit. WhatsApp us for a current quote.
 
 ### Reconditioned / Remachined
 
 A cracked 1104 head can sometimes be saved if cracks are minor and between non-critical areas. Malaysian machine shops in Klang Valley and Johor offer:
-- Pressure testing (RM 80–150)
-- Valve seat replacement (RM 40–80 per seat)
-- Surface skimming (RM 120–200)
+- Pressure testing — modest workshop charges. WhatsApp us for a current quote.
+- Valve seat replacement — per-seat workshop charges vary. WhatsApp us for a current quote.
+- Surface skimming — modest workshop charges. WhatsApp us for a current quote.
 
 **Only recondition if cracks are confirmed non-structural.** A remachined head that fails 6 months later costs you the head + labour + downtime twice.
 
@@ -182,7 +182,7 @@ A: Three signs: white smoke from the exhaust (coolant entering combustion), bubb
 A: Minor cracks between non-critical areas (away from valve seats and injector bores) can sometimes be welded or stitched by a specialist machine shop. However, cracks between valve seats or into water jackets almost always require replacement. Have a machine shop pressure-test and crack-test before deciding.
 
 **Q: How much does a Perkins 1104 cylinder head cost in Malaysia?**
-A: New OEM from Perkins: RM 4,000–7,000+. Quality aftermarket (Indian/Turkish): RM 1,800–3,500. Reconditioned (properly tested): RM 1,200–2,000. Labour for head replacement typically RM 800–1,500 depending on workshop.
+A: New OEM from Perkins: several thousand ringgit, close to five figures for some variants. WhatsApp us for a current quote. Quality aftermarket (Indian/Turkish): a few thousand ringgit. WhatsApp us for a current quote. Reconditioned (properly tested): varies. WhatsApp us for a current quote. Labour for head replacement varies by workshop — WhatsApp us for a current quote.
 
 **Q: What's the difference between Perkins 1104C-44 and 1104C-44T cylinder heads?**
 A: The turbo variant (44T) may have different valve materials and injector specifications. The head castings are physically similar but not always interchangeable — valve sizes, injector seat angles, and pre-combustion chamber designs differ between naturally aspirated and turbocharged variants. Always match to your engine's build list number.
@@ -191,5 +191,9 @@ A: The turbo variant (44T) may have different valve materials and injector speci
 A: Common aftermarket heads are often available in Singapore or Klang Valley stockists — 3–7 days. OEM heads from Perkins UK typically take 2–4 weeks. We confirm availability and ETA within 24–48 hours before you commit.
 
 ---
+
+## Sources
+
+- Perkins 1104 Series Engine Specification; Perkins Build List Number System (RE/RG/RH, NJ/NK, PJ/PK); Caterpillar-Perkins Cylinder Head Technical Data
 
 *Last updated: May 2026*

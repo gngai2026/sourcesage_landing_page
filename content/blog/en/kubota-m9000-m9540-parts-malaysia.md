@@ -15,7 +15,7 @@ hero_image: "blog-03-hero-kubota-m9540-paddy.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "What is the difference between the Kubota M9000 and M9540?"
-    a: "The M9000 is the earlier model (late 1990s–2003) with a V3300-DI 3.3L 4-cylinder engine producing 92hp. The M9540 replaced it from around 2003 with improved hydraulics, a more refined cab option, and slightly revised engine management. Many drivetrain parts are interchangeable, but engine and electrical components differ."
+    a: "The M9000 is the earlier model (late 1990s–2003) with a V3300-TIE 3.3L 4-cylinder engine producing 92hp. The M9540 replaced it from around 2003 with improved hydraulics, a more refined cab option, and slightly revised engine management. Many drivetrain parts are interchangeable, but engine and electrical components differ."
   - q: "Are M9000 and M9540 parts interchangeable?"
     a: "Yes, for many components — clutch plates, PTO seals, hydraulic cylinder seals, and most drivetrain bearings cross between the two models. Engine-specific parts (injectors, head gaskets, water pumps) are model-specific and should be ordered by engine serial number."
   - q: "Where can I find Kubota M9000 and M9540 parts in Malaysia?"
@@ -35,7 +35,7 @@ filename: blog-03-hero-kubota-m9540-paddy.jpg
 
 If you own a Kubota M9000 or the older-generation M9540, you own one of the most successful high-horsepower tractors ever sold in Malaysia. Between 2000 and 2014, these models dominated the heavy-duty paddy farming segment. They pulled transplanting rigs, ran rotary tillers, and handled combines in conditions that would sideline lesser machines.
 
-They're also, at this point, 10 to 25 years old. And the parts question is becoming urgent for thousands of owners.
+They're also, at this point, 10 to 25 years old. And the parts question is becoming a pressing concern for a large number of owners.
 
 This guide covers the most commonly needed M9000/M9540 parts, where failures typically occur, and how to make sure you're getting the right component — whether you go genuine, aftermarket, or used.
 
@@ -45,7 +45,7 @@ This guide covers the most commonly needed M9000/M9540 parts, where failures typ
 
 | Spec | Kubota M9000 | Kubota M9540 (pre-2015) |
 |---|---|---|
-| Engine | V3300-DI (92HP, 3.3L) | V3800-DI-T (95HP, 3.8L turbocharged) |
+| Engine | V3300-TIE (92HP, 3.3L turbocharged) | V3800-DI-T (95HP, 3.8L turbocharged) |
 | Transmission | 16F/16R (Synchro) | 24F/24R (Powershift optional) |
 | Drive | 4WD | 4WD |
 | Hydraulic capacity | 87.4 L/min | 64.3 L/min (pump) |
@@ -58,7 +58,7 @@ The M9000 and M9540 share a significant number of drivetrain and hydraulic compo
 
 ## How Many Are Still Running in Malaysia?
 
-These tractors represent one of the largest segments of out-of-warranty, high-demand Kubota tractors in Malaysia — thousands are still working in paddy fields across the country.
+These tractors represent one of the largest segments of out-of-warranty, high-demand Kubota tractors in Malaysia — many are still working in paddy fields across the country.
 
 **Where are these tractors working?**
 
@@ -195,5 +195,9 @@ If you're facing a major repair decision on a Kubota M9000 or M9540, we're happy
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota V3300-TIE / V3800-DI-T Engine Specifications; Kubota M9000/M9540 Model Data — Transmission, Hydraulics, Weight; TractorData (secondary corroboration)
 
 *Last updated: March 2026*

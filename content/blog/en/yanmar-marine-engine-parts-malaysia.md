@@ -25,7 +25,7 @@ faqs:
 <!-- 🖼️ IMAGE: HERO
 search: "yanmar marine diesel engine fishing boat malaysia coastal"
 alt: "Yanmar marine diesel engine in a Malaysian fishing boat engine room"
-caption: "The Yanmar 3JH and 4JH series engines power thousands of Malaysian fishing vessels and work boats."
+caption: "The Yanmar 3JH and 4JH series engines are widely used across the Malaysian fishing fleet and work boats."
 filename: blog-07-hero-yanmar-marine-engine.jpg
 size: 1200x675
 -->
@@ -74,7 +74,7 @@ Based on the enquiries we handle from Malaysian boat owners and marine workshops
 
 ### Engine & Cooling System
 - **Raw water impeller** (freshwater pump impeller) — should be replaced every 300–400 hours. Rubber degrades in Malaysian waters faster than the service manual suggests.
-- **Thermostat** — sticking thermostats cause overheating. Costs RM30–80, commonly available but often sourced wrong (different opening temperature for tropical use).
+- **Thermostat** — sticking thermostats cause overheating. Costs modestly — WhatsApp us for a current quote. Commonly available but often sourced wrong (different opening temperature for tropical use).
 - **Heat exchanger core** — corrodes in saltwater environments. High failure rate on boats that aren't flushed with fresh water after each use.
 - **Zincs / anode kits** — technically simple but often neglected. Replace every 6 months in Malaysian coastal waters.
 
@@ -102,7 +102,7 @@ size: 800x500
 
 The official Yanmar Malaysia dealer network covers major ports (Johor Bahru, Klang, Penang, Kuching), but:
 
-- **OEM parts pricing** is typically 2–4× the aftermarket equivalent for consumables
+- **OEM parts pricing** is typically a fraction of the new dealer price
 - **Stock availability** at local dealers is inconsistent for older 3JH variants
 - **Lead time** from official channels is often 2–4 weeks for non-stocked items — unacceptable when a boat is grounded
 
@@ -122,7 +122,7 @@ For workshops and owners who need parts quickly, we source from:
 ## Frequently Asked Questions
 
 **Q: Are Japanese surplus Yanmar parts the same quality as new OEM?**
-A: Genuine surplus parts (unused old stock from Japan) are OEM — they carry original Yanmar part numbers and were made on the same line. They're typically 30–60% cheaper than ordering new through the dealer network.
+A: Genuine surplus parts (unused old stock from Japan) are OEM — they carry original Yanmar part numbers and were made on the same line. They're typically significantly cheaper than ordering new through the dealer network.
 
 **Q: Can I use aftermarket impellers in my Yanmar 3JH?**
 A: For the raw water impeller, quality aftermarket options (Jabsco-equivalent, Marco, or correctly-spec'd Neoprene impellers) work well and are what most Malaysian workshops use. We verify specifications before sourcing.
@@ -138,5 +138,9 @@ A: Common 3JH and 4JH wear parts (impellers, filters, thermostats) — 2–5 wor
 > **Action:** WhatsApp link
 
 ---
+
+## Sources
+
+- Yanmar Marine 3JH/4JH Series Engine Specifications; Kanzaki KM Gearbox Technical Data; Denso Marine Injector Data; Jabsco/Marco Raw Water Impeller Specifications
 
 *Last updated: May 2026*

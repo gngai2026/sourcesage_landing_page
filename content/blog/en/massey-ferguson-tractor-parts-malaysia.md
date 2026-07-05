@@ -40,7 +40,7 @@ This guide covers the most common MF models, their Perkins engines, and how to s
 
 ### MF240 (47 HP — Perkins 3.152 / AD3.152)
 
-The MF240 was the backbone of Malaysia's smallholder agricultural sector through the 1980s and 1990s. A 2WD utility tractor with a 3-cylinder Perkins engine producing 47 HP. Thousands are still in service, maintained by workshops that learned on these machines. Common in rubber and oil palm estates in Johor, Pahang, and Sabah.
+The MF240 was the backbone of Malaysia's smallholder agricultural sector through the 1980s and 1990s. A 2WD utility tractor with a 3-cylinder Perkins engine producing 47 HP. Many are still in service, maintained by workshops that learned on these machines. Common in rubber and oil palm estates in Johor, Pahang, and Sabah.
 
 **Engine identification:**
 - 3-cylinder Perkins diesel (AD3.152 natural aspiration)
@@ -139,5 +139,9 @@ A: Yes — these use the same Perkins 4.248 and 4.248T engines as the 350 series
 > **Action:** WhatsApp link
 
 ---
+
+## Sources
+
+- Perkins AD3.152 / A4.236 / A4.248 Engine Specifications (AGCO-Perkins); Millat Tractors MF 375 Specification Sheet; CAV/Lucas Fuel Injection Data; Dana Spicer Front Axle Data (MF354S)
 
 *Last updated: June 2026*

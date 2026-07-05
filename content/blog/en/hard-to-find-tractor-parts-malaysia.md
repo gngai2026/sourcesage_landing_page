@@ -44,7 +44,7 @@ Three main reasons:
 
 2. **Limited local stock** — Malaysian dealerships stock what sells. Niche parts for less common models, low-volume variants, or specific aftermarket components are rarely held in local inventory.
 
-3. **Single-distributor markets** — For brands like Massey Ferguson (All-Planters is sole distributor for Malaysia), you cannot shop around. If they don't have it, the part is effectively unavailable through official channels.
+3. **Single-distributor markets** — For brands like Massey Ferguson (the authorised MF distributor channel for Malaysia), you cannot shop around. If they don't have it, the part is effectively unavailable through official channels.
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "Vintage tractor parts warehouse with shelving units, workbench, and storage boxes — vintage and discontinued parts inventory"
@@ -112,5 +112,9 @@ If you have a part in mind, [contact us](https://wa.me/60125151323?text=Hi%2C%20
 > **Pre-filled message:** "Hi, I'm trying to find a hard-to-get tractor part. Brand: [X] Model: [X] Part needed: [X]"
 
 ---
+
+## Sources
+
+- Kubota Parts Support Policy (10-year service window); Industry Parts Discontinuation Practice (10-15 year cycle)
 
 *Last updated: 2026-05-01*

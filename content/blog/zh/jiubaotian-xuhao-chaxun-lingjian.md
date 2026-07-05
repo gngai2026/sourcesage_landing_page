@@ -165,4 +165,8 @@ filename: blog-05-inline-photo-identification-process.jpg
 
 ---
 
+## 参考来源
+
+- Kubota Model Number / Serial Number System Reference; Kubota Engine Code Application Tables; Kubota Parts Numbering System; TractorData (secondary corroboration)
+
 *最后更新：2026年5月*

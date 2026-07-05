@@ -149,4 +149,8 @@ Kami membalas kebanyakan pertanyaan dalam masa 24 jam, dan pada hari yang sama u
 
 ---
 
+## Sumber
+
+- John Deere PowerTech 3029 / 4045 / 6068 Engine Specifications; John Deere 5055E/5075E/5310/5403/5415 Model Data; Stanadyne Fuel Injection System Data; TractorData (secondary corroboration)
+
 *Kemas kini terakhir: Mei 2026*

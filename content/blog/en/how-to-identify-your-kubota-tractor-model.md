@@ -34,7 +34,7 @@ filename: blog-01-hero-kubota-paddy-malaysia-v2.jpg
 
 You bought the tractor from a neighbour. Or inherited it from a relative who farmed paddy in Kedah for twenty years. Or you picked it up second-hand with no manual, a faded decal, and a persistent hydraulic leak that needs fixing. The first question is always the same: **what model is this exactly — and where do I find the parts?**
 
-This guide walks through the exact steps we use when we take in a customer call for an older Kubota. It sounds simple, but with a fleet of tens of thousands of Kubota tractors in Malaysia — many of them over 15 years old — the wrong part number is an expensive mistake.
+This guide walks through the exact steps we use when we take in a customer call for an older Kubota. It sounds simple, but with Kubota tractors widely used across Malaysia — many of them over 15 years old — the wrong part number is an expensive mistake.
 
 ---
 
@@ -90,8 +90,8 @@ Common Kubota engine codes found in older Malaysian tractors:
 
 | Engine code | Found in tractor models |
 |---|---|
-| V3300-DI (3.3L) | M9000 |
-| V3800-DI (3.8L) | M9540 (older gen) |
+| V3300-TIE (3.3L) | M9000 |
+| V3800-DI-T (3.8L) | M9540 (older gen) |
 | V2203 (2.2L) | L4400, L4200 |
 | D1803 (1.8L) | L3800 |
 | V2203 | L3408, L3608, L3000 |
@@ -152,5 +152,9 @@ We specialise in exactly this: sourcing parts for older and hard-to-find Kubota 
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota Model Naming Convention (B/L/M Series Prefixes; DT/DV/SU/DHV Suffixes); Kubota Engine Code Reference (V3300/V3800/V2203/D1803/D1503/D1105/V6108); Kubota Parts Cross-Reference (TC422-16800, TD030-12010)
 
 *Last updated: March 2026*

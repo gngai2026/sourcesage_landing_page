@@ -167,4 +167,8 @@ filename: blog-13-inline-kubota-engine-id.jpg
 
 ---
 
+## 参考来源
+
+- Kubota Engine Division — V1505/V2203/V2403 OEM Application Guide; Yanmar TNV/TNE Series OEM Application Guide; Bobcat/Manitou/Takeuchi OEM Engine Cross-Reference
+
 *最后更新：2026年5月*

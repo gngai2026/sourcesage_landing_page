@@ -202,4 +202,8 @@ Kalkulus ekonomi adalah mudah: setara Kubota L4400DV baru hari ini berharga jauh
 
 ---
 
+## Sumber
+
+- Kubota V2203 Engine Specification; Kubota L4400 Model Catalogue (DT/DV/HST Variants); Kubota Parts Cross-Reference System
+
 *Kemas kini terakhir: Mei 2026*

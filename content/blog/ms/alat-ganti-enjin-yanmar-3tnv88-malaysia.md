@@ -160,3 +160,9 @@ Maklumat ini membolehkan kami merujuk silang ke spesifikasi tepat sebelum memesa
 Beritahu kami nombor siri enjin, model mesin, dan alat ganti yang anda perlukan. Kami akan sahkan keserasian dan ketersediaan dalam masa 24 jam.
 
 <!-- 🔗 WHATSAPP CTA -->
+
+---
+
+## Sumber
+
+- Yanmar TNV Series Engine Specifications; Yanmar OEM Equipment Application Guide; Denso Common Rail Fuel Injection Data; Zexel Mechanical Injection Pump Data

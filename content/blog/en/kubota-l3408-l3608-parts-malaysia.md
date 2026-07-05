@@ -28,14 +28,14 @@ faqs:
 search: "kubota L3408 L3608 tractor paddy field southeast asia small farm"
 sources: Wikimedia Commons (https://commons.wikimedia.org/wiki/Category:Kubota_tractors) · TractorData L3408 (https://www.tractordata.com/farm-tractors/000/5/9/598-kubota-l3408.html) · Google Images: "kubota l3408 paddy malaysia" OR "kubota l3608 field"
 alt: "Kubota L3408 DT 4WD compact tractor working a small paddy plot, narrow access track visible alongside field"
-caption: "The Kubota L3408 and L3608 — the classic village tractor of 2000s Malaysia. Millions sold across Southeast Asia, thousands still working."
+caption: "The Kubota L3408 and L3608 — the classic village tractor of 2000s Malaysia. A very large number sold across Southeast Asia, many still working."
 size: 1200×675px (16:9 hero)
 filename: blog-06-hero-kubota-l3408-paddy.jpg
 -->
 
-The Kubota L3408 and L3608 are among the most widely distributed Kubota tractor models in Southeast Asia. While official Malaysia sales figures for these models are hard to come by — they predate the era of detailed local tracking — regional estimates suggest millions of units of the L34xx/L36xx family were sold across Malaysia, Thailand, the Philippines, Indonesia, and Vietnam through the 1990s and 2000s.
+The Kubota L3408 and L3608 are among the most widely distributed Kubota tractor models in Southeast Asia. While official Malaysia sales figures for these models are hard to come by — they predate the era of detailed local tracking — regional estimates suggest a very large number of L34xx/L36xx family units were sold across Malaysia, Thailand, the Philippines, Indonesia, and Vietnam through the 1990s and 2000s.
 
-Hundreds of L3408/L3608/L3000-family units are still operating in Malaysia, and the broader SE Asian fleet runs into the hundreds of thousands — which is why aftermarket supply for this engine family remains robust even today.
+Many L3408/L3608/L3000-family units are still operating in Malaysia, and the broader SE Asian fleet remains substantial — which is why aftermarket supply for this engine family remains robust even today.
 
 **Where are L3408 and L3608 tractors working in Malaysia?**
 
@@ -213,5 +213,9 @@ If you're working on an L3408 or L3608, bring as much information as you can: mo
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota V2203 Engine Specification (2.2L, 4-cylinder, 34-36 HP); Kubota L3408/L3608 Model Specification — Southeast Asia Market; Kubota Parts Cross-Reference System
 
 *Last updated: March 2026*

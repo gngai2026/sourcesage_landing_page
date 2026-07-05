@@ -15,7 +15,7 @@ hero_image: "blog-09-hero-kubota-v1505-engine.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "What machines use the Kubota V1505 engine?"
-    a: "The V1505 powers Kubota B-series tractors (B3030, B3300), GL-series generators, and OEM equipment from Bobcat, Takeuchi, and Multiquip. It's one of Kubota's most widely deployed engines since the late 1990s."
+    a: "The V1505 powers Kubota B-series tractors (B3030, B3300, B3200), GL-series generators, and OEM equipment from Bobcat, Takeuchi, and Multiquip. It's one of Kubota's most widely deployed engines since the late 1990s."
   - q: "What are common Kubota V1505 engine problems?"
     a: "Common issues include injector nozzle wear at 3,000-5,000 hours, head gasket failure from overheating, water pump failure (a service-interval item), timing gear backlash in high-hour engines, and oil pump wear causing low oil pressure at idle."
   - q: "Can you source a V1505 overhaul kit in Malaysia?"
@@ -45,7 +45,7 @@ If you have a Kubota tractor in the L-series or a Kubota generator, there's a st
 The V1505 is installed in a wide range of equipment:
 
 **Kubota Tractors:**
-- Kubota B3030, B3300
+- Kubota B3030, B3300, B3200
 
 **Kubota Generators:**
 - Kubota GL6500 and GL-series industrial generators
@@ -128,7 +128,7 @@ filename: blog-07-inline-v1505-parts.svg
 
 For the V1505, our practical recommendation:
 
-- **Overhaul kits:** Quality aftermarket (Tata, NPR, or equivalent) is well-proven and 40–60% cheaper than OEM. Many workshops in Malaysia have run millions of hours on these kits.
+- **Overhaul kits:** Quality aftermarket (Tata, NPR, or equivalent) is well-proven and typically significantly less than OEM list price. Many workshops in Malaysia have extensive experience with these kits.
 - **Injectors:** Source OEM Denso where possible, especially if the engine is at normal hours — spray pattern consistency matters. Aftermarket injectors are available but quality varies significantly.
 - **Gaskets:** Aftermarket is fine for most gaskets. Use OEM for the head gasket on rebuilt heads to ensure MLS (multi-layer steel) quality.
 - **Water pump:** Either is reliable — confirm the impeller diameter matches your specific variant before ordering.

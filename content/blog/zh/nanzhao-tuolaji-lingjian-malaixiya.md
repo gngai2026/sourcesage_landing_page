@@ -88,4 +88,8 @@ filename: blog-12-hero-hard-to-find-parts.svg
 
 ---
 
+## 参考来源
+
+- Kubota Parts Support Policy; Industry Parts Discontinuation Practice
+
 *最后更新：2026年5月*

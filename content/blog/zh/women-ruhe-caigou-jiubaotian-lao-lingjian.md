@@ -141,4 +141,8 @@ filename: blog-02-inline-oem-vs-aftermarket.jpg
 
 ---
 
+## 参考来源
+
+- Kubota Malaysia Parts Support Policy; Japan Used Agricultural Machinery Market Data; Kubota Parts Cross-Reference Database
+
 *最后更新：2026年5月*

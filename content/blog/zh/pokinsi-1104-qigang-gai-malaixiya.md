@@ -190,4 +190,8 @@ size: 800x500
 
 ---
 
+## 参考来源
+
+- Perkins 1104 Series Engine Specification; Perkins Build List Number System (RE/RG/RH, NJ/NK, PJ/PK); Caterpillar-Perkins Cylinder Head Technical Data
+
 *最后更新：2026年5月*

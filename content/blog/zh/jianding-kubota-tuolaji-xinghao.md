@@ -84,4 +84,8 @@ faqs:
 
 ---
 
+## 参考来源
+
+- Kubota Model Naming Convention (B/L/M Series; DT/DV/SU/DHV Suffixes); Kubota Engine Code Reference; Kubota Parts Cross-Reference System
+
 *最后更新：2026年5月*

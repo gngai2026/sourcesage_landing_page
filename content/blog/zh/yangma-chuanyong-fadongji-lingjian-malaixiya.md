@@ -137,4 +137,8 @@ size: 800x500
 
 ---
 
+## 参考来源
+
+- Yanmar Marine 3JH/4JH Series Engine Specifications; Kanzaki KM Gearbox Technical Data; Denso Marine Injector Data
+
 *最后更新：2026年5月*

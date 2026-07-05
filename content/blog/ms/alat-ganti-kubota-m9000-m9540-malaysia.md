@@ -78,4 +78,8 @@ M9000/M9540 menggunakan sistem hidraulik pusat terbuka. Isu biasa pada traktor y
 
 ---
 
+## Sumber
+
+- Kubota V3300-TIE / V3800-DI-T Engine Specifications; Kubota M9000/M9540 Model Data; TractorData (secondary corroboration)
+
 *Kemas kini terakhir: Mei 2026*

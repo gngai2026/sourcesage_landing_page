@@ -46,7 +46,7 @@ The single biggest mistake in JD parts ordering is not knowing which engine is f
 
 ### PowerTech 3029 (3.0L, 3-cylinder)
 
-Used in: **5055E, 5075E, 5310, 5403, 5415**
+Used in: **5055E, 5075E, 5310, 5403**
 
 The 3029 comes in several variants:
 - **3029D** — naturally aspirated, found in older 5310 and 5403 models
@@ -57,7 +57,7 @@ The D and TF variants share the same block architecture but have different fuel 
 
 ### PowerTech 6068 (6.8L, 6-cylinder)
 
-Used in: **6110J, 6115J, 6125J**
+Used in: **6125J, 6128J**
 
 The 6068 is a substantially larger engine used in the 6J series plantation and large-farm tractors. Nothing from the 3029 family fits the 6068. If you have a 6J series tractor, confirm this engine before ordering any internal components.
 
@@ -66,6 +66,12 @@ alt: "John Deere PowerTech engine serial number plate location"
 caption: "The engine serial number is stamped on the block, typically near the alternator or injection pump. This number is essential for ordering the correct internal parts."
 filename: blog-12-inline-jd-engine-serial.jpg
 -->
+
+### PowerTech 4045 (4.5L, 4-cylinder)
+
+The John Deere 5415 uses a **John Deere 4045D** (4.5L, 4-cylinder) naturally aspirated engine, while the 6110J uses a **John Deere 4045 PowerTech** (Turbocharged, 4.5L, 4-cylinder).
+
+> **Citation:** John Deere 5415 / 6110J specification; TractorData
 
 ---
 
@@ -149,5 +155,9 @@ The more context you give, the faster we can respond:
 We respond to most enquiries within 24 hours, and same-day for urgent machine-down situations.
 
 ---
+
+## Sources
+
+- John Deere PowerTech 3029 / 4045 / 6068 Engine Specifications; John Deere 5055E/5075E/5310/5403/5415 Model Data; Stanadyne Fuel Injection System Data; Baldwin/Fleetguard Filtration Specifications; TractorData (secondary corroboration)
 
 *Last updated: April 2026*

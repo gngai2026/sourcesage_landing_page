@@ -166,4 +166,8 @@ Panduan ini memberi tumpuan kepada alat ganti enjin, di mana kelebihan perolehan
 
 ---
 
+## Sumber
+
+- Kubota Engine Division — V1505/V2203/V2403 OEM Application Guide; Yanmar TNV/TNE Series OEM Application Guide; Bobcat/Manitou/Takeuchi OEM Engine Cross-Reference
+
 *Kemas kini terakhir: Mei 2026*

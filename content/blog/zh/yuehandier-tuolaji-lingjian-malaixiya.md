@@ -150,4 +150,8 @@ HST（静液压）型号完全避免了这个问题，但手动和 PowrReverser 
 
 ---
 
+## 参考来源
+
+- John Deere PowerTech 3029 / 4045 / 6068 Engine Specifications; John Deere 5055E/5075E/5310/5403/5415 Model Data; Stanadyne Fuel Injection System Data; TractorData (secondary corroboration)
+
 *最后更新：2026年5月*

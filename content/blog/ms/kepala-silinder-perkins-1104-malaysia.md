@@ -56,4 +56,8 @@ Lengan penyuntik tembaga longgar dari masa ke masa. Gejala: pencairan bahan api 
 
 ---
 
+## Sumber
+
+- Perkins 1104 Series Engine Specification; Perkins Build List Number System (RE/RG/RH, NJ/NK, PJ/PK); Caterpillar-Perkins Cylinder Head Technical Data
+
 *Kemas kini terakhir: Mei 2026*

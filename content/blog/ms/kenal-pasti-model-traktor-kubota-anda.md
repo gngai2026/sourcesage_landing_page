@@ -149,4 +149,8 @@ Kami pakar dalam hal ini: mendapatkan alat ganti untuk model Kubota lama dan suk
 
 ---
 
+## Sumber
+
+- Kubota Model Naming Convention (B/L/M Series; DT/DV/SU/DHV Suffixes); Kubota Engine Code Reference; Kubota Parts Cross-Reference System
+
 *Kemas kini terakhir: Mei 2026*

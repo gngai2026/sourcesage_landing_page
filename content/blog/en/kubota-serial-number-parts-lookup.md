@@ -103,11 +103,11 @@ Common V-series engine codes and the tractors they're found in:
 
 | Engine | Kubota Tractor Models |
 |---|---|
-| V1505 | L2900, L3000, L3010, L3410, B3200 |
+| V1505 | B3030, B3300, B3200 |
 | V1903 | L3430, L3540, MX4700 |
 | V2203 | L3408, L3608, L3000 (some), L3130 |
 | V2403-M | L3800, L4400, L4200, some L4740 |
-| V3300-DI | M9000 |
+| V3300-TIE | M9000 |
 | V3800-DI-T | M9540DT (newer), M8540 |
 | V6108 | M108S, M110GX |
 
@@ -164,5 +164,9 @@ We'll ask the diagnostic questions. You'll get the right part the first time rat
 > *(WhatsApp deep-link number and UTM params to be configured in app)*
 
 ---
+
+## Sources
+
+- Kubota Model Number / Serial Number System Reference; Kubota Engine Code Application Tables (V1505/V1903/V2203/V2403/V3300/V3800/V6108); Kubota Parts Numbering System (XXXXX-YYYYY format); TractorData (secondary corroboration)
 
 *Last updated: March 2026*
