@@ -137,7 +137,7 @@ Once you know the engine code, the sourcing picture changes significantly:
 
 **Availability.** For machines 10+ years old, the equipment brand's dealer may list parts as "discontinued." But the Kubota or Yanmar engine supply chain for that engine code is often still active, because the same engine is used in dozens of different machines across multiple manufacturers.
 
-**Lead time.** A Kubota or Yanmar parts specialist with established supplier relationships can often turn around sourcing in 24–48 hours for in-demand items. An equipment dealer ordering through their brand's channel may take weeks.
+**Lead time.** A Kubota or Yanmar parts specialist with established supplier relationships can often turn around sourcing in 1–2 business days for in-demand items. An equipment dealer ordering through their brand's channel may take weeks.
 
 ---
 

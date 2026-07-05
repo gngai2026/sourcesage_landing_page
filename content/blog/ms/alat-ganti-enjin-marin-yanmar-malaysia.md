@@ -125,7 +125,7 @@ J: Alat ganti lebihan tulen (stok lama tidak digunakan dari Jepun) adalah OEM �
 J: Untuk impeler air mentah, pilihan aftermarket berkualiti (setara Jabsco, Marco, atau impeler Neoprene spesifikasi betul) berfungsi dengan baik dan itulah yang digunakan oleh kebanyakan bengkel Malaysia. Kami mengesahkan spesifikasi sebelum mendapatkan.
 
 **S: Berapa lama masa perolehan?**
-J: Alat ganti haus 3JH dan 4JH biasa (impeler, penapis, termostat) — 2–5 hari bekerja. Barang yang kurang biasa (pam suntikan, penukar haba) — 5–14 hari bekerja bergantung pada asal.
+J: Alat ganti haus 3JH dan 4JH biasa (impeler, penapis, termostat) — 3–7 hari bekerja. Barang yang kurang biasa (pam suntikan, penukar haba) — 5–14 hari bekerja bergantung pada asal.
 
 ---
 

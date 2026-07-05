@@ -46,7 +46,7 @@ Lengan penyuntik tembaga longgar dari masa ke masa. Gejala: pencairan bahan api 
 | OEM Perkins asli | RM 4,000–7,000 | 2–4 minggu dari UK |
 | Aftermarket (India/Turki) | RM 1,800–3,500 | 3–7 hari dari Singapura |
 | Diperbaharui (diuji) | RM 1,200–2,000 | 3–5 hari tempatan |
-| SourceSage | Sumber OEM + aftermarket | Semakan 24 jam |
+| SourceSage | Sumber OEM + aftermarket | Semakan 1 hari bekerja |
 
 ---
 

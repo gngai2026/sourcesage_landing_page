@@ -3,7 +3,7 @@ id: blog-16
 slug: alat-ganti-traktor-kecemasan-malaysia
 title: "Alat Ganti Traktor Kecemasan Malaysia: Dapatkan Dengan Cepat"
 author: "SourceSage Editorial"
-meta_description: "Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 24 jam dan menghantar melalui kargo udara untuk kecemasan. Meliputi Kubota, Yanmar, MF, John Deere, Perkins & Zoomlion."
+meta_description: "Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 1 hari bekerja dan menghantar melalui kargo udara untuk kecemasan. Meliputi Kubota, Yanmar, MF, John Deere, Perkins & Zoomlion."
 meta_keywords: ["alat ganti traktor kecemasan malaysia", "alat ganti traktor segera malaysia", "penghantaran pantas alat ganti traktor malaysia", "alat ganti kubota kecemasan", "traktor rosak alat ganti malaysia"]
 content_angle: "Problem/solution — captures urgent breakdown intent"
 publish_date: "2026-05-02"
@@ -15,7 +15,7 @@ hero_image: "blog-08-hero-urgent-parts.svg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "Berapa cepat anda boleh mengesahkan ketersediaan alat ganti?"
-    a: "Kami biasanya membalas dalam masa 24-48 jam dengan harga dan ketersediaan."
+    a: "Kami biasanya membalas dalam masa 1-2 hari bekerja dengan harga dan ketersediaan."
   - q: "Adakah anda hanya membekalkan alat ganti traktor?"
     a: "Tidak — kami juga membekalkan alat ganti enjin diesel marin, komponen transmisi, sistem hidraulik, dan bahagian sistem penyejukan."
   - q: "Bolehkah anda membantu jika saya tidak tahu nombor alat ganti yang tepat?"
@@ -28,11 +28,11 @@ faqs:
 
 <!-- 🖼️ IMAGE: HERO
 alt: "Ikon traktor dengan jam kecemasan — perolehan alat ganti segera Malaysia"
-caption: "Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 24 jam."
+caption: "Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 1 hari bekerja."
 filename: blog-08-hero-urgent-parts.svg
 -->
 
-Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 24-48 jam dan menghantar melalui kargo udara untuk kecemasan. Kami meliputi Kubota, Yanmar, Massey Ferguson, John Deere, Perkins, dan Zoomlion — termasuk alat ganti yang tidak disimpan oleh pengedar tempatan.
+Perlukan alat ganti traktor segera di Malaysia? SourceSage mengesahkan ketersediaan dalam masa 1-2 hari bekerja dan menghantar melalui kargo udara untuk kecemasan. Kami meliputi Kubota, Yanmar, Massey Ferguson, John Deere, Perkins, dan Zoomlion — termasuk alat ganti yang tidak disimpan oleh pengedar tempatan.
 
 ---
 

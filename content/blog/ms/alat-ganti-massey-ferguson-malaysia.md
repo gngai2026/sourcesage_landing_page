@@ -113,7 +113,7 @@ Inilah situasi jujur: enjin Perkins diservis oleh rangkaian aftermarket global, 
 3. **Aftermarket India** — India mempunyai pangkalan terpasang Massey Ferguson yang besar (MF adalah jenama traktor paling popular di India) dan menghasilkan alat ganti serasi Perkins pada harga kompetitif. Kualiti berbeza, tetapi pengeluar India yang bereputasi (Mahindra, Standard, Premier) menghasilkan bahagian dalam enjin kepada toleransi yang boleh diterima.
 4. **Stok lebihan UK** — pasaran pertanian UK mempunyai beberapa dekad alat ganti Perkins dalam edaran. Kami kerap mendapatkan melalui rangkaian UK untuk barang yang sukar dicari.
 
-**Apa ini bermakna untuk anda:** Jika pengedar tempatan anda memetik masa utama 3–4 minggu untuk set gasket kepala silinder, ada pilihan yang lebih cepat. Kami biasanya mendapatkan alat ganti Perkins 3.152 dan 4.248 dalam 5–10 hari bekerja.
+**Apa ini bermakna untuk anda:** Jika pengedar tempatan anda memetik masa utama 3–4 minggu untuk set gasket kepala silinder, ada pilihan yang lebih cepat. Kami biasanya mendapatkan alat ganti Perkins 3.152 dan 4.248 dalam 1–2 minggu.
 
 ---
 

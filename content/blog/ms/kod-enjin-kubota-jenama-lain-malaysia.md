@@ -136,7 +136,7 @@ Sebaik sahaja anda tahu kod enjin, gambaran perolehan berubah dengan ketara:
 
 **Ketersediaan.** Untuk mesin berusia 10+ tahun, pengedar jenama peralatan mungkin menyenaraikan alat ganti sebagai "dihentikan." Tetapi rantaian bekalan enjin Kubota atau Yanmar untuk kod enjin itu selalunya masih aktif, kerana enjin yang sama digunakan dalam berpuluh-puluh mesin berbeza merentasi pelbagai pengeluar.
 
-**Masa utama.** Pakar alat ganti Kubota atau Yanmar dengan hubungan pembekal yang ditetapkan selalunya boleh menyelesaikan perolehan dalam 24–48 jam untuk barang dalam permintaan. Pengedar peralatan yang memesan melalui saluran jenama mereka mungkin mengambil masa berminggu-minggu.
+**Masa utama.** Pakar alat ganti Kubota atau Yanmar dengan hubungan pembekal yang ditetapkan selalunya boleh menyelesaikan perolehan dalam 1–2 hari bekerja untuk barang dalam permintaan. Pengedar peralatan yang memesan melalui saluran jenama mereka mungkin mengambil masa berminggu-minggu.
 
 ---
 

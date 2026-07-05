@@ -145,7 +145,7 @@ Lebih banyak konteks yang anda berikan, lebih cepat kami boleh bertindak balas:
 - **Foto alat ganti yang rosak** — depan dan belakang dengan pembaris untuk skala
 - **Penerangan simptom** — apa yang traktor lakukan (atau tidak lakukan)
 
-Kami membalas kebanyakan pertanyaan dalam masa 24 jam, dan pada hari yang sama untuk situasi mesin terhenti yang mendesak.
+Kami membalas kebanyakan pertanyaan dalam masa 1 hari bekerja, dan pada hari yang sama untuk situasi mesin terhenti yang mendesak.
 
 ---
 

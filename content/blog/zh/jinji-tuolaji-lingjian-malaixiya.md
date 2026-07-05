@@ -3,7 +3,7 @@ id: blog-19
 slug: jinji-tuolaji-lingjian-malaixiya
 title: "紧急拖拉机配件马来西亚：快速获取指南"
 author: "SourceSage Editorial"
-meta_description: "在马来西亚需要紧急拖拉机配件？SourceSage 24小时内确认供应情况，并通过空运发货。覆盖久保田、洋马、麦赛福格森、约翰迪尔、珀金斯及中联重科品牌。"
+meta_description: "在马来西亚需要紧急拖拉机配件？SourceSage 1个工作日内确认供应情况，并通过空运发货。覆盖久保田、洋马、麦赛福格森、约翰迪尔、珀金斯及中联重科品牌。"
 meta_keywords: ["紧急拖拉机配件马来西亚", "拖拉机配件快速配送马来西亚", "久保田拖拉机紧急配件", "拖拉机故障配件马来西亚"]
 content_angle: "Problem/solution — captures urgent breakdown intent for Chinese-speaking SEA audience"
 publish_date: "2026-05-02"
@@ -15,7 +15,7 @@ hero_image: "blog-08-hero-urgent-parts.svg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "你们能多快确认零件是否有货？"
-    a: "我们通常在24-48小时内回复，提供价格和供应情况。"
+    a: "我们通常在1-2个工作日内回复，提供价格和供应情况。"
   - q: "你们只供应拖拉机零件吗？"
     a: "不 — 我们也供应船用柴油发动机零件、变速箱部件、液压系统和冷却系统零件。"
   - q: "如果我不知道确切的零件编号，你们能帮忙吗？"
@@ -28,11 +28,11 @@ faqs:
 
 <!-- 🖼️ IMAGE: HERO
 alt: "紧急时钟图标配拖拉机轮廓 — 马来西亚紧急零件采购"
-caption: "在马来西亚紧急需要拖拉机零件？SourceSage 24小时内确认供应。"
+caption: "在马来西亚紧急需要拖拉机零件？SourceSage 1个工作日内确认供应。"
 filename: blog-08-hero-urgent-parts.svg
 -->
 
-在马来西亚紧急需要拖拉机零件？SourceSage 在24-48小时内确认供应情况，并通过空运发货处理紧急需求。我们覆盖久保田、洋马、麦赛福格森、约翰迪尔、珀金斯和中联重科品牌 — 包括本地经销商不库存的零件。
+在马来西亚紧急需要拖拉机零件？SourceSage 在1-2个工作日内确认供应情况，并通过空运发货处理紧急需求。我们覆盖久保田、洋马、麦赛福格森、约翰迪尔、珀金斯和中联重科品牌 — 包括本地经销商不库存的零件。
 
 ---
 

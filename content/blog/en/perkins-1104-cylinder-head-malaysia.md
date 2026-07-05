@@ -19,7 +19,7 @@ faqs:
   - q: "Should I replace with OEM or aftermarket?"
     a: "Quality aftermarket cylinder heads are well-proven for the Perkins 1104 and cost significantly less than OEM. We can source both options and advise based on your application and budget."
   - q: "How long does it take to get a Perkins 1104 cylinder head in Malaysia?"
-    a: "Typically 3-7 working days depending on stock availability. Air freight available for urgent breakdowns."
+    a: "Typically 1-2 weeks depending on stock availability. Air freight available for urgent breakdowns."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -100,7 +100,7 @@ The 1104 uses copper injector sleeves pressed into the cylinder head. Over time 
 Perkins cylinder heads are still manufactured under Cat® ownership (Caterpillar acquired Perkins in 1998). A new OEM 1104 cylinder head comes fully assembled with valves, springs, and seats installed.
 
 - **Pros:** Exact fit, full warranty, traceable
-- **Cons:** Expensive (several thousand ringgit, close to five figures for some variants. WhatsApp us for a current quote.), 2–4 week lead time from UK
+- **Cons:** Expensive (several thousand ringgit, close to five figures for some variants. WhatsApp us for a current quote.), 3–5 week lead time from UK
 - **Part number:** Varies by variant — check your engine data plate
 
 ### Quality Aftermarket
@@ -137,7 +137,7 @@ size: 800x500
 | Perkins / Sime Darby Industrial | New OEM heads | 2–4 weeks | Genuine parts with warranty |
 | Singapore Perkins stockists | Aftermarket heads, gaskets | 3–7 days | Regional stock, lower shipping cost |
 | Klang Valley engine rebuilders | Reconditioned heads, machining | 3–5 days | Budget rebuilds, crack testing |
-| SourceSage | OEM + aftermarket cross-reference | 24–48hr availability check | Hard-to-find variants, urgent orders |
+| SourceSage | OEM + aftermarket cross-reference | 1–2 business day availability check | Hard-to-find variants, urgent orders |
 
 ### Identifying Your 1104 Variant
 
@@ -188,7 +188,7 @@ A: New OEM from Perkins: several thousand ringgit, close to five figures for som
 A: The turbo variant (44T) may have different valve materials and injector specifications. The head castings are physically similar but not always interchangeable — valve sizes, injector seat angles, and pre-combustion chamber designs differ between naturally aspirated and turbocharged variants. Always match to your engine's build list number.
 
 **Q: How long does sourcing take in Malaysia?**
-A: Common aftermarket heads are often available in Singapore or Klang Valley stockists — 3–7 days. OEM heads from Perkins UK typically take 2–4 weeks. We confirm availability and ETA within 24–48 hours before you commit.
+a: Common aftermarket heads are often available in Singapore or Klang Valley stockists — 1-2 weeks. OEM heads from Perkins UK typically take 3–5 weeks. We confirm availability and ETA within 1-2 business days before you commit.
 
 ---
 

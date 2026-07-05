@@ -51,7 +51,7 @@ const zhFaqSchema = {
 
 export const metadata = {
   title: '马来西亚拖拉机及船用发动机配件 | SourceSage',
-  description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。24小时内确认供应。',
+  description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。1个工作日内确认供应。',
   alternates: {
     canonical: '/zh/',
     languages: {
@@ -63,7 +63,7 @@ export const metadata = {
   },
   openGraph: {
     title: '马来西亚拖拉机及船用发动机配件 | SourceSage',
-    description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。24小时内确认供应。',
+    description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。1个工作日内确认供应。',
     url: 'https://sourcesage.ai/zh/',
     siteName: 'SourceSage.ai',
     type: 'website',
@@ -73,7 +73,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: '马来西亚拖拉机及船用发动机配件 | SourceSage',
-    description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。24小时内确认供应。',
+    description: '在马来西亚寻找难以找到的拖拉机和船用发动机配件？我们供应 Kubota、Yanmar、Massey Ferguson、John Deere、Perkins 及 Zoomlion 品牌配件。1个工作日内确认供应。',
     images: ['https://sourcesage.ai/images/og-home.png'],
   },
 }

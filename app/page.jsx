@@ -3,10 +3,10 @@ import { en } from '../lib/translations/en'
 
 export const metadata = {
   title: 'Hard-to-Find Tractor & Marine Parts Malaysia | SourceSage',
-  description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 24hr availability check. Ship nationwide.',
+  description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 1 business day availability check. Ship nationwide.',
   openGraph: {
     title: 'Hard-to-Find Tractor & Marine Parts Malaysia | SourceSage',
-    description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 24hr availability check. Ship nationwide.',
+    description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 1 business day availability check. Ship nationwide.',
     url: 'https://sourcesage.ai/',
     siteName: 'SourceSage.ai',
     type: 'website',
@@ -16,7 +16,7 @@ export const metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'Hard-to-Find Tractor & Marine Parts Malaysia | SourceSage',
-    description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 24hr availability check. Ship nationwide.',
+    description: 'Find hard-to-find tractor & marine engine parts in Malaysia. Kubota, Yanmar, Massey Ferguson, John Deere, Perkins & Zoomlion. 1 business day availability check. Ship nationwide.',
     images: ['https://sourcesage.ai/images/og-home.png'],
   },
 }

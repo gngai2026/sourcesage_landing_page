@@ -21,7 +21,7 @@ faqs:
   - q: "What is the difference between the L4400DT and L4400DV?"
     a: "DT denotes 4-wheel drive (dual traction); DV denotes 2-wheel drive. The front axle, front wheel hubs, and 4WD engagement components differ. All rear-end and engine parts are shared between the two variants."
   - q: "Where can I find Kubota L4400 hydraulic parts in Malaysia?"
-    a: "For newer L4400s (post-2005), authorised Kubota dealers carry most hydraulic parts. For older units or discontinued items, specialist sourcing through SourceSage covers lift cylinder seals, hydraulic pump repair kits, and control valve O-ring sets — usually within 24 hours of enquiry."
+    a: "For newer L4400s (post-2005), authorised Kubota dealers carry most hydraulic parts. For older units or discontinued items, specialist sourcing through SourceSage covers lift cylinder seals, hydraulic pump repair kits, and control valve O-ring sets — usually within 1 business day of enquiry."
 ---
 
 <!-- 🖼️ IMAGE: HERO

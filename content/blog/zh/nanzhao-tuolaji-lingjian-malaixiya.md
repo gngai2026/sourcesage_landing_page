@@ -54,7 +54,7 @@ filename: blog-12-hero-hard-to-find-parts.svg
 |------|----------|------------|
 | 库存 | 仅高周转消耗品 | 跨亚洲多供应商搜索 |
 | 停产零件 | 通常不可用 | 通过二级经销商积极采购 |
-| 响应时间 | 非库存品2-6周 | 24-48小时供应确认 |
+| 响应时间 | 非库存品2-6周 | 1-2个工作日供应确认 |
 | 品牌覆盖 | 单一品牌 | [久保田](/kubota-tractor-parts-malaysia/)、[洋马](/yanmar-marine-parts-malaysia/)、[麦赛福格森](/massey-ferguson-parts-malaysia/)、[约翰迪尔](/john-deere-parts-malaysia/)、[珀金斯](/perkins-engine-parts-malaysia/)、[中联重科](/zoomlion-parts-malaysia/) |
 | 老式零件支持 | 有限 | 日本二级经销商老式零件网络 |
 

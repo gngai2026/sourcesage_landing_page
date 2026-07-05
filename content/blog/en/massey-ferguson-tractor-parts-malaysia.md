@@ -116,7 +116,7 @@ Here's the honest situation: Perkins engines are serviced by a global aftermarke
 3. **Indian aftermarket** — India has a massive Massey Ferguson installed base (MF is the most popular tractor brand in India) and produces Perkins-compatible parts at competitive prices. Quality varies, but reputable Indian manufacturers (Mahindra, Standard, Premier) produce engine internals to acceptable tolerances.
 4. **UK surplus stock** — the UK agricultural market has decades of Perkins parts in circulation. We regularly source through the UK network for hard-to-find items.
 
-**What this means for you:** If your local dealer quotes a 3–4 week lead time for a cylinder head gasket set, there are faster options. We typically source Perkins 3.152 and 4.248 parts in 5–10 working days.
+**What this means for you:** If your local dealer quotes a 3–4 week lead time for a cylinder head gasket set, there are faster options. We typically source Perkins 3.152 and 4.248 parts in 1–2 weeks.
 
 ---
 

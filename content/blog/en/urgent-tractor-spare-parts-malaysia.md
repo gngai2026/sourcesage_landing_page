@@ -15,7 +15,7 @@ hero_image: "blog-08-hero-urgent-parts.svg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "How quickly can you confirm if a part is available?"
-    a: "We typically respond within 24-48 hours with pricing and availability."
+    a: "We typically respond within 1-2 business days with pricing and availability."
   - q: "Do you only supply tractor parts?"
     a: "No — we also supply marine diesel engine parts, transmission components, hydraulic systems, and cooling system parts."
   - q: "Can you help if I don't know the exact part number?"
@@ -28,11 +28,11 @@ faqs:
 
 <!-- 🖼️ IMAGE: HERO
 alt: "Tractor silhouette with urgency clock icon — urgent spare parts sourcing Malaysia"
-caption: "Need tractor parts urgently in Malaysia? SourceSage confirms availability within 24 hours."
+caption: "Need tractor parts urgently in Malaysia? SourceSage confirms availability within 1 business day."
 filename: blog-08-hero-urgent-parts.svg
 -->
 
-Need urgent tractor spare parts in Malaysia? SourceSage confirms availability within 24-48 hours and ships via air freight for emergencies. We cover Kubota, Yanmar, Massey Ferguson, John Deere, Perkins, and Zoomlion — including parts local dealers don't stock.
+Need urgent tractor spare parts in Malaysia? SourceSage confirms availability within 1-2 business days and ships via air freight for emergencies. We cover Kubota, Yanmar, Massey Ferguson, John Deere, Perkins, and Zoomlion — including parts local dealers don't stock.
 
 ---
 

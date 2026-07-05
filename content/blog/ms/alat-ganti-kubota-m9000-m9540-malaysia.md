@@ -68,7 +68,7 @@ M9000/M9540 menggunakan sistem hidraulik pusat terbuka. Isu biasa pada traktor y
 | Pengedar OEM Kubota | Alat ganti baru, terhad untuk model lama | 2-4 minggu |
 | Pembekal aftermarket Singapura | Alternatif berkualiti | 3-7 hari |
 | Rangkaian sekunder Jepun | Alat ganti vintaj/dihentikan | 7-14 hari |
-| SourceSage | OEM + aftermarket | Semakan 24-48 jam |
+| SourceSage | OEM + aftermarket | Semakan 1-2 hari bekerja |
 
 ---
 

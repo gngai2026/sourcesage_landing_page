@@ -21,7 +21,7 @@ faqs:
   - q: "Apakah perbezaan antara L4400DT dan L4400DV?"
     a: "DT menunjukkan pacuan 4 roda (dual traction); DV menunjukkan pacuan 2 roda. Gandar depan, hub roda depan, dan komponen penglibatan 4WD berbeza. Semua alat ganti bahagian belakang dan enjin dikongsi antara kedua-dua varian."
   - q: "Di mana saya boleh cari alat ganti hidraulik Kubota L4400 di Malaysia?"
-    a: "Untuk L4400 yang lebih baru (selepas 2005), pengedar Kubota yang sah membawa kebanyakan alat ganti hidraulik. Untuk unit lama atau barang yang dihentikan, perolehan pakar melalui SourceSage meliputi seal silinder angkat, kit pembaikan pam hidraulik, dan set O-ring injap kawalan — biasanya dalam masa 24 jam dari pertanyaan."
+    a: "Untuk L4400 yang lebih baru (selepas 2005), pengedar Kubota yang sah membawa kebanyakan alat ganti hidraulik. Untuk unit lama atau barang yang dihentikan, perolehan pakar melalui SourceSage meliputi seal silinder angkat, kit pembaikan pam hidraulik, dan set O-ring injap kawalan — biasanya dalam masa 1 hari bekerja dari pertanyaan."
 ---
 <!-- 🖼️ IMAGE: HERO
 search: "kubota L4400 tractor malaysia paddy orchard farm 4WD"

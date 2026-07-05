@@ -19,7 +19,7 @@ faqs:
   - q: "Do you ship Yanmar marine parts to East Malaysia?"
     a: "Yes — we deliver to Sabah and Sarawak including coastal and river communities. Tracked courier or air freight available."
   - q: "How long does sourcing take for Yanmar marine parts?"
-    a: "Most parts confirmed within 24-48 hours. Delivery 3-10 working days depending on source location. Discontinued items may take longer via our Japan network."
+    a: "Most parts confirmed within 1-2 business days. Delivery 3-10 working days depending on source location. Discontinued items may take longer via our Japan network."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -128,7 +128,7 @@ A: Genuine surplus parts (unused old stock from Japan) are OEM — they carry or
 A: For the raw water impeller, quality aftermarket options (Jabsco-equivalent, Marco, or correctly-spec'd Neoprene impellers) work well and are what most Malaysian workshops use. We verify specifications before sourcing.
 
 **Q: How long does sourcing take?**
-A: Common 3JH and 4JH wear parts (impellers, filters, thermostats) — 2–5 working days. Less common items (injection pumps, heat exchangers) — 5–14 working days depending on origin.
+J: Common 3JH and 4JH wear parts (impellers, filters, thermostats) — 3–7 working days. Less common items (injection pumps, heat exchangers) — 5–14 working days depending on origin.
 
 ---
 

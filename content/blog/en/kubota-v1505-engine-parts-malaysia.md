@@ -19,7 +19,7 @@ faqs:
   - q: "What are common Kubota V1505 engine problems?"
     a: "Common issues include injector nozzle wear at 3,000-5,000 hours, head gasket failure from overheating, water pump failure (a service-interval item), timing gear backlash in high-hour engines, and oil pump wear causing low oil pressure at idle."
   - q: "Can you source a V1505 overhaul kit in Malaysia?"
-    a: "Yes — we supply both OEM and quality aftermarket overhaul kits including pistons, rings, liners, and full gasket sets. Most enquiries confirmed within 24 hours."
+    a: "Yes — we supply both OEM and quality aftermarket overhaul kits including pistons, rings, liners, and full gasket sets. Most enquiries confirmed within 1 business day."
   - q: "How do I identify my V1505 engine variant?"
     a: "The engine serial number is stamped on the block near the fuel injection pump (format V1505-XXXXX). It determines whether you have a V1505-B or V1505-E variant and confirms the correct injector and pump specification."
 ---
@@ -118,7 +118,7 @@ Loss of oil pressure at idle in a high-hour engine. Can sometimes be resolved wi
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "Kubota V1505 parts catalog grid showing overhaul kit, cylinder head, injectors, water pump, oil pump, timing gears, injection pump, gasket set, and starter motor"
-caption: "SourceSage sources all V1505 parts — OEM and quality aftermarket. Most enquiries confirmed within 24 hours."
+caption: "SourceSage sources all V1505 parts — OEM and quality aftermarket. Most enquiries confirmed within 1 business day."
 filename: blog-07-inline-v1505-parts.svg
 -->
 
@@ -155,7 +155,7 @@ The V1505 is common enough that basic service parts (filters, belts, thermostat)
 3. **Cylinder heads** — reconditioned heads are often more practical than new OEM; sourcing a good-quality reconditioned unit is the key skill
 4. **East Malaysia** — if you're in Sabah or Sarawak, the supply chain is even thinner
 
-We maintain access to V1505 parts through our Japan and regional supplier network. Most parts enquiries get a confirmed availability and price within 24 hours.
+We maintain access to V1505 parts through our Japan and regional supplier network. Most parts enquiries get a confirmed availability and price within 1 business day.
 
 ---
 

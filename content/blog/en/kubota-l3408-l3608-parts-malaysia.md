@@ -182,7 +182,7 @@ However:
 
 4. **Cross-compatibility with later models.** Many V2203 components also appear in the Kubota L3200 and L3800 — models that are more recent and have better current parts availability. Always cross-check.
 
-The L3408 and L3608 are among our most frequent enquiries for older models. We have active sourcing relationships for these parts and can usually respond within 24–48 hours on availability.
+The L3408 and L3608 are among our most frequent enquiries for older models. We have active sourcing relationships for these parts and can usually respond within 1–2 business days on availability.
 
 ---
 

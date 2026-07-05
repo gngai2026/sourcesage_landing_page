@@ -15,7 +15,7 @@ hero_image: "blog-02-hero-parts-warehouse.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "Berapa lama masa untuk mendapatkan alat ganti Kubota vintaj di Malaysia?"
-    a: "Untuk alat ganti yang kami ada dalam stok atau boleh dapatkan secara tempatan, biasanya 1–3 hari bekerja. Untuk barang yang diperoleh dari pasaran sekunder Jepun, jangkakan 10–21 hari melalui kargo udara. Kami sahkan ketersediaan dan masa utama sebelum anda komited — tiada kejutan mengenai masa."
+    a: "Untuk alat ganti yang kami ada dalam stok atau boleh dapatkan secara tempatan, biasanya 1–3 hari bekerja. Untuk barang yang diperoleh dari pasaran sekunder Jepun, jangkakan 2–4 minggu melalui kargo udara. Kami sahkan ketersediaan dan masa utama sebelum anda komited — tiada kejutan mengenai masa."
   - q: "Adakah alat ganti terpakai dari Jepun boleh dipercayai untuk traktor Kubota lama?"
     a: "Jentera pertanian terpakai Jepun adalah antara yang paling terjaga di dunia. Alat ganti dari traktor Jepun yang dibongkar selalunya dalam keadaan lebih baik daripada setara yang digunakan tempatan — terutamanya untuk pemasangan klac, aci PTO, dan komponen hidraulik. Setiap alat ganti terpakai yang kami jual diperiksa dan diuji sebelum dihantar."
   - q: "Apakah perbezaan antara alat ganti Kubota tulen, serasi OEM, dan aftermarket?"
@@ -65,7 +65,7 @@ size: 800×500px
 filename: blog-02-inline-japan-tractor-auction.jpg
 -->
 
-**Masa utama biasa:** 10–21 hari kargo udara.
+**Masa utama biasa:** 2–4 minggu kargo udara.
 
 ---
 
@@ -120,7 +120,7 @@ Semakin lama model, semakin besar kemungkinan kami mempunyai laluan perolehan un
 - Kubota L4400 dan L4200 — kuda kerja banyak ladang kecil dari 2002 hingga 2012
 - Kubota B5200 dan B2920 — model kompak masih beroperasi di plot yang lebih kecil
 
-Proses kami mudah: beritahu kami model, nama alat ganti atau nombor alat ganti jika ada, dan sebanyak konteks yang anda boleh (sistem mana, mod kegagalan apa, apa yang telah anda cuba). Kami akan kembali dengan ketersediaan dan harga — biasanya dalam masa 24 jam.
+Proses kami mudah: beritahu kami model, nama alat ganti atau nombor alat ganti jika ada, dan sebanyak konteks yang anda boleh (sistem mana, mod kegagalan apa, apa yang telah anda cuba). Kami akan kembali dengan ketersediaan dan harga — biasanya dalam masa 1 hari bekerja.
 
 ---
 

@@ -178,7 +178,7 @@ Walau bagaimanapun:
 3. **Pasaran sekunder Jepun.** Model ini juga dijual di Jepun (di bawah spesifikasi yang sedikit berbeza). Pembongkar Jepun membawa alat ganti terpakai tulen untuk keluarga V2203.
 4. **Keserasian silang dengan model kemudian.** Banyak komponen V2203 juga muncul dalam Kubota L3200 dan L3800 — model yang lebih terkini dan mempunyai ketersediaan alat ganti semasa yang lebih baik. Sentiasa semak silang.
 
-L3408 dan L3608 adalah antara pertanyaan paling kerap kami untuk model lama. Kami mempunyai hubungan perolehan yang aktif untuk alat ganti ini dan biasanya boleh bertindak balas dalam masa 24–48 jam mengenai ketersediaan.
+L3408 dan L3608 adalah antara pertanyaan paling kerap kami untuk model lama. Kami mempunyai hubungan perolehan yang aktif untuk alat ganti ini dan biasanya boleh bertindak balas dalam masa 1–2 hari bekerja mengenai ketersediaan.
 
 ---
 

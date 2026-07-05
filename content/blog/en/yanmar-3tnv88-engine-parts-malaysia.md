@@ -109,7 +109,7 @@ Common in high-hour machines and easy to overlook until oil consumption becomes 
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "Yanmar 3TNV88 parts catalog showing overhaul kit, injector nozzles, timing belt kit, water pump, injection pump, and crankshaft seal kit"
-caption: "SourceSage sources all 3TNV88 parts — OEM Yanmar and quality aftermarket. Availability confirmed within 24 hours."
+caption: "SourceSage sources all 3TNV88 parts — OEM Yanmar and quality aftermarket. Availability confirmed within 1 business day."
 filename: blog-10-inline-3tnv88-parts.svg
 -->
 
@@ -143,7 +143,7 @@ The 3TNV88 presents a specific sourcing problem: because it's OEM-fitted to many
 
 For equipment in East Malaysia — Sabah construction sites, Sarawak plantation machinery — the supply chain is even thinner. Parts that are readily available in KL can take 1–2 weeks to reach Sandakan or Miri through normal channels.
 
-We bypass this by maintaining direct relationships with Yanmar-authorised parts suppliers and secondary distributors. Most 3TNV88 parts enquiries get a confirmed availability response within 24 hours.
+We bypass this by maintaining direct relationships with Yanmar-authorised parts suppliers and secondary distributors. Most 3TNV88 parts enquiries get a confirmed availability response within 1 business day.
 
 ---
 
@@ -161,7 +161,7 @@ This information lets us cross-reference to the exact specification before order
 
 ## Get a 3TNV88 Parts Quote
 
-Tell us your engine serial number, machine model, and the part you need. We'll confirm compatibility and availability within 24 hours.
+Tell us your engine serial number, machine model, and the part you need. We'll confirm compatibility and availability within 1 business day.
 
 <!-- 🔗 WHATSAPP CTA -->
 

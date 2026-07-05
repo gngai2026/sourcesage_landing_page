@@ -15,7 +15,7 @@ hero_image: "blog-02-hero-parts-warehouse.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "How long does it take to source vintage Kubota parts in Malaysia?"
-    a: "For parts we have in stock or can source locally, typically 1–3 business days. For items sourced from Japan's secondary market, expect 10–21 days by air freight. We confirm availability and lead time before you commit — there are no surprises on timing."
+    a: "For parts we have in stock or can source locally, typically 1–3 business days. For items sourced from Japan's secondary market, expect 2–4 weeks by air freight. We confirm availability and lead time before you commit — there are no surprises on timing."
   - q: "Are used parts from Japan reliable for an older Kubota tractor?"
     a: "Japanese used farm machinery is among the most well-maintained in the world. Parts from dismantled Japanese tractors are often in better condition than locally-used equivalents — especially for items like clutch assemblies, PTO shafts, and hydraulic components. Every used part we sell is inspected and tested before dispatch."
   - q: "What is the difference between genuine, OEM-compatible, and aftermarket Kubota parts?"
@@ -66,7 +66,7 @@ size: 800×500px
 filename: blog-02-inline-japan-tractor-auction.jpg
 -->
 
-**Typical lead time:** 10–21 days air freight.
+**Typical lead time:** 2–4 weeks air freight.
 
 ---
 
@@ -121,7 +121,7 @@ The older the model, the more likely we are to have a sourcing path for it, beca
 - Kubota L4400 and L4200 — the workhorse of many small farms from 2002 to 2012
 - Kubota B5200 and B2920 — compact models still operating on smaller plots
 
-Our process is simple: tell us the model, the part name or part number if you have it, and as much context as you can (which system, what failure mode, what you've already tried). We'll come back to you with availability and pricing — usually within 24 hours.
+Our process is simple: tell us the model, the part name or part number if you have it, and as much context as you can (which system, what failure mode, what you've already tried). We'll come back to you with availability and pricing — usually within 1 business day.
 
 ---
 

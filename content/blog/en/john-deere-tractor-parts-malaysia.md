@@ -152,7 +152,7 @@ The more context you give, the faster we can respond:
 - **Photo of the failed part** — front and back with a ruler for scale
 - **Symptom description** — what the tractor is doing (or not doing)
 
-We respond to most enquiries within 24 hours, and same-day for urgent machine-down situations.
+We respond to most enquiries within 1 business day, and same-day for urgent machine-down situations.
 
 ---
 

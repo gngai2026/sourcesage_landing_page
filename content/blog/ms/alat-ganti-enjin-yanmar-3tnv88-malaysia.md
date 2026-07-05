@@ -17,7 +17,7 @@ faqs:
   - q: "Apakah masalah biasa enjin Yanmar 3TNV88?"
     a: "Masalah biasa termasuk haus muncung injector pada 3,000+ jam, kegagalan head gasket, dan kehausan pam air. Kami boleh dapatkan alat ganti OEM dan aftermarket."
   - q: "Berapa lama untuk dapatkan alat ganti 3TNV88?"
-    a: "Kebanyakan alat ganti disahkan dalam 24-48 jam. Penghantaran 3-10 hari bekerja."
+    a: "Kebanyakan alat ganti disahkan dalam 1-2 hari bekerja. Penghantaran 3-10 hari bekerja."
 ---
 <!-- 🖼️ IMAGE: HERO
 filename: blog-10-hero-yanmar-3tnv88-engine.jpg
@@ -106,7 +106,7 @@ Biasa dalam mesin jam tinggi dan mudah diabaikan sehingga penggunaan minyak menj
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "Katalog alat ganti Yanmar 3TNV88 menunjukkan kit baik pulih, muncung penyuntik, kit tali pinggang masa, pam air, pam suntikan, dan kit seal engkol"
-caption: "SourceSage mendapatkan semua alat ganti 3TNV88 — OEM Yanmar dan aftermarket berkualiti. Ketersediaan disahkan dalam masa 24 jam."
+caption: "SourceSage mendapatkan semua alat ganti 3TNV88 — OEM Yanmar dan aftermarket berkualiti. Ketersediaan disahkan dalam masa 1 hari bekerja."
 filename: blog-10-inline-3tnv88-parts.svg
 -->
 
@@ -139,7 +139,7 @@ Sentiasa sahkan model enjin dari plat enjin — bukan hanya model mesin — sebe
 
 Untuk peralatan di Malaysia Timur — tapak pembinaan Sabah, jentera ladang Sarawak — rantaian bekalan lebih tipis. Alat ganti yang sedia ada di KL boleh mengambil masa 1–2 minggu untuk sampai ke Sandakan atau Miri melalui saluran biasa.
 
-Kami memintas ini dengan mengekalkan hubungan langsung dengan pembekal alat ganti yang diberi kuasa Yanmar dan pengedar sekunder. Kebanyakan pertanyaan alat ganti 3TNV88 mendapat respons ketersediaan yang disahkan dalam masa 24 jam.
+Kami memintas ini dengan mengekalkan hubungan langsung dengan pembekal alat ganti yang diberi kuasa Yanmar dan pengedar sekunder. Kebanyakan pertanyaan alat ganti 3TNV88 mendapat respons ketersediaan yang disahkan dalam masa 1 hari bekerja.
 
 ---
 
@@ -157,7 +157,7 @@ Maklumat ini membolehkan kami merujuk silang ke spesifikasi tepat sebelum memesa
 
 ## Dapatkan Sebut Harga Alat Ganti 3TNV88
 
-Beritahu kami nombor siri enjin, model mesin, dan alat ganti yang anda perlukan. Kami akan sahkan keserasian dan ketersediaan dalam masa 24 jam.
+Beritahu kami nombor siri enjin, model mesin, dan alat ganti yang anda perlukan. Kami akan sahkan keserasian dan ketersediaan dalam masa 1 hari bekerja.
 
 <!-- 🔗 WHATSAPP CTA -->
 

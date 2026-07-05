@@ -133,7 +133,7 @@ Apabila seseorang menghubungi kami dengan "Saya ada Kubota lama, tak tahu model,
 
 4. **Cadangkan dua atau tiga nombor alat ganti yang sepadan** dan sahkan terhadap foto alat ganti yang rosak. Jika ketiga-tiga calon menggunakan alat ganti yang sama (yang sering berlaku dengan pendekatan platform silang model Kubota), kami boleh menghantar dengan yakin tanpa mengira model tepatnya.
 
-5. **Hantar.** Untuk alat ganti Kubota tulen, kami biasanya sahkan dalam masa 24 jam. Untuk alat ganti aftermarket atau sumber Jepun pada model lama yang sukar dikenal pasti, kami mungkin memerlukan 48–72 jam untuk mengesahkan ketersediaan sebelum memetik harga.
+5. **Hantar.** Untuk alat ganti Kubota tulen, kami biasanya sahkan dalam masa 1 hari bekerja. Untuk alat ganti aftermarket atau sumber Jepun pada model lama yang sukar dikenal pasti, kami mungkin memerlukan 2–3 hari bekerja untuk mengesahkan ketersediaan sebelum memetik harga.
 
 ---
 

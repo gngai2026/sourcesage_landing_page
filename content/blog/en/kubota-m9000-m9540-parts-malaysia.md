@@ -2,7 +2,7 @@
 id: blog-03
 slug: kubota-m9000-m9540-parts-malaysia
 title: "Kubota M9000 & M9540 Parts Malaysia: Owner's Guide"
-meta_description: "Kubota M9000 & M9540 tractor parts guide. Fuel injectors, hydraulic pumps, PTO parts & more for these Kubota models. Find parts in Malaysia with 24hr sourcing."
+meta_description: "Kubota M9000 & M9540 tractor parts guide. Fuel injectors, hydraulic pumps, PTO parts & more for these Kubota models. Find parts in Malaysia with 1 business day sourcing."
 author: "SourceSage Editorial"
 meta_keywords: ["kubota m9000 parts malaysia", "kubota m9540 spare parts", "kubota m9540dt parts list"]
 content_angle: "Model-specific deep-dive — highest commercial intent"
@@ -21,7 +21,7 @@ faqs:
   - q: "Where can I find Kubota M9000 and M9540 parts in Malaysia?"
     a: "Authorised Kubota dealers in Malaysia carry parts for models within the standard service window. For older M9000 units (pre-2004), parts are increasingly sourced through specialist suppliers like SourceSage — via Japan's secondary market and OEM-compatible manufacturers."
   - q: "How long does it take to get hard-to-find M9540 parts in Malaysia?"
-    a: "In-stock items ship within 1–3 business days. Parts sourced from Japan typically arrive in 10–21 days by air freight. We confirm availability and lead time before you commit to an order."
+    a: "In-stock items ship within 1–3 business days. Parts sourced from Japan typically arrive in 2–4 weeks by air freight. We confirm availability and lead time before you commit to an order."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -176,7 +176,7 @@ When you contact us, the most useful information you can provide:
 4. **Description of the symptom** (not just the part name — e.g., "hydraulic lift won't hold position" tells us more than "need hydraulic part")
 5. **A photo** if you have one
 
-We'll come back with availability, lead time, and pricing. For genuine Kubota parts on this model, expect 3–14 days depending on stock. For compatible aftermarket, usually faster.
+We'll come back with availability, lead time, and pricing. For genuine Kubota parts on this model, expect 1–3 weeks depending on stock. For compatible aftermarket, usually faster.
 
 ---
 

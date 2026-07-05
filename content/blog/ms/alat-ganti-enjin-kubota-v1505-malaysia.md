@@ -17,7 +17,7 @@ faqs:
   - q: "Apakah enjin Kubota V1505 digunakan pada mesin apa?"
     a: "Enjin V1505 digunakan pada traktor Kubota B-series (B3030, B3300), generator GL-series, dan peralatan OEM dari Bobcat, Takeuchi, dan Multiquip."
   - q: "Di mana saya boleh dapatkan kit baik pulih V1505 di Malaysia?"
-    a: "Kami membekalkan kit baik pulih OEM dan aftermarket berkualiti termasuk piston, cincin, liner, dan set gasket lengkap. Pengesahan dalam 24 jam."
+    a: "Kami membekalkan kit baik pulih OEM dan aftermarket berkualiti termasuk piston, cincin, liner, dan set gasket lengkap. Pengesahan dalam 1 hari bekerja."
 ---
 <!-- 🖼️ IMAGE: HERO
 filename: blog-09-hero-kubota-v1505-engine.jpg
@@ -109,7 +109,7 @@ Kehilangan tekanan minyak pada melahu dalam enjin jam tinggi. Kadangkala boleh d
 
 <!-- 🖼️ IMAGE: INLINE
 alt: "Grid katalog alat ganti Kubota V1505 menunjukkan kit baik pulih, kepala silinder, penyuntik, pam air, pam minyak, gear pemasaan, pam suntikan, set gasket, dan motor penghidup"
-caption: "SourceSage mendapatkan semua alat ganti V1505 — OEM dan aftermarket berkualiti. Kebanyakan pertanyaan disahkan dalam masa 24 jam."
+caption: "SourceSage mendapatkan semua alat ganti V1505 — OEM dan aftermarket berkualiti. Kebanyakan pertanyaan disahkan dalam masa 1 hari bekerja."
 filename: blog-07-inline-v1505-parts.svg
 -->
 
@@ -146,7 +146,7 @@ V1505 cukup biasa sehingga alat ganti servis asas (penapis, tali sawat, termosta
 3. **Kepala silinder** — kepala yang diperbaharui selalunya lebih praktikal daripada OEM baru; mendapatkan unit diperbaharui berkualiti baik adalah kemahiran utama
 4. **Malaysia Timur** — jika anda di Sabah atau Sarawak, rantaian bekalan lebih tipis
 
-Kami mengekalkan akses kepada alat ganti V1505 melalui rangkaian pembekal Jepun dan serantau kami. Kebanyakan pertanyaan alat ganti mendapat pengesahan ketersediaan dan harga dalam masa 24 jam.
+Kami mengekalkan akses kepada alat ganti V1505 melalui rangkaian pembekal Jepun dan serantau kami. Kebanyakan pertanyaan alat ganti mendapat pengesahan ketersediaan dan harga dalam masa 1 hari bekerja.
 
 ---
 

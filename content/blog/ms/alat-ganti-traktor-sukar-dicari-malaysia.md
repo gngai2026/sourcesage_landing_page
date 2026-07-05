@@ -23,7 +23,7 @@ faqs:
   - q: "Adakah terdapat pesanan minimum?"
     a: "Tiada pesanan minimum. Kami mengendalikan permintaan satu alat ganti secepat pesanan pukal."
   - q: "Berapa lama penghantaran untuk alat ganti yang sukar dicari?"
-    a: "Biasanya 3-10 hari bekerja bergantung pada lokasi sumber. Kargo udara tersedia untuk permintaan segera."
+    a: "Biasanya 1-2 minggu bergantung pada lokasi sumber. Kargo udara tersedia untuk permintaan segera."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -73,7 +73,7 @@ Mana-mana alat ganti yang tidak tersedia melalui saluran pengedar standard di Ma
 |--------|-------------------|------------|
 | Inventori | Bahan guna habis laris sahaja | Carian pelbagai pembekal di seluruh Asia |
 | Alat ganti dihentikan | Umumnya tidak tersedia | Dicari secara aktif melalui pengedar sekunder |
-| Masa maklum balas | 2-6 minggu untuk barang bukan stok | Semakan ketersediaan 24-48 jam |
+| Masa maklum balas | 2-6 minggu untuk barang bukan stok | Semakan ketersediaan 1-2 hari bekerja |
 | Liputan jenama | Jenama tunggal | [Kubota](/kubota-tractor-parts-malaysia/), [Yanmar](/yanmar-marine-parts-malaysia/), [Massey Ferguson](/massey-ferguson-parts-malaysia/), [John Deere](/john-deere-parts-malaysia/), [Perkins](/perkins-engine-parts-malaysia/), [Zoomlion](/zoomlion-parts-malaysia/) |
 | Sokongan vintaj | Terhad | Rangkaian pengedar sekunder Jepun untuk alat ganti vintaj |
 

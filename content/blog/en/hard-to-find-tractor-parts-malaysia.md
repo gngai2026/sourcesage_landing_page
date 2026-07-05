@@ -23,7 +23,7 @@ faqs:
   - q: "Is there a minimum order?"
     a: "No minimum order. We handle single-part requests as quickly as bulk orders."
   - q: "How long does shipping take for hard-to-find parts?"
-    a: "Typically 3-10 working days depending on the source location. Air freight is available for urgent requests."
+    a: "Typically 1-2 weeks depending on the source location. Air freight is available for urgent requests."
 ---
 
 <!-- 🖼️ IMAGE: HERO
@@ -73,7 +73,7 @@ Any part that is not available through standard dealer channels in Malaysia:
 |--------|-------------|------------|
 | Inventory | High-turnover consumables only | Multi-supplier search across Asia |
 | Discontinued parts | Generally not available | Actively sourced via secondary dealers |
-| Response time | 2-6 weeks for non-stock items | 24-48 hour availability check |
+| Response time | 2-6 weeks for non-stock items | 1-2 business day availability check |
 | Brand coverage | Single brand | [Kubota](/kubota-tractor-parts-malaysia/), [Yanmar](/yanmar-marine-parts-malaysia/), [Massey Ferguson](/massey-ferguson-parts-malaysia/), [John Deere](/john-deere-parts-malaysia/), [Perkins](/perkins-engine-parts-malaysia/), [Zoomlion](/zoomlion-parts-malaysia/) |
 | Vintage support | Limited | Japanese secondary dealer network for vintage parts |
 

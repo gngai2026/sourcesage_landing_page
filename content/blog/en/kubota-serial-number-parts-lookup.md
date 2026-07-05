@@ -134,7 +134,7 @@ When someone contacts us with "I have an old Kubota, don't know the model, need 
 
 4. **Propose two or three matching part numbers** and confirm against a photo of the failed part. If all three candidates use the same part (which happens often with Kubota's cross-model platform approach), we can ship with confidence regardless of which exact model it is.
 
-5. **Ship.** For genuine Kubota parts, we usually confirm within 24 hours. For aftermarket or Japan-sourced parts on hard-to-identify older models, we may need 48–72 hours to confirm availability before quoting.
+5. **Ship.** For genuine Kubota parts, we usually confirm within 1 business day. For aftermarket or Japan-sourced parts on hard-to-identify older models, we may need 2–3 business days to confirm availability before quoting.
 
 ---
 
