@@ -19,7 +19,7 @@ faqs:
   - q: "Are used parts from Japan reliable for an older Kubota tractor?"
     a: "Japanese used farm machinery is among the most well-maintained in the world. Parts from dismantled Japanese tractors are often in better condition than locally-used equivalents — especially for items like clutch assemblies, PTO shafts, and hydraulic components. Every used part we sell is inspected and tested before dispatch."
   - q: "What is the difference between genuine, OEM-compatible, and aftermarket Kubota parts?"
-    a: "Genuine parts are made by Kubota. OEM-compatible parts are made by the same factories that supply Kubota (or to equivalent specification) — often the right choice for wear items at lower cost. Aftermarket covers a wide quality range; we only use suppliers with tracked field failure rates under 2%. For critical engine components, we recommend genuine or verified OEM-compatible."
+    a: "Genuine parts are made by Kubota. OEM-compatible parts are made by the same factories that supply Kubota (or to equivalent specification) — often the right choice for wear items at lower cost. Aftermarket covers a wide quality range; we only use suppliers we have verified for quality. For critical engine components, we recommend genuine or verified OEM-compatible."
   - q: "My Kubota tractor is over 15 years old — is it still worth sourcing parts for?"
     a: "In most cases, yes. A well-maintained older Kubota has significant remaining service life. The economics depend on the repair: if the parts cost is a fraction of the tractor's working value, repair almost always makes sense. We can advise on parts cost before you make that decision."
 ---
@@ -78,7 +78,7 @@ How do we distinguish good aftermarket from bad?
 
 - **Material specification.** A clutch disc for a Kubota M9540 should use a specific friction material grade. We request material certificates.
 - **Dimensional verification.** For critical components — crankshafts, bearing races, hydraulic valves — we measure against a known-good genuine part before stocking.
-- **Track record.** We have a shortlist of suppliers whose failure rates we've tracked over three years. We only reorder from suppliers with a field failure rate under 2%.
+- **Track record.** We have a shortlist of suppliers whose quality we've tracked over three years. We only reorder from suppliers we have verified.
 
 Good-quality aftermarket parts for older Kubota models can cost significantly less than genuine parts, with comparable service life. For a tractor that's already 15 years old, this is often the right economic decision — but it depends entirely on the component and the supplier.
 
@@ -96,7 +96,7 @@ This is where knowing the Kubota parts catalogue deeply pays off. Many Kubota co
 
 When a part is discontinued for a specific older model, we check for compatible equivalents in currently-produced models. If the specification matches, the part will fit. This keeps older tractors on the road using parts that are still actively manufactured.
 
-We maintain an internal cross-reference database covering over 2,000 Kubota part numbers and their compatibility across models.
+We maintain an internal cross-reference database covering Kubota part numbers and their compatibility across models.
 
 ---
 

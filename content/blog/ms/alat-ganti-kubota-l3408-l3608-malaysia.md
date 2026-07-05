@@ -69,7 +69,7 @@ Kedua-dua model ini berkait rapat dan sering dikelirukan:
 
 | Spesifikasi | Kubota L3408 | Kubota L3608 |
 |---|---|---|
-| Enjin | V2203-DI (34HP) | V2203-DI (36HP, talaan lebih tinggi) |
+| Enjin | — | — |
 | Transmisi | 8F/2R Synchro | 8F/2R Synchro |
 | Pacuan | 2WD atau 4WD (akhiran DT) | 4WD standard |
 | Hidraulik | Pusat terbuka | Pusat terbuka |

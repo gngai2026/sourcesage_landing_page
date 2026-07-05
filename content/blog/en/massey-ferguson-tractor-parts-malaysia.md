@@ -129,7 +129,7 @@ A: For high-wear items like gasket sets, piston rings, and seals — yes, from r
 A: In order of priority: fuel tank and fuel system (rust, sediment), injectors and glow plugs, battery and starter, all rubber hoses and belts, and brake fluid. A 3-year-idle Perkins 3.152 usually starts after fuel system clean and fresh filters — they're forgiving engines.
 
 **Q: Can you source parts for the MF375 or MF390?**
-A: Yes — these use the same Perkins 4.248 and 4.248T engines as the 350 series. Parts are interchangeable across much of the engine. Contact us with your model and engine serial number.
+A: The MF375 uses the Perkins 4.248 and 4.248T engines. For the MF390, contact us with your model and engine serial number so we can verify the correct parts.
 
 ---
 

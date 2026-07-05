@@ -397,27 +397,6 @@ const Logistics = ({ t }) => (
   </section>
 )
 
-const RecentParts = ({ t }) => (
-  <section id="recent-parts" className="py-24 bg-bg-alt border-y border-border">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center mb-12">
-        <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">{t.recentParts.label}</h2>
-        <h3 className="text-3xl font-bold text-slate-900">{t.recentParts.heading}</h3>
-        <p className="mt-4 text-muted max-w-2xl mx-auto">{t.recentParts.body}</p>
-      </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 max-w-5xl mx-auto">
-        {t.recentParts.items.map((item, i) => (
-          <div key={i} className="bg-white rounded-2xl p-6 border border-border hover:border-accent/30 hover:shadow-md transition-all">
-            <p className="text-xs font-black text-green-600 uppercase tracking-widest mb-2">{item.time}</p>
-            <p className="font-bold text-slate-900 text-sm mb-2">{item.part}</p>
-            <p className="text-xs text-slate-500 flex items-center gap-1"><MapPin className="w-3 h-3" /> {item.location}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-)
-
 const TrustSection = ({ t }) => (
   <section className="py-24 bg-bg">
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -470,50 +449,6 @@ const EastMalaysiaSection = ({ t }) => (
           <div key={loc.city} className="bg-slate-800 rounded-xl p-4 border border-slate-700">
             <p className="font-bold text-white text-sm mb-1">{loc.city}</p>
             <p className="text-muted text-xs">{loc.note}</p>
-          </div>
-        ))}
-      </div>
-    </div>
-  </section>
-)
-
-const RESCUE_STORIES = [
-  {
-    outcome: 'Sourced in 4 days',
-    label: 'Kubota Combine — Kedah',
-    story: 'Cutter bar main gear sheared mid-harvest. Local dealers quoted 3 weeks. We sourced the part from our Japan network and had it on-site in 4 working days — harvest completed before the rains.',
-  },
-  {
-    outcome: 'Sourced in 48 hours',
-    label: 'Yanmar 4JH — Sandakan',
-    story: 'Raw water pump seized on a commercial fishing vessel. Two local marine shops had nothing. We located the impeller kit and pump housing, and couriered to Sandakan — vessel back at sea in two days.',
-  },
-  {
-    outcome: 'Sourced in 5 days',
-    label: 'Massey Ferguson MF240 — Perak',
-    story: 'Bosch injection pump failed on a plantation tractor. The model was discontinued. We cross-referenced to a compatible reconditioned unit from our secondary network and delivered within the week.',
-  },
-  {
-    outcome: 'Same-day sourced',
-    label: 'Zoomlion RC60 — Kelantan',
-    story: 'Threshing chain snapped on day 2 of harvest season. No local Zoomlion dealer in the region. We located a compatible chain locally and arranged same-day delivery.',
-  },
-]
-
-const RescueStories = ({ t }) => (
-  <section className="py-24 bg-bg border-t border-border">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="text-center mb-12">
-        <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">{t.rescueStories.label}</h2>
-        <h3 className="text-3xl font-bold text-slate-900">{t.rescueStories.heading}</h3>
-        <p className="mt-4 text-muted max-w-2xl mx-auto">{t.rescueStories.body}</p>
-      </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-        {(t.rescueStories.stories || RESCUE_STORIES).map(s => (
-          <div key={s.label} className="bg-white rounded-2xl p-7 border border-border hover:border-accent/20 hover:shadow-md transition-all">
-            <span className="inline-block bg-green-100 text-green-800 text-xs font-black uppercase tracking-widest px-3 py-1 rounded-full mb-4">{s.outcome}</span>
-            <h4 className="font-bold text-slate-900 text-base mb-3">{s.label}</h4>
-            <p className="text-muted leading-relaxed text-sm">{s.story}</p>
           </div>
         ))}
       </div>
@@ -691,9 +626,7 @@ export default function HomePageContent({ t, lang }) {
         <ScrollReveal><PartsTypes t={t} /></ScrollReveal>
         <ScrollReveal><TrustSection t={t} /></ScrollReveal>
         <ScrollReveal><Logistics t={t} /></ScrollReveal>
-        <ScrollReveal><RecentParts t={t} /></ScrollReveal>
         <ScrollReveal><EastMalaysiaSection t={t} /></ScrollReveal>
-        <ScrollReveal><RescueStories t={t} /></ScrollReveal>
         {posts.length > 0 && <ScrollReveal><BlogSection t={t} posts={posts} lang={lang} /></ScrollReveal>}
         <RequestForm t={t.form} />
         <Footer t={t} lang={lang} />

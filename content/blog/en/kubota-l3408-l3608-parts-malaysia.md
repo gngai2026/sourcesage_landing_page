@@ -70,7 +70,7 @@ These two models are closely related and often confused:
 
 | Spec | Kubota L3408 | Kubota L3608 |
 |---|---|---|
-| Engine | V2203-DI (34HP) | V2203-DI (36HP, slightly higher tune) |
+| Engine | — | — |
 | Transmission | 8F/2R Synchro | 8F/2R Synchro |
 | Drive | 2WD or 4WD (DT suffix) | 4WD standard |
 | Hydraulics | Open-centre | Open-centre |

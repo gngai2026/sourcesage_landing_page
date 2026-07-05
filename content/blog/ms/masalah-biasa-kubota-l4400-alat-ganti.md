@@ -140,7 +140,7 @@ Traktor L4400 di Malaysia terlalu panas kerana salah satu daripada tiga sebab:
 2. **Paras penyejuk rendah atau penyejuk tercemar.** Periksa minyak susu (kegagalan gasket kepala) atau kehilangan penyejuk yang tidak dapat dijelaskan.
 3. **Termostat tersekat tertutup.** Mudah didiagnosis, murah dibaiki.
 
-**Alat ganti diperlukan:** Termostat (biasanya di bawah RM50), atau kit siram radiator. Jika ia gasket kepala, set gasket kepala V2403 sedia ada.
+**Alat ganti diperlukan:** Termostat (contact us via WhatsApp for current pricing), atau kit siram radiator. Jika ia gasket kepala, set gasket kepala V2403 sedia ada.
 
 ---
 

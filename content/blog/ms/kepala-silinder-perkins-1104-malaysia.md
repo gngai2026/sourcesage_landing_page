@@ -17,7 +17,7 @@ faqs:
   - q: "Bagaimana hendak tahu jika kepala silinder Perkins 1104 saya retak?"
     a: "Tiga tanda: asap putih dari ekzos, buih dalam radiator semasa enjin hidup, dan kehilangan penyejuk tanpa kebocoran luaran. Ujian tekanan bengkel mengesahkan diagnosis."
   - q: "Berapakah kos kepala silinder Perkins 1104 di Malaysia?"
-    a: "OEM baru dari Perkins: RM 4,000–7,000+. Aftermarket berkualiti (India/Turki): RM 1,800–3,500. Diperbaharui (diuji dengan betul): RM 1,200–2,000. Kos buruh biasanya RM 800–1,500."
+    a: "Hubungi kami melalui WhatsApp untuk harga semasa untuk OEM baru, aftermarket berkualiti, dan pilihan diperbaharui untuk kepala silinder Perkins 1104 anda."
   - q: "Bolehkah kepala Perkins 1104 yang retak dibaiki?"
     a: "Keretakan kecil di kawasan tidak kritikal kadangkala boleh dikimpal oleh kedai mesin pakar. Keretakan antara tempat duduk injap atau ke dalam jaket air hampir selalu memerlukan penggantian."
 ---
@@ -41,12 +41,12 @@ Lengan penyuntik tembaga longgar dari masa ke masa. Gejala: pencairan bahan api 
 
 ## Pilihan Penggantian
 
-| Pilihan | Julat Harga | Masa Utama |
-|--------|-----------|-----------|
-| OEM Perkins asli | RM 4,000–7,000 | 2–4 minggu dari UK |
-| Aftermarket (India/Turki) | RM 1,800–3,500 | 3–7 hari dari Singapura |
-| Diperbaharui (diuji) | RM 1,200–2,000 | 3–5 hari tempatan |
-| SourceSage | Sumber OEM + aftermarket | Semakan 1 hari bekerja |
+| Pilihan | Masa Utama | Tindakan |
+|--------|-----------|----------|
+| OEM Perkins asli | 2–4 minggu dari UK | Hubungi kami melalui WhatsApp untuk harga semasa |
+| Aftermarket (India/Turki) | 3–7 hari dari Singapura | Hubungi kami melalui WhatsApp untuk harga semasa |
+| Diperbaharui (diuji) | 3–5 hari tempatan | Hubungi kami melalui WhatsApp untuk harga semasa |
+| SourceSage | Sumber OEM + aftermarket | Semakan 1 hari bekerja — Hubungi kami melalui WhatsApp |
 
 ---
 

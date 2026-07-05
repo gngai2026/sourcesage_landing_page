@@ -71,7 +71,7 @@ Berdasarkan pertanyaan yang kami kendalikan dari pemilik bot Malaysia dan bengke
 
 ### Enjin & Sistem Penyejukan
 - **Impeler air mentah** (impeler pam air tawar) — harus diganti setiap 300–400 jam. Getah merosot di perairan Malaysia lebih cepat daripada yang dicadangkan manual servis.
-- **Termostat** — termostat melekat menyebabkan terlalu panas. Berharga RM30–80, biasanya tersedia tetapi sering diperoleh salah (suhu bukaan berbeza untuk kegunaan tropika).
+- **Termostat** — termostat melekat menyebabkan terlalu panas. Contact us via WhatsApp for current pricing, biasanya tersedia tetapi sering diperoleh salah (suhu bukaan berbeza untuk kegunaan tropika).
 - **Teras penukar haba** — terhakis dalam persekitaran air masin. Kadar kegagalan tinggi pada bot yang tidak dibilas dengan air tawar selepas setiap penggunaan.
 - **Zink / kit anod** — secara teknikal mudah tetapi sering diabaikan. Ganti setiap 6 bulan di perairan pantai Malaysia.
 

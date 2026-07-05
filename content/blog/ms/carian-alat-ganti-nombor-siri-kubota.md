@@ -100,15 +100,15 @@ Dengan kod model enjin (`V2403` dalam contoh ini), anda boleh:
 
 Kod enjin siri V biasa dan traktor yang terdapat padanya:
 
-| Enjin | Model Traktor Kubota |
-|---|---|
-| V1505 | L2900, L3000, L3010, L3410, B3200 |
-| V1903 | L3430, L3540, MX4700 |
-| V2203 | L3408, L3608, L3000 (sebahagian), L3130 |
-| V2403-M | L3800, L4400, L4200, sebahagian L4740 |
-| V3300-DI | M9000 |
-| V3800-DI-T | M9540DT (baru), M8540 |
-| V6108 | M108S, M110GX |
+|| Enjin | Model Traktor Kubota |
+||---|---|
+|| V1505 | L2900, L3000, L3010, L3410, B3200 |
+|| V1903 | L3430, L3540, MX4700 |
+|| V2203 | L3000 (sebahagian), L3130 |
+|| V2403-M | L3800, L4400, L4200, sebahagian L4740 |
+|| V3300-DI | M9000 |
+|| V3800-DI-T | M9540DT (baru), M8540 |
+|| V6108 | M108S, M110GX |
 
 ### Langkah 3: Gunakan Ciri Fizikal untuk Mengesahkan
 

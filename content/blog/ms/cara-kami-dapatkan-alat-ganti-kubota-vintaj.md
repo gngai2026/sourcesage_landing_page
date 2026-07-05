@@ -19,7 +19,7 @@ faqs:
   - q: "Adakah alat ganti terpakai dari Jepun boleh dipercayai untuk traktor Kubota lama?"
     a: "Jentera pertanian terpakai Jepun adalah antara yang paling terjaga di dunia. Alat ganti dari traktor Jepun yang dibongkar selalunya dalam keadaan lebih baik daripada setara yang digunakan tempatan — terutamanya untuk pemasangan klac, aci PTO, dan komponen hidraulik. Setiap alat ganti terpakai yang kami jual diperiksa dan diuji sebelum dihantar."
   - q: "Apakah perbezaan antara alat ganti Kubota tulen, serasi OEM, dan aftermarket?"
-    a: "Alat ganti tulen dibuat oleh Kubota. Alat ganti serasi OEM dibuat oleh kilang yang sama yang membekalkan Kubota (atau ke spesifikasi setara) — selalunya pilihan tepat untuk barang haus pada kos lebih rendah. Aftermarket meliputi pelbagai kualiti; kami hanya menggunakan pembekal dengan kadar kegagalan lapangan yang dijejak di bawah 2%. Untuk komponen enjin kritikal, kami mengesyorkan tulen atau serasi OEM yang disahkan."
+    a: "Alat ganti tulen dibuat oleh Kubota. Alat ganti serasi OEM dibuat oleh kilang yang sama yang membekalkan Kubota (atau ke spesifikasi setara) — selalunya pilihan tepat untuk barang haus pada kos lebih rendah. Aftermarket meliputi pelbagai kualiti; kami hanya menggunakan pembekal yang telah kami sahkan kualitinya. Untuk komponen enjin kritikal, kami mengesyorkan tulen atau serasi OEM yang disahkan."
   - q: "Traktor Kubota saya berusia lebih 15 tahun — adakah masih berbaloi untuk mendapatkan alat ganti?"
     a: "Dalam kebanyakan kes, ya. Kubota lama yang diselenggara dengan baik mempunyai hayat perkhidmatan yang masih panjang. Ekonomi bergantung pada pembaikan: jika kos alat ganti kurang daripada 30–40% daripada nilai kerja traktor, pembaikan hampir selalu masuk akal. Kami boleh menasihati kos alat ganti sebelum anda membuat keputusan."
 ---
@@ -77,7 +77,7 @@ Bagaimana kami membezakan aftermarket yang baik daripada yang buruk?
 
 - **Spesifikasi bahan.** Cakera klac untuk Kubota M9540 harus menggunakan gred bahan geseran tertentu. Kami meminta sijil bahan.
 - **Pengesahan dimensi.** Untuk komponen kritikal — engkol, lilit galas, injap hidraulik — kami mengukur terhadap alat ganti tulen yang diketahui baik sebelum menyimpan stok.
-- **Rekod prestasi.** Kami mempunyai senarai pendek pembekal yang kadar kegagalannya telah kami jejak selama tiga tahun. Kami hanya pesan semula daripada pembekal dengan kadar kegagalan lapangan di bawah 2%.
+- **Rekod prestasi.** Kami mempunyai senarai pendek pembekal yang kualitinya telah kami jejak selama tiga tahun. Kami hanya pesan semula daripada pembekal yang telah kami sahkan.
 
 Alat ganti aftermarket berkualiti baik untuk model Kubota lama boleh berharga 40–65% lebih murah daripada alat ganti tulen, dengan hayat perkhidmatan yang setanding. Untuk traktor yang sudah berusia 15 tahun, ini selalunya keputusan ekonomi yang tepat — tetapi ia bergantung sepenuhnya pada komponen dan pembekal.
 
@@ -95,7 +95,7 @@ Di sinilah pengetahuan mendalam tentang katalog alat ganti Kubota memberi pulang
 
 Apabila alat ganti dihentikan untuk model lama tertentu, kami menyemak setara yang serasi dalam model yang masih dikeluarkan. Jika spesifikasi sepadan, alat ganti itu akan muat. Ini memastikan traktor lama terus beroperasi menggunakan alat ganti yang masih dikeluarkan secara aktif.
 
-Kami menyelenggara pangkalan data rujukan silang dalaman yang merangkumi lebih 2,000 nombor alat ganti Kubota dan keserasiannya merentasi model.
+Kami menyelenggara pangkalan data rujukan silang dalaman yang merangkumi nombor alat ganti Kubota dan keserasiannya merentasi model.
 
 ---
 

@@ -126,7 +126,7 @@ J: Untuk barang haus tinggi seperti set gasket, cincin omboh, dan seal — ya, d
 J: Mengikut keutamaan: tangki bahan api dan sistem bahan api (karat, sedimen), penyuntik dan palam cahaya, bateri dan penghidup, semua hos dan tali sawat getah, dan minyak brek. Perkins 3.152 yang duduk 3 tahun biasanya hidup selepas pembersihan sistem bahan api dan penapis baru — ia enjin yang pemaaf.
 
 **S: Bolehkah anda mendapatkan alat ganti untuk MF375 atau MF390?**
-J: Ya — ini menggunakan enjin Perkins 4.248 dan 4.248T yang sama dengan siri 350. Alat ganti boleh ditukar ganti merentasi sebahagian besar enjin. Hubungi kami dengan model dan nombor siri enjin anda.
+J: MF375 menggunakan enjin Perkins 4.248 dan 4.248T. Untuk MF390, hubungi kami dengan model dan nombor siri enjin anda supaya kami dapat mengesahkan alat ganti yang betul.
 
 ---
 

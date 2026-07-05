@@ -114,7 +114,7 @@ const FAQS = [
   },
   {
     q: 'How much does a Perkins 1104 cylinder head cost in Malaysia?',
-    a: 'New OEM from Perkins ranges from RM 4,000–7,000+. Quality aftermarket (Indian/Turkish foundries) costs RM 1,800–3,500. Reconditioned heads, if confirmed crack-free and properly tested, run RM 1,200–2,000. Labour for head replacement is typically RM 800–1,500 depending on the workshop.',
+    a: 'Contact us via WhatsApp for current pricing on new OEM, quality aftermarket, and reconditioned options for your Perkins 1104 cylinder head.',
   },
 ]
 
