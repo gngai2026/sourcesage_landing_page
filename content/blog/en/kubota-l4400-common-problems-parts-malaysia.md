@@ -90,7 +90,7 @@ filename: blog-04-inline-kubota-v2403-engine.jpg
 
 ### 1. Hydraulic Lift Not Raising Fully (or Won't Hold)
 
-This is the most common complaint we hear for L4400 tractors in the 8–15 year age range.
+This is the most common issue on L4400 tractors in the 8–15 year age range.
 
 **Causes (in order of likelihood):**
 - Hydraulic oil level low or oil badly degraded

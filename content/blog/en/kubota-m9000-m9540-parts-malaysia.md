@@ -85,7 +85,7 @@ filename: blog-03-inline-kedah-paddy-aerial.jpg
 
 ## The 8 Parts Most Commonly Replaced on M9000/M9540 in Malaysia
 
-Based on our service records and customer enquiries over several years, these are the components that fail most often on these models in Malaysian conditions:
+**Based on common wear patterns on M9000/M9540 in Malaysian conditions, these are the components that fail most often:**
 
 ### 1. Clutch Assembly (Main + PTO)
 
@@ -182,7 +182,7 @@ We'll come back with availability, lead time, and pricing. For genuine Kubota pa
 
 ## A Note on Running Costs
 
-A well-maintained M9000 or M9540 can reliably operate well past 6,000–8,000 hours. The parts cost to keep them running is a fraction of what new equivalent capacity costs today. We see owners who calculate their cost-per-hour and consistently find that maintaining the older machine makes more economic sense than upgrading — especially for seasonal farming operations.
+A well-maintained M9000 or M9540 can reliably operate well past 6,000–8,000 hours. The parts cost to keep them running is a fraction of what new equivalent capacity costs today. For seasonal farming operations, maintaining the older machine often makes more economic sense than upgrading.
 
 If you're facing a major repair decision on a Kubota M9000 or M9540, we're happy to give you an honest assessment of what's involved and whether the economics make sense for your situation.
 

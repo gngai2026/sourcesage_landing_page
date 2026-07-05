@@ -124,7 +124,7 @@ Once you've narrowed it to two or three candidate models, physical measurements 
 
 ## What We Do When a Customer Can't Identify Their Model
 
-When someone contacts us with "I have an old Kubota, don't know the model, need parts for X" — here's our actual process:
+If someone contacts us with "I have an old Kubota, don't know the model, need parts for X" — here's the identification process we follow:
 
 1. **Ask for photos.** Left side of the tractor frame, right side of the transmission/rear, engine serial number pad, and overall front and rear views. Four photos, taken while standing back about 3 metres.
 
@@ -149,7 +149,7 @@ size: 800×500px
 filename: blog-05-inline-photo-identification-process.jpg
 -->
 
-One more thing worth saying: many customers come to us with a specific part name in mind — "I need a new hydraulic pump" or "I need injectors." Half the time, the actual diagnosis is something different and cheaper.
+One more thing worth saying: it's common for a specific part name to come to mind — "I need a new hydraulic pump" or "I need injectors." Half the time, the actual diagnosis is something different and cheaper.
 
 Before ordering major components, tell us the symptom, not the conclusion. "Hydraulic lift is slow and won't hold weight" often turns out to be a seal kit fix, not a pump replacement. "Black smoke and poor power" is usually a blocked air filter or a single injector, not a full set.
 

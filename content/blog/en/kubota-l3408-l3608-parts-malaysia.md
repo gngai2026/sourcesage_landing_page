@@ -141,7 +141,7 @@ Be careful with these:
 
 ## Most Commonly Needed L3408/L3608 Parts in Malaysia
 
-Based on field experience with these models, the parts we supply most often:
+The L3408/L3608 are among our most frequent enquiries for older models, and active sourcing relationships are in place for these parts.
 
 **High frequency (regular wear items):**
 1. Air filter (primary and secondary) — every 150–200 hours in field conditions
