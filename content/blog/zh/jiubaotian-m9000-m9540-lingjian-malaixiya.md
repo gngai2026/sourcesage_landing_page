@@ -7,7 +7,7 @@ meta_description: "久保田M9000和M9540拖拉机零件在马来西亚。V3300-
 meta_keywords: ["久保田m9000零件马来西亚", "久保田m9540零件", "v3800发动机零件马来西亚", "久保田m9000变速箱"]
 content_angle: "Model-specific parts guide — high purchase intent"
 publish_date: "2026-05-02"
-draft: true
+draft: false
 last_updated: "2026-05-02"
 whatsapp_label: "获取M9000/M9540报价"
 whatsapp_prefill: "你好，我需要久保田M9000/M9540零件。部位：___"
