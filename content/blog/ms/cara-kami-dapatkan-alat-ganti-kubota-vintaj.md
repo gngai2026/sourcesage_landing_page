@@ -26,7 +26,7 @@ faqs:
 <!-- 🖼️ IMAGE: HERO
 search: "vintage tractor spare parts warehouse shelves agricultural"
 sources: Unsplash (https://unsplash.com/s/photos/tractor-parts-warehouse) · Pexels (https://www.pexels.com/search/spare%20parts%20warehouse/) · Pixabay (https://pixabay.com/images/search/tractor%20parts/)
-alt: "Barisan alat ganti traktor yang tersusun di rak gudang"
+alt: "Barisan alat ganti traktor yang tersusun di rak"
 caption: "Mendapatkan alat ganti untuk traktor Kubota vintaj bermakna membina rantaian bekalan yang kebanyakan pengedar tidak ada."
 size: 1200×675px (16:9 hero)
 filename: blog-02-hero-parts-warehouse.jpg

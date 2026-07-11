@@ -25,9 +25,9 @@ export const metadata = {
 }
 
 const MODELS = [
-  { model: 'John Deere 5075E', engine: 'JD PowerTech 3.4L 4-cyl', note: 'Most popular modern JD in Malaysian paddy sector' },
+  { model: 'John Deere 5075E', engine: 'JD PowerTech 3024T 2.4L 3-cyl turbo', note: 'Most popular modern JD in Malaysian paddy sector' },
   { model: 'John Deere 5310', engine: 'JD 3029D / 3029T 3.0L', note: 'Widely used in Kedah, Kelantan paddy estates' },
-  { model: 'John Deere 5055E', engine: 'JD PowerTech 3.4L 4-cyl', note: 'Entry-level utility, common in smallholder farms' },
+  { model: 'John Deere 5055E', engine: 'Yanmar 4TNV98 1.6L 4-cyl (2012+) or JD 3029D 2.9L 3-cyl (2007-11)', note: 'Entry-level utility, common in smallholder farms' },
   { model: 'John Deere 6110J / 6115J', engine: 'JD PowerTech 6.8L 6-cyl', note: 'Plantation & large estate workhorse' },
   { model: 'John Deere 5403 / 5415', engine: 'JD 3029D', note: 'Legacy models with large installed base' },
   { model: 'John Deere 2WD Classics (4020, 4040)', engine: 'Various JD engines', note: 'Vintage units still operating in older estates' },
@@ -75,7 +75,7 @@ const FAQS = [
   },
   {
     q: 'How quickly can you deliver?',
-    a: 'For in-stock items, typically 1–3 business days within Peninsular Malaysia, 3–5 days for East Malaysia. Sourced items from Japan or China take 10–21 days. We confirm lead time before you commit.',
+    a: 'For commonly requested items, typically 3–7 business days within Peninsular Malaysia, 5–10 days for East Malaysia. Sourced items from Japan or China take 10–21 days. We confirm lead time before you commit.',
   },
   {
     q: 'Can I send you a photo of the failed part instead of a part number?',
@@ -93,7 +93,6 @@ const jsonLd = {
     description: 'Sourcing hard-to-find John Deere tractor spare parts across Malaysia — 5E, 6J, 5310 series and vintage models.',
     provider: { '@type': 'Organization', name: 'SourceSage.ai', url: 'https://sourcesage.ai' },
     areaServed: { '@type': 'Country', name: 'Malaysia' },
-    offers: { '@type': 'Offer', availability: 'https://schema.org/InStock', priceCurrency: 'MYR' },
   },
   faq: {
     '@context': 'https://schema.org',
@@ -225,7 +224,7 @@ export default function JohnDeerePartsPage() {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
               {[
-                { label: 'Response time', value: '< 24 hours' },
+                { label: 'Response time', value: 'Typically within 24 hours' },
                 { label: 'Models covered', value: '5E, 6J, 5310, 5403+' },
                 { label: 'Coverage', value: 'Peninsular + East MY' },
                 { label: 'Source', value: 'Genuine & OEM-compat.' },
@@ -298,7 +297,7 @@ export default function JohnDeerePartsPage() {
                 <div>
                   <h3 className="font-bold text-slate-900 text-lg mb-2">Know Your JD Engine Code Before You Order</h3>
                   <p className="text-slate-600 text-sm leading-relaxed mb-4">
-                    John Deere uses several engine families across its tractor range: the <strong>3029D/T</strong> (3.0L 3-cylinder) in older 5310 and 5403 models, and the <strong>PowerTech 3.4L</strong> (3029DF/TF) in the 5055E and 5075E. These share some components but injectors, overhaul kits, and cylinder heads are model-specific. Quoting the engine serial number — found on the block near the alternator — ensures you get the right part.
+                    John Deere uses several engine families across its tractor range: the <strong>3029D/T</strong> (3.0L 3-cylinder) in older 5310 and 5403 models. The 5075E uses the <strong>PowerTech 3024T</strong> (2.4L 3-cylinder turbo). The 5055E (2012+) uses a <strong>Yanmar 4TNV98</strong> (1.6L 4-cylinder), while earlier 5055E (2007-11) used the 3029D (2.9L 3-cyl). These share some components but injectors, overhaul kits, and cylinder heads are model-specific. Quoting the engine serial number — found on the block near the alternator — ensures you get the right part.
                   </p>
                   <p className="text-slate-600 text-sm leading-relaxed">
                     The 6J series uses a <strong>6.8L PowerTech 6-cylinder</strong> (6068) engine. Parts for this engine are different again and should not be cross-ordered with the 4-cylinder units.
@@ -355,7 +354,7 @@ export default function JohnDeerePartsPage() {
                 {
                   icon: <MessageCircle className="w-6 h-6 text-green-600" />,
                   title: 'Fast WhatsApp Response',
-                  body: 'Send us a part number, photo, or just describe the failure. We respond with availability and pricing — usually within 24 hours, often the same day.',
+                  body: 'Send us a part number, photo, or just describe the failure. We respond with availability and pricing — usually within 24 hours.',
                 },
               ].map(({ icon, title, body }) => (
                 <div key={title} className="flex gap-4">

@@ -47,7 +47,7 @@ Three main reasons:
 3. **Single-distributor markets** — For brands like Massey Ferguson (the authorised MF distributor channel for Malaysia), you cannot shop around. If they don't have it, the part is effectively unavailable through official channels.
 
 <!-- 🖼️ IMAGE: INLINE
-alt: "Vintage tractor parts warehouse with shelving units, workbench, and storage boxes — vintage and discontinued parts inventory"
+alt: "Vintage tractor parts shelving units, workbench, and storage boxes — vintage and discontinued parts inventory"
 caption: "SourceSage's Japanese secondary dealer network stocks vintage Kubota, Yanmar, and Massey Ferguson parts with no minimum order."
 filename: blog-14-inline-vintage-warehouse.svg
 -->

@@ -24,13 +24,7 @@ export const metadata = {
   },
 }
 
-const COMPATIBLE_MODELS = [
-  { model: 'L3408', engine: 'V1505', note: 'Compact utility tractor — most common L-series in Malaysia' },
-  { model: 'L3608', engine: 'V1505', note: 'Popular in paddy farming' },
-  { model: 'L4400', engine: 'V2403', note: 'Higher horsepower L-series' },
-  { model: 'L4508', engine: 'V2403', note: 'Medium-duty farm tractor' },
-  { model: 'L4708', engine: 'V2403', note: 'Latest L-series model' },
-]
+
 
 const FAQS = [
   {
@@ -177,7 +171,7 @@ export default function Kubota1G772Page() {
                 Genuine Kubota water pump for L3408, L3608, L4400, L4508 and L4708 tractors. Also compatible with Kubota generator sets using V1505 and V2403 engines.
               </p>
               <div className="flex flex-wrap gap-3 mb-8">
-                {['OEM: 1G772-03310', 'Engine: V1505 / V2403', 'L-Series Compatible', 'Malaysia Stock'].map(tag => (
+                {['OEM: 1G772-03310', 'Engine: V1505 / V2403', 'L-Series Compatible'].map(tag => (
                   <span key={tag} className="px-3 py-1.5 bg-slate-100 rounded-lg text-xs font-bold text-slate-600">{tag}</span>
                 ))}
               </div>
@@ -213,8 +207,6 @@ export default function Kubota1G772Page() {
                     { label: 'Brand', value: 'Kubota' },
                     { label: 'Part Type', value: 'Water Pump (Engine Cooling)' },
                     { label: 'Material', value: 'Cast Iron Housing, Steel Impeller' },
-                    { label: 'Compatible Engines', value: 'V1505, V2403' },
-                    { label: 'Replaces', value: '1G772-03311 (superseded)' },
                   ].map(row => (
                     <div key={row.label} className="border-b border-slate-100 pb-3">
                       <p className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">{row.label}</p>
@@ -230,24 +222,7 @@ export default function Kubota1G772Page() {
           </div>
         </section>
 
-        {/* Compatible models */}
-        <section className="py-20 bg-white border-t border-slate-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">Compatible Models</h2>
-              <h3 className="text-3xl font-bold text-slate-900">Tractors Using the 1G772-03310</h3>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
-              {COMPATIBLE_MODELS.map(m => (
-                <div key={m.model} className="bg-slate-50 rounded-2xl p-6 border border-slate-200">
-                  <h4 className="text-lg font-bold text-slate-900 mb-1">{m.model}</h4>
-                  <p className="text-sm font-semibold text-accent mb-2">Engine: {m.engine}</p>
-                  <p className="text-sm text-slate-500">{m.note}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+
 
         {/* OEM cross-reference */}
         <section className="py-20 bg-slate-50 border-t border-slate-100">

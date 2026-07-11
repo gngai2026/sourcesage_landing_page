@@ -86,9 +86,9 @@ const PARTS = [
 
 const ENGINES = [
   { code: 'V1505', use: 'B3030, B3300, generators' },
-  { code: 'V2403', use: 'M5040, M6040, various M-series' },
-  { code: 'V2607', use: 'M7040, M8540, larger M-series' },
-  { code: 'D1105', use: 'B2420, B3030, small L-series' },
+  { code: 'V2403', use: 'M5030, M5400, older utility tractors — NOT M5040/M6040 (those use V3007-DI/V3307-DI)' },
+  { code: 'V2607', use: 'older M-series — NOT M7040/M8540 (those use V3307-DI/V3800-DI-T)' },
+  { code: 'D1105', use: 'B2620, B2320, B2420 — NOT B3030 (that uses V1505)' },
   { code: 'V3800 / V3300', use: 'V3800: M9540, M108S; V3300: M9000' },
   { code: 'D905 / D1005', use: 'B-series sub-compact models' },
 ]

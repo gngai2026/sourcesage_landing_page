@@ -15,7 +15,7 @@ hero_image: "blog-02-hero-parts-warehouse.jpg"
 related_page: "/kubota-tractor-parts-malaysia"
 faqs:
   - q: "How long does it take to source vintage Kubota parts in Malaysia?"
-    a: "For parts we have in stock or can source locally, typically 1–3 business days. For items sourced from Japan's secondary market, expect 2–4 weeks by air freight. We confirm availability and lead time before you commit — there are no surprises on timing."
+    a: "For items sourced from Japan's secondary market, expect 2–4 weeks by air freight. For parts we can source locally, typically 1–3 business days. We confirm availability and lead time before you commit — there are no surprises on timing."
   - q: "Are used parts from Japan reliable for an older Kubota tractor?"
     a: "Japanese used farm machinery is among the most well-maintained in the world. Parts from dismantled Japanese tractors are often in better condition than locally-used equivalents — especially for items like clutch assemblies, PTO shafts, and hydraulic components. Every used part we sell is inspected and tested before dispatch."
   - q: "What is the difference between genuine, OEM-compatible, and aftermarket Kubota parts?"
@@ -27,7 +27,7 @@ faqs:
 <!-- 🖼️ IMAGE: HERO
 search: "vintage tractor spare parts warehouse shelves agricultural"
 sources: Unsplash (https://unsplash.com/s/photos/tractor-parts-warehouse) · Pexels (https://www.pexels.com/search/spare%20parts%20warehouse/) · Pixabay (https://pixabay.com/images/search/tractor%20parts/)
-alt: "Rows of tractor spare parts organised on warehouse shelving"
+alt: "Rows of tractor spare parts organised on shelving"
 caption: "Sourcing parts for vintage Kubota tractors means building a supply chain most dealers don't have."
 size: 1200×675px (16:9 hero)
 filename: blog-02-hero-parts-warehouse.jpg

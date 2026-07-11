@@ -95,7 +95,6 @@ const jsonLd = {
     description: '在马来西亚采购珀金斯柴油发动机零件 — A3.152、A4.248、AD4.203、1004和403系列，适用于Massey Ferguson、JCB及其他珀金斯动力设备。',
     provider: { '@type': 'Organization', name: 'SourceSage.ai', url: 'https://sourcesage.ai' },
     areaServed: { '@type': 'Country', name: 'Malaysia' },
-    offers: { '@type': 'Offer', availability: 'https://schema.org/InStock', priceCurrency: 'MYR' },
   },
   faq: {
     '@context': 'https://schema.org',

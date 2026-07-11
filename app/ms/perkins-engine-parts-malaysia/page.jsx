@@ -95,7 +95,6 @@ const jsonLd = {
     description: 'Perolehan alat ganti enjin diesel Perkins di Malaysia — A3.152, A4.248, AD4.203, 1004 dan siri 403 untuk Massey Ferguson, JCB dan peralatan berkuasa Perkins lain.',
     provider: { '@type': 'Organization', name: 'SourceSage.ai', url: 'https://sourcesage.ai' },
     areaServed: { '@type': 'Country', name: 'Malaysia' },
-    offers: { '@type': 'Offer', availability: 'https://schema.org/InStock', priceCurrency: 'MYR' },
   },
   faq: {
     '@context': 'https://schema.org',

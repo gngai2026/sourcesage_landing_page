@@ -24,14 +24,7 @@ export const metadata = {
   },
 }
 
-const COMPATIBLE_MODELS = [
-  { model: '5045E', engine: 'PowerTech 2.9L', note: 'Compact utility tractor — common in Malaysian smallholdings' },
-  { model: '5050E', engine: 'PowerTech 2.9L', note: 'Popular 50hp utility tractor' },
-  { model: '5075E', engine: 'PowerTech 3.0L', note: 'Higher horsepower E-series' },
-  { model: '5090E', engine: 'PowerTech 3.0L', note: 'Largest E-series model' },
-  { model: '6090J', engine: 'PowerTech 4.5L', note: 'Mid-range J-series' },
-  { model: '6110J', engine: 'PowerTech 4.5L', note: 'Popular plantation tractor' },
-]
+
 
 const FAQS = [
   {
@@ -214,7 +207,6 @@ export default function JohnDeereRE525561Page() {
                     { label: 'Brand', value: 'John Deere' },
                     { label: 'Part Type', value: 'Fuel Filter Assembly' },
                     { label: 'Filtration', value: '10 micron primary filtration' },
-                    { label: 'Compatible Tractors', value: '5E Series, 6J Series' },
                     { label: 'Replaces', value: 'RE524676, RE522273' },
                   ].map(row => (
                     <div key={row.label} className="border-b border-slate-100 pb-3">
@@ -231,24 +223,7 @@ export default function JohnDeereRE525561Page() {
           </div>
         </section>
 
-        {/* Compatible models */}
-        <section className="py-20 bg-white border-t border-slate-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">Compatible Models</h2>
-              <h3 className="text-3xl font-bold text-slate-900">Tractors Using the RE525561</h3>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5 max-w-5xl mx-auto">
-              {COMPATIBLE_MODELS.map(m => (
-                <div key={m.model} className="bg-slate-50 rounded-2xl p-6 border border-slate-200">
-                  <h4 className="text-lg font-bold text-slate-900 mb-1">{m.model}</h4>
-                  <p className="text-xs font-bold text-accent mb-2">Engine: {m.engine}</p>
-                  <p className="text-sm text-slate-500">{m.note}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+
 
         {/* OEM cross-reference */}
         <section className="py-20 bg-slate-50 border-t border-slate-100">

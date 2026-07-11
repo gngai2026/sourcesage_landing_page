@@ -24,12 +24,7 @@ export const metadata = {
   },
 }
 
-const COMPATIBLE_MODELS = [
-  { model: '3TNV88', engine: '3TNV88', note: 'Compact diesel — used in generators, mini-excavators, compact tractors' },
-  { model: '4TNV98', engine: '4TNV98', note: 'Industrial diesel — common in tractors and construction equipment' },
-  { model: '3TNV82A', engine: '3TNV82A', note: 'Smaller TNV series — cross-check fitment' },
-  { model: '4TNV84T', engine: '4TNV84T', note: 'Turbo variant — shares injector family' },
-]
+
 
 const FAQS = [
   {
@@ -212,8 +207,6 @@ export default function Yanmar129004Page() {
                     { label: 'Brand', value: 'Yanmar' },
                     { label: 'Part Type', value: 'Fuel Injector Nozzle' },
                     { label: 'Opening Pressure', value: '19.6 MPa (200 kgf/cm²)' },
-                    { label: 'Compatible Engines', value: '3TNV88, 4TNV98' },
-                    { label: 'Replaces', value: '129004-18000, 129907-18010' },
                   ].map(row => (
                     <div key={row.label} className="border-b border-slate-100 pb-3">
                       <p className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">{row.label}</p>
@@ -229,24 +222,7 @@ export default function Yanmar129004Page() {
           </div>
         </section>
 
-        {/* Compatible models */}
-        <section className="py-20 bg-white border-t border-slate-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">Compatible Models</h2>
-              <h3 className="text-3xl font-bold text-slate-900">Engines Using the 129004-18010</h3>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5 max-w-4xl mx-auto">
-              {COMPATIBLE_MODELS.map(m => (
-                <div key={m.model} className="bg-slate-50 rounded-2xl p-6 border border-slate-200">
-                  <h4 className="text-lg font-bold text-slate-900 mb-1">{m.model}</h4>
-                  <p className="text-xs font-bold text-accent mb-2">Engine: {m.engine}</p>
-                  <p className="text-sm text-slate-500">{m.note}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+
 
         {/* OEM cross-reference */}
         <section className="py-20 bg-slate-50 border-t border-slate-100">
@@ -291,7 +267,7 @@ export default function Yanmar129004Page() {
               <h3 className="text-3xl font-bold text-slate-900 mb-8">Source the 129004-18010 Through SourceSage</h3>
               <div className="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-8">
                 {[
-                  { icon: <MapPin className="w-6 h-6 text-green-500" />, title: 'Malaysia Stock', body: 'Injectors in stock at our Malaysia warehouse — ready for same-week dispatch.' },
+                  { icon: <MapPin className="w-6 h-6 text-green-500" />, title: 'Malaysia Sourced', body: 'Injectors sourced for Malaysia delivery — ready for dispatch within the week.' },
                   { icon: <Gauge className="w-6 h-6 text-accent" />, title: 'Tested & Certified', body: 'Every injector is verified for correct opening pressure and spray pattern before shipping.' },
                   { icon: <Wrench className="w-6 h-6 text-orange-500" />, title: 'Set Pricing Available', body: 'Order complete injector sets at discounted pricing for workshops and fleet operators.' },
                 ].map(card => (

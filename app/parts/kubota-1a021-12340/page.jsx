@@ -5,11 +5,11 @@ import LangSwitcher from '../../../components/LangSwitcher'
 
 export const metadata = {
   title: 'Kubota 1A021-12340 — Oil Filter for L & M Series | SourceSage',
-  description: 'Kubota 1A021-12340 genuine oil filter. Fits L3408, L3608, L4400, M9000, M9540 and more. OEM spec, in-stock Malaysia. Fast delivery nationwide.',
+  description: 'Kubota 1A021-12340 genuine oil filter. Fits L3408, L3608, L4400, M9000, M9540 and more. OEM spec, Malaysia-sourced. Fast delivery nationwide.',
   alternates: { canonical: '/parts/kubota-1a021-12340/', languages: { 'en': 'https://sourcesage.ai/parts/kubota-1a021-12340/', 'x-default': 'https://sourcesage.ai/parts/kubota-1a021-12340/' } },
   openGraph: {
     title: 'Kubota 1A021-12340 — Oil Filter for L & M Series | SourceSage',
-    description: 'Kubota 1A021-12340 genuine oil filter. Fits L3408, L3608, L4400, M9000, M9540 and more. OEM spec, in-stock Malaysia.',
+    description: 'Kubota 1A021-12340 genuine oil filter. Fits L3408, L3608, L4400, M9000, M9540 and more. OEM spec, Malaysia-sourced.',
     url: 'https://sourcesage.ai/parts/kubota-1a021-12340/',
     siteName: 'SourceSage.ai',
     type: 'website',
@@ -24,17 +24,7 @@ export const metadata = {
   },
 }
 
-const COMPATIBLE_MODELS = [
-  { model: 'L3408', engine: 'V1505', note: 'Compact utility tractor — most common L-series in Malaysia' },
-  { model: 'L3608', engine: 'V1505', note: 'Popular in paddy farming' },
-  { model: 'L4400', engine: 'V2403', note: 'Higher horsepower L-series' },
-  { model: 'L4508', engine: 'V2403', note: 'Medium-duty farm tractor' },
-  { model: 'L4708', engine: 'V2403', note: 'Heavy-duty compact tractor' },
-  { model: 'M9000', engine: 'V3300-DI', note: 'Commercial plantation workhorse' },
-  { model: 'M9540', engine: 'V3800', note: 'Higher HP M-series' },
-  { model: 'B2420', engine: 'D1105', note: 'Sub-compact utility tractor' },
-  { model: 'B3030', engine: 'D1105', note: 'Popular sub-compact model' },
-]
+
 
 const FAQS = [
   {
@@ -55,7 +45,7 @@ const FAQS = [
   },
   {
     q: 'How fast can you deliver this filter in Malaysia?',
-    a: 'The 1A021-12340 filter is commonly in stock and ships within 1–3 working days across Peninsular Malaysia and 3–7 working days to East Malaysia (Sabah & Sarawak). Same-day delivery is available within the Ipoh/Kinta Valley area. Emergency courier options are available for urgent breakdowns.',
+    a: 'The 1A021-12340 filter is commonly requested and ships within 3–7 working days across Peninsular Malaysia and 5–10 working days to East Malaysia (Sabah & Sarawak).',
   },
 ]
 
@@ -65,7 +55,6 @@ export default function KubotaOilFilterPage() {
     name: 'Kubota 1A021-12340 Oil Filter',
     description: 'Genuine Kubota OEM oil filter compatible with L3408, L3608, L4400, M9000, M9540 and other Kubota tractor models. Thread: 3/4"-16 UNF.',
     brand: { '@type': 'Brand', name: 'Kubota' },
-    offers: { '@type': 'Offer', priceCurrency: 'MYR', availability: 'https://schema.org/InStock', itemCondition: 'https://schema.org/NewCondition', url: 'https://sourcesage.ai/parts/kubota-1a021-12340/' },
   }
 
   const faqSchema = {
@@ -151,9 +140,6 @@ export default function KubotaOilFilterPage() {
                   >
                     <MessageCircle className="w-6 h-6" /> Request This Part
                   </WhatsappCTA>
-                  <a href="#compatible" className="border-2 border-slate-500 text-slate-300 hover:bg-slate-800 px-8 py-4 rounded-xl font-bold text-lg transition-all text-center">
-                    View Compatible Models
-                  </a>
                 </div>
               </div>
             </div>
@@ -165,24 +151,7 @@ export default function KubotaOilFilterPage() {
                 <div><div className="text-xl font-black text-orange-600">OEM</div><div className="text-xs text-slate-500 font-semibold mt-1">Genuine Kubota</div></div>
                 <div><div className="text-xl font-black text-orange-600">3/4"-16</div><div className="text-xs text-slate-500 font-semibold mt-1">Thread Size (UNF)</div></div>
                 <div><div className="text-xl font-black text-orange-600">9 Models</div><div className="text-xs text-slate-500 font-semibold mt-1">Compatible</div></div>
-                <div><div className="text-xl font-black text-orange-600">In Stock</div><div className="text-xs text-slate-500 font-semibold mt-1">Malaysia</div></div>
-              </div>
-            </div>
-          </section>
-
-          <section id="compatible" className="py-16 bg-slate-50">
-            <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-              <div className="mb-2 text-xs font-bold uppercase tracking-widest text-orange-600">Compatible Models</div>
-              <h2 className="text-3xl font-extrabold text-slate-900 mb-4">Tractors That Use This Oil Filter</h2>
-              <p className="text-slate-500 mb-10 max-w-2xl">The 1A021-12340 is the standard oil filter across Kubota's L-series and M-series tractor range in Malaysia, covering both V1505 and V2403 / V3800 engine families.</p>
-              <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
-                {COMPATIBLE_MODELS.map(m => (
-                  <div key={m.model} className="bg-white rounded-2xl border border-slate-100 p-6 shadow-sm">
-                    <div className="font-black text-lg text-slate-900 mb-1">{m.model}</div>
-                    <div className="text-xs font-bold text-orange-600 uppercase tracking-wide mb-2">{m.engine}</div>
-                    <p className="text-slate-500 text-sm">{m.note}</p>
-                  </div>
-                ))}
+                <div><div className="text-xl font-black text-orange-600">Sourced</div><div className="text-xs text-slate-500 font-semibold mt-1">Malaysia</div></div>
               </div>
             </div>
           </section>

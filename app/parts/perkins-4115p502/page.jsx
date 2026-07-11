@@ -24,11 +24,7 @@ export const metadata = {
   },
 }
 
-const COMPATIBLE_MODELS = [
-  { model: '1104C-44', engine: '1104C-44', note: '4.4L industrial diesel — common in generators, tractors, and construction' },
-  { model: '1104C-44T', engine: '1104C-44T', note: 'Turbocharged variant of the 1104C-44' },
-  { model: '1104C-44TA', engine: '1104C-44TA', note: 'Turbocharged and aftercooled — higher output' },
-]
+
 
 const FAQS = [
   {
@@ -211,8 +207,6 @@ export default function Perkins4115Page() {
                     { label: 'Brand', value: 'Perkins' },
                     { label: 'Part Type', value: 'Cylinder Head Gasket (MLS)' },
                     { label: 'Material', value: 'Multi-Layer Steel' },
-                    { label: 'Compatible Engines', value: '1104C-44, 1104C-44T, 1104C-44TA' },
-                    { label: 'Replaces', value: '4115P501, 4115P500' },
                   ].map(row => (
                     <div key={row.label} className="border-b border-slate-100 pb-3">
                       <p className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">{row.label}</p>
@@ -228,24 +222,7 @@ export default function Perkins4115Page() {
           </div>
         </section>
 
-        {/* Compatible models */}
-        <section className="py-20 bg-white border-t border-slate-100">
-          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div className="text-center mb-12">
-              <h2 className="text-sm font-black text-accent uppercase tracking-[0.3em] mb-4">Compatible Models</h2>
-              <h3 className="text-3xl font-bold text-slate-900">Engines Using the 4115P502</h3>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-3 gap-5 max-w-4xl mx-auto">
-              {COMPATIBLE_MODELS.map(m => (
-                <div key={m.model} className="bg-slate-50 rounded-2xl p-6 border border-slate-200">
-                  <h4 className="text-lg font-bold text-slate-900 mb-1">{m.model}</h4>
-                  <p className="text-xs font-bold text-accent mb-2">Engine: {m.engine}</p>
-                  <p className="text-sm text-slate-500">{m.note}</p>
-                </div>
-              ))}
-            </div>
-          </div>
-        </section>
+
 
         {/* OEM cross-reference */}
         <section className="py-20 bg-slate-50 border-t border-slate-100">

@@ -32,13 +32,13 @@ const APPLICATIONS = [
   },
   {
     category: 'Generators',
-    models: 'Kubota GL6500, GL7000, J Series, SQ Series gen sets',
+    models: 'Kubota J Series, SQ Series gen sets',
     note: 'Industrial standby and prime power — extended runtime drives overhaul intervals',
   },
   {
     category: 'Compact Tractors',
-    models: 'Kubota L3240, L3540, L4240, B3030, B3300',
-    note: 'V1505 powers many L and B-series tractors in Malaysian smallholder farming',
+    models: 'Kubota B3030, B3300',
+    note: 'V1505 powers B-series compact tractors (B3030, B3300) in Malaysian smallholder farming',
   },
   {
     category: 'OEM Equipment',
@@ -234,7 +234,7 @@ export default function KubotaV1505Page() {
                 <span className="text-accent">Mini-Excavators. Generators. Compact Tractors.</span>
               </h1>
               <p className="text-xl text-slate-600 leading-relaxed mb-8">
-                Overhaul kits, cylinder heads, injectors, water pumps and oil pumps for the Kubota V1505 — the 1.5L four-cylinder diesel powering KX41/KX71 mini-excavators, GL-series generators, and L/B-series tractors across Malaysia.
+                Overhaul kits, cylinder heads, injectors, water pumps and oil pumps for the Kubota V1505 — the 1.5L four-cylinder diesel powering KX41/KX71 mini-excavators, GL-series generators, and B-series tractors across Malaysia.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <Link
@@ -337,7 +337,7 @@ export default function KubotaV1505Page() {
                   <h4 className="font-bold text-slate-900 text-lg mb-3 flex items-center gap-2">
                     <ShieldCheck className="w-5 h-5 text-accent" /> Injectors
                   </h4>
-                  <p className="text-slate-600 leading-relaxed">Source OEM Denso where possible, especially at normal hours — spray pattern consistency matters. Aftermarket injectors are available but quality varies significantly.</p>
+                  <p className="text-slate-600 leading-relaxed">Source OEM Denso where possible. Spray pattern consistency matters. Aftermarket injectors are available but quality varies significantly.</p>
                 </div>
                 <div className="bg-slate-50 rounded-2xl p-7 border border-slate-200">
                   <h4 className="font-bold text-slate-900 text-lg mb-3 flex items-center gap-2">

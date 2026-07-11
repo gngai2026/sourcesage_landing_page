@@ -27,7 +27,7 @@ faqs:
 <!-- 🖼️ IMAGE: HERO
 search: "vintage tractor spare parts warehouse shelves agricultural"
 sources: Unsplash (https://unsplash.com/s/photos/tractor-parts-warehouse) · Pexels (https://www.pexels.com/search/spare%20parts%20warehouse/) · Pixabay (https://pixabay.com/images/search/tractor%20parts/)
-alt: "仓库货架上排列整齐的拖拉机备件"
+alt: "货架上排列整齐的拖拉机备件"
 caption: "为老款久保田拖拉机采购配件意味着构建大多数经销商不具备的供应链。"
 size: 1200×675px (16:9 hero)
 filename: blog-02-hero-parts-warehouse.jpg

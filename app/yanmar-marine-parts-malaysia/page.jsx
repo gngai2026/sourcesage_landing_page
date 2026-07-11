@@ -26,7 +26,7 @@ export const metadata = {
 
 const MODELS = [
   { series: '1GM10', hp: '9 hp', use: 'Sailboats, small dinghies' },
-  { series: '2GM20', hp: '18 hp', use: 'Sailboats, small workboats' },
+  { series: '2GM20', hp: '20 hp', use: 'Sailboats, small workboats' },
   { series: '3GM30', hp: '27 hp', use: 'Mid-size sailboats' },
   { series: '3JH5', hp: '39 hp', use: 'Fishing boats, patrol craft' },
   { series: '4JH4', hp: '54 hp', use: 'Commercial workboats, ferries' },
@@ -46,7 +46,7 @@ const PARTS = [
 const FAQS = [
   {
     q: 'How long does sourcing Yanmar marine parts take in Malaysia?',
-    a: 'For common series (3JH, 4JH, 2GM) we typically confirm availability within 24 hours. Parts in stock in Malaysia ship same or next day. Sourced-from-Japan parts usually arrive in 5–10 working days. Emergency cases get priority handling.',
+    a: 'For common series (3JH, 4JH, 2GM) we typically confirm availability within 24 hours. Malaysia-sourced parts typically ship in 2–5 business days. Sourced-from-Japan parts usually arrive in 5–10 working days.',
   },
   {
     q: 'Do you supply Yanmar OEM parts or aftermarket?',
@@ -291,7 +291,7 @@ export default function YanmarMarinePage() {
                   Boat operators in Kota Kinabalu, Sandakan, Tawau, Miri, Sibu, and Kuching face a real problem: West Malaysia-centric distributors rarely stock parts for ageing Yanmar engines, and shipping delays cost you fishing days.
                 </p>
                 <p className="text-slate-300 leading-relaxed mb-8">
-                  We treat East Malaysia as a priority market. Parts confirmed in stock ship within 24 hours. Japan-sourced parts arrive in 5–10 working days. We communicate in English, Malay, and Mandarin.
+                  We treat East Malaysia as a priority market. Malaysia-sourced parts typically ship in 2–5 business days. Japan-sourced parts arrive in 5–10 working days. We communicate in English, Malay, and Mandarin.
                 </p>
                 <WhatsappCTA
                   label="yanmar-east-malaysia"

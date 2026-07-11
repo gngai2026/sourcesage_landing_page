@@ -47,7 +47,7 @@ Tiga sebab utama:
 3. **Pasaran pengedar tunggal** — Untuk jenama seperti Massey Ferguson (All-Planters adalah pengedar tunggal untuk Malaysia), anda tidak boleh membeli-belah. Jika mereka tidak memilikinya, alat ganti itu secara efektif tidak tersedia melalui saluran rasmi.
 
 <!-- 🖼️ IMAGE: INLINE
-alt: "Gudang alat ganti traktor vintaj dengan rak, meja kerja, dan kotak simpanan — inventori alat ganti vintaj dan dihentikan"
+alt: "Rak alat ganti traktor vintaj dengan meja kerja, dan kotak simpanan — inventori alat ganti vintaj dan dihentikan"
 caption: "Rangkaian pengedar sekunder Jepun SourceSage menyimpan alat ganti vintaj Kubota, Yanmar, dan Massey Ferguson tanpa pesanan minimum."
 filename: blog-14-inline-vintage-warehouse.svg
 -->

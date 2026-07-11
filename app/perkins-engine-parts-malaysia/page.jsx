@@ -25,9 +25,9 @@ export const metadata = {
 }
 
 const ENGINES = [
-  { model: 'Perkins A3.152 / AD3.152', displacement: '2.5L 3-cyl', note: 'Classic MF135, MF148, MF165 — widely used in older Malaysian estates' },
-  { model: 'Perkins A4.248', displacement: '4.1L 4-cyl', note: 'MF240, MF350, MF375 — the most common Perkins in Malaysia today' },
-  { model: 'Perkins AD4.203', displacement: '3.3L 4-cyl Turbo', note: 'MF385, MF390 — plantation and heavier-duty applications' },
+  { model: 'Perkins A3.152 / AD3.152', displacement: '2.5L 3-cyl', note: 'MF135, MF148 — earlier models; MF165 uses Perkins A4.236' },
+  { model: 'Perkins A4.248', displacement: '4.1L 4-cyl', note: 'NOT MF240 (uses A4.203), MF350/MF375 (use A4.236) — verify before ordering' },
+  { model: 'Perkins AD4.203', displacement: '3.3L 4-cyl Turbo', note: 'MF390 — NOT MF385 (uses A4.236 NA)' },
   { model: 'Perkins 1004-4 / 1004-4T', displacement: '4.4L 4-cyl', note: 'MF6100 series, JCB 3CX/4CX, various construction equipment' },
   { model: 'Perkins 1006-6', displacement: '6.6L 6-cyl', note: 'Larger MF and Landini tractors, industrial applications' },
   { model: 'Perkins 403 / 404 Series', displacement: '1.5–2.2L 3/4-cyl', note: 'Compact equipment: JCB mini, Caterpillar skid steers, generators' },
@@ -72,7 +72,7 @@ const PARTS = [
 const FAQS = [
   {
     q: 'Which Perkins engine is in my Massey Ferguson tractor?',
-    a: 'The most common: MF240/350/375 use the A4.248 (naturally aspirated 4-cylinder); MF385/390 use the AD4.203 (turbocharged). Older MF135/165 models use the A3.152/AD3.152 (3-cylinder). Confirm by reading the engine serial plate on the block — it will show the engine family code.',
+    a: 'The most common Perkins engines differ by model: MF240 uses the A4.203 (3.3L 4-cyl); MF350, MF375, MF385 use the A4.236 (3.9L 4-cyl); MF135/165 also use the A4.236, not the A3.152. MF390 may use the AD4.203 turbo. Confirm by reading the engine serial plate on the block — it will show the engine family code.',
   },
   {
     q: 'Are Perkins parts for older models (A4.248, AD3.152) still available in Malaysia?',
@@ -102,7 +102,6 @@ const jsonLd = {
     description: 'Sourcing Perkins diesel engine parts across Malaysia — A3.152, A4.248, AD4.203, 1004 and 403 series for Massey Ferguson, JCB and other Perkins-powered equipment.',
     provider: { '@type': 'Organization', name: 'SourceSage.ai', url: 'https://sourcesage.ai' },
     areaServed: { '@type': 'Country', name: 'Malaysia' },
-    offers: { '@type': 'Offer', availability: 'https://schema.org/InStock', priceCurrency: 'MYR' },
   },
   faq: {
     '@context': 'https://schema.org',
